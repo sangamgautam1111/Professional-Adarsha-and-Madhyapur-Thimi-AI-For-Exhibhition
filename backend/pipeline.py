@@ -1,0 +1,1 @@
+#main pipeline of ai for exhibhition cli will be designed here 
