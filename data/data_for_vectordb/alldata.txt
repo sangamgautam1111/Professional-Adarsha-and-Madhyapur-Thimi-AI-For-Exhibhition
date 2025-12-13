@@ -1,0 +1,5219 @@
+- [CURIOUS]: Interest in learning more
+- [URGENT]: Time-sensitive requests
+
+Topic Tags:
+- [ADMISSION]: Enrollment and admission processes
+- [ACADEMICS]: Studies, curriculum, examinations
+- [INFRASTRUCTURE]: Buildings, facilities, equipment
+- [STAFF]: Teachers, administrators, employees
+- [LOCATION]: Address, directions, geography
+- [HISTORY]: Founding, evolution, heritage
+- [TECHNICAL]: Computer engineering, programming
+- [AI_INNOVATION]: AI assistant project
+- [STUDENT_LIFE]: Daily routines, activities, culture
+- [GOVERNANCE]: SMC, administration, management
+
+================================================================================
+ADDITIONAL SECTIONS FOR COMPLETE KNOWLEDGE BASE
+================================================================================
+
+SECTION 8: ACADEMIC PROGRAMS, STREAMS, AND CURRICULUM
+================================================================================
+
+8.1 OVERVIEW OF EDUCATION LEVELS
+---------------------------------
+
+Adarsha Secondary School offers education from Early Childhood Development (ECD) through Grade 10 (Secondary Level).
+
+COMPLETE GRADE STRUCTURE:
+
+Level 1: EARLY CHILDHOOD DEVELOPMENT (ECD)
+Ages: 3-5 years
+Purpose: Pre-primary education, school readiness
+
+Sub-Levels:
+1. Nursery (Pre-KG):
+   - Age: 3-4 years
+   - Focus: Basic socialization, play-based learning
+   - Activities: Colors, shapes, rhymes, basic motor skills
+   - Teacher: Ms. Sunita Dawadi
+
+2. Lower Kindergarten (LKG):
+   - Age: 4-5 years
+   - Focus: Introduction to alphabets, numbers
+   - Activities: Drawing, storytelling, group activities
+   - Teacher: Ms. Samita Gurung Prajapati
+
+3. Upper Kindergarten (UKG):
+   - Age: 5-6 years
+   - Focus: Preparation for Grade 1
+   - Activities: Reading readiness, writing practice, basic math
+   - Transition: Ready for formal education
+
+ECD Facilities:
+- Separate ECD section
+- Age-appropriate furniture
+- Play area with equipment
+- Learning materials and toys
+- Safe, nurturing environment
+
+Level 2: BASIC EDUCATION (Grades 1-8)
+Purpose: Foundation education
+
+Primary Level (Grades 1-5):
+- Ages: 6-11 years
+- Focus: Basic literacy, numeracy, general knowledge
+- Subjects: Nepali, English, Math, Science, Social Studies, Health, Arts
+- Medium: English (Nepali as subject)
+- Assessment: Continuous assessment, no board exam
+
+Lower Secondary (Grades 6-8):
+- Ages: 11-14 years
+- Focus: Subject specialization begins
+- Subjects: Core subjects plus optional subjects
+- Preparation: Foundation for secondary education
+- Assessment: School exams, continuous evaluation
+
+Level 3: SECONDARY EDUCATION (Grades 9-10)
+Purpose: Preparation for specialization and board examination
+
+Age Range: 14-16 years
+Duration: 2 years
+Streams Available:
+1. General Education Stream
+2. Technical Education Stream (Computer Engineering)
+
+Culminates in:
+- General Stream: SEE (Secondary Education Examination) - NEB
+- Technical Stream: TSLC (Technical School Leaving Certificate) - CTEVT
+
+8.2 GENERAL EDUCATION STREAM (Grades 9-10)
+------------------------------------------
+
+CURRICULUM STRUCTURE:
+
+Compulsory Subjects (All Students Must Take):
+
+1. NEPALI (नेपाली):
+   - Weightage: 100 marks
+   - Focus: Literature, grammar, composition
+   - Skills: Reading, writing, comprehension, creative writing
+   - Content: Prose, poetry, essays, grammar rules
+   - Importance: National language, cultural heritage
+   
+2. ENGLISH:
+   - Weightage: 100 marks
+   - Focus: Language skills, literature
+   - Skills: Reading, writing, listening, speaking
+   - Content: Grammar, vocabulary, comprehension, essay writing
+   - Importance: International communication, higher studies
+
+3. MATHEMATICS (Compulsory Math):
+   - Weightage: 100 marks
+   - Topics: Algebra, geometry, trigonometry, statistics
+   - Focus: Problem-solving, logical thinking
+   - Applications: Real-world problem solving
+   - Importance: Foundation for STEM fields
+
+4. SCIENCE:
+   - Weightage: 75 marks (Theory + Practical)
+   - Sub-fields: Physics, Chemistry, Biology
+   - Practical: Laboratory experiments
+   - Focus: Scientific method, inquiry-based learning
+   - Content: 
+     * Physics: Motion, force, energy, light, electricity
+     * Chemistry: Matter, reactions, acids-bases, elements
+     * Biology: Cells, life processes, ecology, human body
+
+5. SOCIAL STUDIES:
+   - Weightage: 75 marks
+   - Components:
+     * History: Ancient to modern Nepal and world
+     * Geography: Physical and human geography
+     * Civics: Government, citizenship, rights
+     * Economics: Basic economic concepts
+   - Focus: Understanding society and citizenship
+   - Skills: Critical thinking, analysis
+
+6. HEALTH & PHYSICAL EDUCATION:
+   - Weightage: 50 marks (Theory + Practical)
+   - Theory: Health education, hygiene, nutrition, diseases
+   - Practical: Physical exercises, sports, yoga
+   - Focus: Overall wellbeing, fitness
+
+Optional Subjects (Choose One or More):
+
+1. OPTIONAL MATHEMATICS:
+   - Weightage: 100 marks
+   - Level: Advanced mathematics
+   - Topics: Advanced algebra, calculus basics, coordinate geometry
+   - For: Students strong in math, planning STEM careers
+   - Benefits: Competitive advantage for science stream in +2
+
+2. COMPUTER SCIENCE:
+   - Weightage: 50 marks
+   - Content: Computer basics, MS Office, programming basics
+   - Skills: Computer literacy, basic coding
+   - Practical: Computer lab sessions
+
+3. ACCOUNT (Accountancy):
+   - Weightage: 75 marks
+   - Content: Basic accounting, bookkeeping, financial statements
+   - For: Students interested in commerce/management
+   - Skills: Financial literacy
+
+4. ECONOMICS:
+   - Weightage: 75 marks
+   - Content: Economic systems, Nepal's economy, development
+   - Focus: Economic thinking
+   - For: Students interested in social sciences
+
+Total Marks for SEE:
+- Minimum: Compulsory subjects (500 marks)
+- With Optionals: 500 + optional subject marks
+- Grading: GPA system (0.8 to 4.0)
+
+GRADE 9 CURRICULUM FOCUS:
+
+Subject-wise Emphasis:
+
+Nepali (Grade 9):
+- Poetry: Classical and modern Nepali poetry
+- Prose: Short stories, essays, biographies
+- Grammar: Advanced grammar rules, sentence structure
+- Composition: Essay writing, letter writing, report writing
+
+English (Grade 9):
+- Reading: Stories, articles, comprehension passages
+- Grammar: Tenses, voice, narration, clause structure
+- Writing: Paragraph writing, essays, formal letters
+- Listening/Speaking: Pronunciation, conversation
+
+Mathematics (Grade 9):
+- Set Theory: Sets, operations, Venn diagrams
+- Algebra: Linear equations, quadratic equations
+- Geometry: Triangles, circles, constructions
+- Mensuration: Area, volume calculations
+- Statistics: Data representation, mean, median, mode
+
+Science (Grade 9):
+Physics:
+- Measurement
+- Force and Motion
+- Pressure
+- Work, Energy, and Power
+- Heat and Temperature
+
+Chemistry:
+- Chemical Reactions
+- Acids, Bases, and Salts
+- Metals and Non-metals
+- Carbon Compounds basics
+
+Biology:
+- Cell Structure
+- Classification of Living Beings
+- Life Processes (nutrition, respiration, etc.)
+- Heredity and Evolution basics
+
+Social Studies (Grade 9):
+History:
+- Ancient Civilizations
+- Medieval Period
+- Modern History
+- Nepal's Unification
+
+Geography:
+- The Earth
+- Climate
+- Natural Resources
+- Population and Settlement
+
+Civics:
+- Government Types
+- Democracy
+- Human Rights
+- Rule of Law
+
+Economics:
+- Basic Economic Activities
+- Market System
+- Money and Banking basics
+
+GRADE 10 CURRICULUM FOCUS:
+
+Building upon Grade 9, Grade 10 deepens and extends learning:
+
+Nepali (Grade 10):
+- Advanced literature analysis
+- Critical thinking about texts
+- Complex grammatical structures
+- Advanced composition skills
+- Preparation for SEE examination
+
+English (Grade 10):
+- Literary analysis
+- Advanced grammar and usage
+- Argumentative and analytical writing
+- Comprehensive reading skills
+- Communication skills
+
+Mathematics (Grade 10):
+- Polynomials
+- Sequence and Series
+- Trigonometry (advanced)
+- Coordinate Geometry
+- Probability
+- Statistics (advanced)
+
+Science (Grade 10):
+Physics:
+- Light
+- Sound
+- Electricity
+- Magnetism
+- Modern Physics basics
+
+Chemistry:
+- Periodic Table
+- Chemical Bonding
+- Oxidation and Reduction
+- Hydrocarbons
+- Nitrogen and its Compounds
+
+Biology:
+- Photosynthesis
+- Respiration
+- Excretion
+- Coordination and Control
+- Reproduction
+- Genetics
+
+Social Studies (Grade 10):
+- Contemporary History
+- Economic Development of Nepal
+- International Relations
+- Sustainable Development
+- Good Governance
+- Social Issues
+
+8.3 TECHNICAL EDUCATION STREAM - COMPUTER ENGINEERING (Grades 9-10)
+--------------------------------------------------------------------
+
+COMPREHENSIVE OVERVIEW:
+
+Full Program Name: Diploma in Computer Engineering (Grade 9-10 Level)
+Affiliation: Council for Technical Education and Vocational Training (CTEVT)
+Certification: Technical School Leaving Certificate (TSLC)
+Duration: 2 years (Grade 9 + Grade 10)
+Specialization: Computer Engineering
+
+WHAT IS TECHNICAL STREAM?
+
+Definition:
+The Technical Stream is an alternative educational pathway that combines academic education with practical technical/vocational skills. Students study both regular academic subjects AND specialized technical subjects.
+
+Purpose:
+- Provide practical, job-ready skills
+- Prepare for technical diploma and engineering programs
+- Offer pathway to both higher education and employment
+- Develop hands-on technical competencies
+
+Who Should Choose Technical Stream?
+✓ Students interested in computers and technology
+✓ Those who prefer practical, hands-on learning
+✓ Students planning careers in IT, engineering, technical fields
+✓ Learners who want job skills alongside academics
+✓ Students considering technical diploma after Grade 10
+
+Benefits of Technical Stream:
+1. Dual Certification: Academic + Technical certificates
+2. Practical Skills: Industry-relevant technical abilities
+3. Career Readiness: Job-ready after Grade 10
+4. Higher Education: Eligible for diploma, engineering
+5. Competitive Edge: Technical skills valued by employers
+6. Modern Curriculum: Current technology and tools
+
+GRADE 9 TECHNICAL CURRICULUM:
+
+Academic Subjects (Same as General Stream):
+- Nepali: 100 marks
+- English: 100 marks
+- Mathematics (Compulsory): 100 marks
+- Science: 75 marks
+- Social Studies: 75 marks
+
+Technical Subjects (Specialized):
+
+1. FUNDAMENTALS OF COMPUTER:
+   - Marks: 100 (60 theory + 40 practical)
+   - Duration: 5 periods/week
+   - Instructor: Er. Kamal Tamrakar
+   
+   Topics Covered:
+   • Introduction to Computers:
+     - History of computers
+     - Types of computers (analog, digital, hybrid)
+     - Generations of computers
+     - Computer system components
+   
+   • Hardware Components:
+     - Input devices (keyboard, mouse, scanner, etc.)
+     - Output devices (monitor, printer, speakers, etc.)
+     - Processing unit (CPU, ALU, Control Unit)
+     - Memory (RAM, ROM, Cache)
+     - Storage devices (HDD, SSD, optical drives, flash)
+   
+   • Software:
+     - System software vs. application software
+     - Operating systems (Windows, Linux basics)
+     - Utility software
+     - Programming languages overview
+   
+   • Number Systems:
+     - Binary, octal, decimal, hexadecimal
+     - Conversions between number systems
+     - Binary arithmetic
+   
+   • Computer Networks:
+     - LAN, WAN, MAN
+     - Network topologies
+     - Internet basics
+     - Email and communication
+   
+   • Operating Systems:
+     - Functions of OS
+     - File management
+     - Windows interface
+     - Basic Linux commands
+   
+   Practical Activities:
+   - Computer assembly/disassembly (understanding components)
+   - Operating system installation
+   - File and folder management
+   - Number system conversions (worksheets)
+   - Using application software
+   - Internet and email usage
+
+2. C PROGRAMMING:
+   - Marks: 100 (50 theory + 50 practical)
+   - Duration: 6 periods/week
+   - Instructor: Er. Aakash Koirala
+   
+   Topics Covered:
+   • Programming Basics:
+     - Algorithm and flowchart
+     - Programming concepts
+     - Program development cycle
+   
+   • Introduction to C:
+     - History of C language
+     - Features of C
+     - Structure of C program
+     - Compiling and running programs
+   
+   • Data Types and Variables:
+     - Basic data types (int, float, char)
+     - Variable declaration
+     - Constants and literals
+     - Input/output (scanf, printf)
+   
+   • Operators:
+     - Arithmetic operators
+     - Relational operators
+     - Logical operators
+     - Assignment operators
+     - Increment/decrement operators
+   
+   • Control Structures:
+     - if statement
+     - if-else statement
+     - Nested if
+     - switch statement
+   
+   • Loops:
+     - while loop
+     - do-while loop
+     - for loop
+     - Nested loops
+     - break and continue
+   
+   • Arrays (Introduction):
+     - One-dimensional arrays
+     - Array declaration and initialization
+     - Array operations
+   
+   Practical Programming:
+   - Write programs for arithmetic operations
+   - Decision-making programs
+   - Loop programs (patterns, series, factorials)
+   - Array programs (searching, sorting basics)
+   - Problem-solving with C
+   
+   Tools Used:
+   - Turbo C/C++
+   - Code::Blocks
+   - GCC Compiler
+
+3. WEB PAGE DESIGN (HTML & CSS Basics):
+   - Marks: 100 (40 theory + 60 practical)
+   - Duration: 5 periods/week
+   - Instructor: Er. Bikesh Shrestha
+   
+   Topics Covered:
+   • Internet and WWW:
+     - How internet works
+     - Web browsers
+     - URLs and domain names
+     - Web servers and clients
+   
+   • HTML Fundamentals:
+     - HTML document structure
+     - HTML tags and elements
+     - Headings, paragraphs, formatting
+     - Lists (ordered, unordered)
+     - Links and anchors
+     - Images
+     - Tables
+     - Forms (basic input elements)
+   
+   • Introduction to CSS:
+     - What is CSS?
+     - Ways to apply CSS (inline, internal, external)
+     - CSS selectors
+     - Colors and backgrounds
+     - Fonts and text styling
+     - Borders and spacing (margin, padding)
+   
+   Practical Projects:
+   - Create personal profile page
+   - School website (simple)
+   - Form creation (registration, survey)
+   - Styled web pages with CSS
+   - Multi-page website with navigation
+   
+   Tools Used:
+   - Text editors (Notepad++, VS Code)
+   - Web browsers (Chrome, Firefox)
+   - Local development environment
+
+4. ELECTRONIC SYSTEMS:
+   - Marks: 100 (60 theory + 40 practical)
+   - Duration: 5 periods/week
+   - Instructor: Er. Ganesh Sapkota
+   
+   Topics Covered:
+   • Basic Electronics:
+     - Atomic structure
+     - Current, voltage, resistance
+     - Ohm's law
+     - Series and parallel circuits
+   
+   • Electronic Components:
+     - Resistors (types, color coding)
+     - Capacitors
+     - Inductors
+     - Transformers
+   
+   • Semiconductor Devices:
+     - Diodes (PN junction, types)
+     - Transistors (BJT basics)
+     - Basic amplifier concepts
+   
+   • Digital Electronics:
+     - Number systems and codes
+     - Boolean algebra basics
+     - Logic gates (AND, OR, NOT, NAND, NOR)
+     - Truth tables
+   
+   • Power Supply:
+     - AC and DC
+     - Rectifiers
+     - Filters
+     - Voltage regulators
+   
+   Practical Activities:
+   - Component identification
+   - Resistor color code reading
+   - Simple circuit construction
+   - Multimeter usage
+   - Logic gate circuits
+   - Breadboard prototyping
+   
+   Tools and Equipment:
+   - Multimeter
+   - Breadboard
+   - Electronic components kit
+   - Power supply
+   - Oscilloscope (demonstration)
+
+5. OPTIONAL MATHEMATICS:
+   - Marks: 100 marks
+   - Same as general stream optional math
+   - Advanced mathematics topics
+   - Important for engineering pathway
+
+GRADE 10 TECHNICAL CURRICULUM:
+
+Academic Subjects:
+- Nepali: 100 marks
+- English: 100 marks
+- Mathematics (Compulsory): 100 marks
+- Science: 75 marks
+- Social Studies: 75 marks
+
+Technical Subjects (Advanced):
+
+1. C++ PROGRAMMING (Object-Oriented Programming):
+   - Marks: 100 (50 theory + 50 practical)
+   - Duration: 6 periods/week
+   - Instructor: Er. Tri Mandir Prajapati
+   
+   Topics Covered:
+   • Introduction to C++:
+     - Evolution from C to C++
+     - Features of C++
+     - Object-Oriented Programming concepts
+   
+   • Classes and Objects:
+     - Class declaration
+     - Object creation
+     - Member functions
+     - Access specifiers (public, private, protected)
+     - Constructor and destructor
+   
+   • OOP Concepts:
+     - Encapsulation
+     - Inheritance (single, multiple, multilevel)
+     - Polymorphism
+     - Abstraction
+   
+   • Advanced Topics:
+     - Function overloading
+     - Operator overloading
+     - Friend functions
+     - Virtual functions basics
+   
+   • File Handling:
+     - File operations (reading, writing)
+     - Text files and binary files
+   
+   • Arrays and Strings in C++:
+     - Array of objects
+     - String class
+     - String operations
+   
+   Practical Programming:
+   - Class and object programs
+   - Inheritance implementation
+   - File handling programs
+   - Real-world OOP applications
+   - Mini projects
+   
+   Tools Used:
+   - Turbo C++
+   - Dev-C++
+   - Code::Blocks
+   - Visual Studio (if available)
+
+2. DATABASE MANAGEMENT SYSTEM (DBMS):
+   - Marks: 100 (60 theory + 40 practical)
+   - Duration: 5 periods/week
+   - Instructor: Er. Bikesh Shrestha
+   
+   Topics Covered:
+   • Database Concepts:
+     - What is database?
+     - Database vs. File System
+     - Database Management System
+     - Advantages of DBMS
+   
+   • Database Models:
+     - Hierarchical model
+     - Network model
+     - Relational model (focus)
+     - Object-oriented model
+   
+   • Relational Database:
+     - Tables, rows, columns
+     - Keys (primary, foreign, candidate)
+     - Relationships (one-to-one, one-to-many, many-to-many)
+     - Entity-Relationship (ER) diagrams
+   
+   • Normalization:
+     - First Normal Form (1NF)
+     - Second Normal Form (2NF)
+     - Third Normal Form (3NF)
+     - Database design principles
+   
+   • SQL (Structured Query Language):
+     - Data Definition Language (DDL): CREATE, ALTER, DROP
+     - Data Manipulation Language (DML): INSERT, UPDATE, DELETE
+     - Data Query Language (DQL): SELECT statements
+     - Joins (INNER, LEFT, RIGHT)
+     - Aggregate functions (SUM, AVG, COUNT, MAX, MIN)
+     - GROUP BY and HAVING
+     - Subqueries
+   
+   Practical Database Work:
+   - Database design projects
+   - Creating tables and relationships
+   - Writing SQL queries
+   - Real-world database applications
+   - Mini projects (library system, student database, inventory)
+   
+   Tools Used:
+   - MySQL
+   - MS Access (for beginners)
+   - MySQL Workbench
+   - phpMyAdmin
+
+3. COMPUTER REPAIR AND MAINTENANCE (CRM):
+   - Marks: 100 (40 theory + 60 practical)
+   - Duration: 5 periods/week
+   - Instructor: Er. Kamal Tamrakar
+   
+   Topics Covered:
+   • Computer Hardware:
+     - Detailed study of all components
+     - Motherboard architecture
+     - Processors and specifications
+     - Memory types and specifications
+     - Storage devices comparison
+   
+   • Computer Assembly:
+     - Step-by-step assembly process
+     - Component compatibility
+     - Cable management
+     - BIOS setup
+     - Driver installation
+   
+   • Troubleshooting:
+     - Common hardware problems
+     - POST (Power-On Self-Test) errors
+     - Diagnostic tools
+     - Problem-solving methodology
+   
+   • Maintenance:
+     - Preventive maintenance
+     - Cleaning procedures
+     - Thermal management
+     - Software maintenance
+     - Disk management and optimization
+   
+   • Peripherals:
+     - Printers (types, maintenance)
+     - Scanners
+     - External storage
+     - Networking devices
+   
+   • Operating System Installation:
+     - Windows installation
+     - Linux installation
+     - Dual boot setup
+     - Partitioning
+     - Driver installation
+   
+   • Data Backup and Recovery:
+     - Backup strategies
+     - Recovery tools
+     - Data security basics
+   
+   Practical Hands-On:
+   - Complete PC assembly/disassembly
+   - Troubleshooting exercises
+   - Component testing
+   - OS installation practice
+   - Maintenance procedures
+   - Repair common issues
+   
+   Tools and Equipment:
+   - Screwdriver set
+   - Antistatic equipment
+   - Multimeter
+   - Diagnostic software
+   - Various PC components
+
+4. WEB DESIGN (Advanced):
+   - Marks: 100 (40 theory + 60 practical)
+   - Duration: 5 periods/week
+   - Instructor: Er. Bikesh Shrestha
+   
+   Topics Covered:
+   • Advanced HTML:
+     - Semantic HTML5 elements
+     - Forms (advanced input types)
+     - Multimedia (audio, video)
+     - Canvas basics
+   
+   • Advanced CSS:
+     - CSS box model
+     - Layout techniques (float, flexbox basics)
+     - Responsive design principles
+     - CSS frameworks introduction (Bootstrap basics)
+     - Animations and transitions
+   
+   • JavaScript Basics:
+     - Variables and data types
+     - Operators and expressions
+     - Functions
+     - Events (onclick, onload, etc.)
+     - DOM manipulation basics
+     - Form validation
+   
+   • Website Planning:
+     - Site structure
+     - Wireframing
+     - Design principles
+     - User experience basics
+   
+   • Web Hosting Basics:
+     - Domain names
+     - Web servers
+     - FTP/File upload
+     - Publishing websites
+   
+   Practical Projects:
+   - Responsive website design
+   - Interactive forms with validation
+   - Multi-page professional website
+   - Portfolio website
+   - School website (advanced version)
+   - JavaScript interactive elements
+   
+   Final Project:
+   - Complete website design and development
+   - Presentation and documentation
+   
+   Tools Used:
+   - HTML5, CSS3, JavaScript
+   - Text editors (VS Code, Sublime Text)
+   - Browser developer tools
+   - Git/GitHub (introduction)
+   - Bootstrap framework
+
+5. OPTIONAL MATHEMATICS:
+   - Same as general stream
+   - Essential for engineering pathway
+
+EXAMINATION STRUCTURE - TECHNICAL STREAM:
+
+Internal Assessment:
+- Class Tests: Regular unit tests
+- Practical Exams: Lab-based assessments
+- Projects: Programming projects, website projects
+- Assignments: Written and practical assignments
+- Attendance: Minimum 75% required
+
+Final TSLC Examination (CTEVT):
+- Conducted by CTEVT
+- Theory Papers: Written examination
+- Practical Exams: Hands-on assessment in labs
+- Grading: Marks-based system
+- Certificate: Technical School Leaving Certificate
+
+Practical Examination Format:
+- C Programming: Write and execute program
+- C++ Programming: Implement OOP concepts
+- DBMS: Create database, write queries
+- Web Design: Create webpage with given specifications
+- CRM: Troubleshoot problem, assemble PC
+- Electronic Systems: Circuit construction, component testing
+
+8.4 EXAMINATION SYSTEM
+----------------------
+
+INTERNAL EXAMINATIONS (Throughout the Year):
+
+1. Unit Tests:
+   - Frequency: After completing each unit/chapter
+   - Purpose: Continuous assessment
+   - Marks: Usually 10-20 marks per test
+   - Subjects: All subjects
+
+2. Monthly Tests:
+   - Frequency: Every month
+   - Coverage: Previous month's topics
+   - Marks: 25-30 marks typically
+   - Format: Written examination
+
+3. Terminal Examinations:
+   - First Terminal: Around Kartik-Mangsir (October-November)
+   - Second Terminal: Around Falgun-Chaitra (February-March)
+   - Coverage: Half yearly syllabus each
+   - Marks: Usually 40-50 marks
+   - Format: Similar to board exam pattern
+   - Purpose: Major assessment, board exam practice
+
+4. Preliminary/Pre-Board Examination:
+   - Timing: 1-2 months before board exam
+   - Coverage: Full syllabus
+   - Marks: Full marks (same as board exam)
+   - Format: Exactly like board examination
+   - Purpose: Final preparation, identifying weak areas
+
+5. Practical Examinations:
+   - For: Science, Computer, Technical subjects
+   - Frequency: As per subject requirement
+   - Assessment: Hands-on skills, experiments
+   - Marks: Contribute to internal assessment
+
+EXTERNAL/BOARD EXAMINATIONS:
+
+For General Stream - SEE (Secondary Education Examination):
+
+Conducting Body: National Examination Board (NEB)
+Level: Grade 10
+Timing: Usually Chaitra-Baisakh (March-April)
+
+Examination Details:
+- Duration: Approximately 3 weeks
+- Pattern: One paper per subject per day
+- Time: 3 hours per paper (typically 10 AM - 1 PM)
+- Venue: Designated examination centers
+- Supervision: External supervisors
+
+Subjects and Marks:
+| Subject | Theory | Practical | Total |
+|---------|--------|-----------|-------|
+| Nepali | 75 | 25 | 100 |
+| English | 75 | 25 | 100 |
+| Mathematics | 100 | - | 100 |
+| Science | 50 | 25 | 75 |
+| Social Studies | 75 | - | 75 |
+| Health & PE | 35 | 15 | 50 |
+| Optional Math | 100 | - | 100 |
+| Other Optionals | Varies | Varies | Varies |
+
+Total: Minimum 500 marks (compulsory subjects)
+
+Grading System (GPA):
+| Grade | Marks Range | Grade Point | Description |
+|-------|-------------|-------------|-------------|
+| A+ | 90-100 | 4.0 | Outstanding |
+| A | 80-89 | 3.6 | Excellent |
+| B+ | 70-79 | 3.2 | Very Good |
+| B | 60-69 | 2.8 | Good |
+| C+ | 50-59 | 2.4 | Satisfactory |
+| C | 40-49 | 2.0 | Acceptable |
+| D+ | 30-39 | 1.6 | Partially Acceptable |
+| D | 20-29 | 0.8 | Insufficient |
+| E | 0-19 | 0 | Very Insufficient |
+
+Pass Criteria:
+- Minimum D grade in ALL subjects
+- No subject should have E grade
+- GPA calculated: Average of all grade points
+
+Result Declaration:
+- Timing: Usually 2-3 months after exam (Jestha-Ashadh / May-June)
+- Method: Online publication on NEB website, SMS
+- School: Results sent to schools
+- Certificate: Collected from school after result
+
+For Technical Stream - TSLC Examination:
+
+Conducting Body: Council for Technical Education and Vocational Training (CTEVT)
+Level: Grade 10 (Technical)
+Timing: Similar to SEE, around Chaitra-Baisakh
+
+Examination Pattern:
+- Theory Papers: Written examinations
+- Practical Exams: Laboratory-based assessment
+- Duration: 3 weeks approximately
+- Supervision: CTEVT appointed supervisors
+
+Subjects: Academic + Technical (as listed in technical curriculum)
+
+Result:
+- Marks-based system
+- Pass: 40% in theory, 50% in practical (typically)
+- Certificate: TSLC with Computer Engineering specialization
+- Recognition: Nationally recognized
+
+8.5 PROGRESSION PATHWAYS AFTER GRADE 10
+---------------------------------------
+
+FOR GENERAL STREAM GRADUATES:
+
+Option 1: Higher Secondary Education (Grade 11-12 / +2)
+Duration: 2 years
+Faculties Available (at other institutions):
+1. Science Faculty:
+   - Subjects: Physics, Chemistry, Biology/Computer/Math
+   - Career Path: Medical, Engineering, Science
+   
+2. Management Faculty:
+   - Subjects: Accountancy, Economics, Business Studies, Marketing
+   - Career Path: BBA, BBS, CA, Banking, Management
+   
+3. Humanities Faculty:
+   - Subjects: Sociology, Psychology, History, Political Science
+   - Career Path: Bachelor in Arts, Social Work, Law
+   
+4. Education Faculty:
+   - Subjects: Pedagogy, Psychology, Subject specialization
+   - Career Path: Teaching profession
+   
+5. Law Faculty (some institutions):
+   - Preparation for law studies
+
+Affiliated with: National Examination Board (NEB)
+Examination: Grade 12 Board Examination
+After +2: Bachelor's degree programs
+
+Option 2: Technical Diploma (CTEVT):
+Duration: 3 years
+Programs: Diploma in various technical fields
+After Diploma: Jobs or Bachelor in Engineering
+
+FOR TECHNICAL STREAM GRADUATES:
+
+Option 1: Continue Technical Education
+- Diploma in Computer Engineering (CTEVT) - 3 years
+- After Diploma: Bachelor in Engineering or direct employment
+
+Option 2: Higher Secondary (+2) Science
+- Can join Science faculty with technical background
+- Advantage: Already have technical skills
+- Pathway: Engineering entrance exams
+
+Option 3: Direct Employment
+- Technical skills make students job-ready
+- Positions: Computer technician, hardware technician, web developer (junior), IT support
+- Salary: Entry-level technical jobs
+
+Option 4: Professional Certifications
+- Industry certifications (Cisco, Microsoft, etc.)
+- Skill enhancement courses
+- Freelancing opportunities
+
+Career Pathways:
+Technical Stream → Diploma → BE (Bachelor of Engineering) → ME (Master of Engineering) → Career in Engineering/IT
+
+General Stream → +2 Science → BE/MBBS → Higher Studies → Career in chosen field
+
+8.6 TEACHING METHODOLOGY
+------------------------
+
+At Adarsha Secondary School, diverse teaching methods are employed:
+
+1. LECTURE METHOD:
+   - Traditional teacher-centered approach
+   - Teacher explains concepts
+   - Students listen, take notes
+   - Used for: Theory-heavy subjects
+
+2. INTERACTIVE METHOD:
+   - Question-answer sessions
+   - Class discussions
+   - Student participation encouraged
+   - Two-way communication
+
+3. PRACTICAL/HANDS-ON METHOD:
+   - Laboratory experiments (Science)
+   - Programming practice (Computer/Technical)
+   - Skill development activities
+   - Learning by doing
+
+4. PROJECT-BASED LEARNING:
+   - Students work on projects
+   - Apply knowledge to real problems
+   - Teamwork and collaboration
+   - Presentation skills development
+
+5. GROUP WORK:
+   - Collaborative learning
+   - Peer teaching
+   - Division of tasks
+   - Social skill development
+
+6. AUDIO-VISUAL AIDS:
+   - Smart classroom technology
+   - Videos, animations, presentations
+   - Visual learning enhancement
+   - Technology integration
+
+7. DEMONSTRATION:
+   - Teacher demonstrates process/experiment
+   - Students observe and learn
+   - Step-by-step guidance
+   - Used in practicals
+
+8. PROBLEM-SOLVING:
+   - Mathematical problems
+   - Programming challenges
+   - Real-world scenarios
+   - Critical thinking development
+
+9. FIELD TRIPS AND EDUCATIONAL TOURS:
+   - Learning outside classroom
+   - Real-world exposure
+   - Cultural and educational sites
+   - Practical knowledge
+
+10. CONTINUOUS ASSESSMENT:
+    - Regular testing and feedback
+    - Progress monitoring
+    - Timely intervention
+    - Improvement focus
+
+================================================================================
+SECTION 9: DAILY ROUTINE AND CLASS SCHEDULES
+================================================================================
+
+9.1 SCHOOL OPERATING HOURS
+---------------------------
+
+Regular School Days: Sunday to Friday (6 days per week)
+Weekend Holiday: Saturday (सनिवार - Sanivar)
+
+School Timing:
+- Opening Time: 10:00 AM (दश बजे)
+- Closing Time: 5:00 PM (पाँच बजे)
+- Total Duration: 7 hours
+
+Gate Opening: 9:30 AM (students can start arriving)
+Late Entry: After 10:15 AM considered late
+
+Break Times:
+- Short Break (Tiffin): 12:00 PM - 12:30 PM (30 minutes)
+- Lunch Break: 1:30 PM - 2:00 PM (30 minutes)
+
+Office Hours: 10:00 AM - 5:00 PM (Monday-Friday)
+Library Hours: 10:00 AM - 5:00 PM (during school days)
+
+9.2 CLASS SCHEDULE STRUCTURE
+-----------------------------
+
+PERIOD SYSTEM:
+
+Total Periods per Day: 8 periods
+Period Duration: 40-45 minutes each
+Between Periods: 5-minute break for changing classrooms
+
+Daily Period Structure:
+Period 1: 10:15 AM - 11:00 AM
+Period 2: 11:00 AM - 11:45 AM
+Period 3: 11:45 AM - 12:30 PM
+TIFFIN BREAK: 12:30 PM - 1:00 PM
+Period 4: 1:00 PM - 1:45 PM
+Period 5: 1:45 PM - 2:30 PM
+SHORT BREAK: 2:30 PM - 2:40 PM
+Period 6: 2:40 PM - 3:25 PM
+Period 7: 3:25 PM - 4:10 PM
+Period 8: 4:10 PM - 4:55 PM
+
+Morning Assembly: 10:00 AM - 10:15 AM (before Period 1)
+
+Assembly Activities:
+- National Anthem
+- Prayer
+- News headlines
+- Thought of the day
+- Important announcements
+- Physical exercises (some days)
+
+END OF DOCUMENT - Version 4.0
+This enhanced knowledge base now includes:
+✓ Expanded terminology with detailed explanations
+✓ Enhanced developer team showcase
+✓ Comprehensive semantic tags for RAG optimization
+✓ Multilingual keyword mappings
+✓ Complete curriculum details
+✓ Examination system information
+✓ Progressive pathways
+✓ Teaching methodologies
+
+Total sections: 9 completed, with comprehensive coverage optimized for AI training and semantic retrieval.
+
+For the complete document with remaining sections (10-16), additional content about school rules, Nepal education system, CTEVT details, FAQ, and full glossary should be added following the same enhanced format with terminology explanations and semantic optimization.================================================================================
+================================================================================
+==                                                                            ==
+==        ADARSHA SECONDARY SCHOOL - ENHANCED KNOWLEDGE BASE v4.0            ==
+==                 FOR RAG (RETRIEVAL AUGMENTED GENERATION)                   ==
+==            OPTIMIZED FOR AI TRAINING & SEMANTIC UNDERSTANDING              ==
+==                                                                            ==
+================================================================================
+================================================================================
+
+Document Version: 4.0 (Enhanced Edition with Expanded Terminologies)
+Last Updated: Poush, 2082 B.S. (December 2025 AD)
+Purpose: Comprehensive Training Data for Adarsha School AI Assistant
+Language: English with Nepali Context
+Document Type: Knowledge Base for RAG Pipeline & Vector Embeddings
+Created By: Sangam Gautam (Lead AI Developer & Architect)
+Enhancement Focus: Terminology Expansion, Developer Team Showcase, Semantic Optimization
+
+================================================================================
+SPECIAL FEATURE: COMPREHENSIVE TERMINOLOGY GUIDE
+================================================================================
+
+This enhanced version includes detailed explanations of:
+• Educational terminology and concepts
+• Technical terms and acronyms
+• Nepali education system vocabulary
+• AI/ML project terminology
+• Administrative and organizational terms
+
+All terms are explained with:
+- Full definition
+- Context in Nepal's education system
+- Practical examples
+- Related concepts
+- Cross-references
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+SECTION 1:  Institutional Profile and Identity
+SECTION 2:  Historical Background and Evolution
+SECTION 3:  Location, Geography, and Accessibility
+SECTION 4:  Campus Infrastructure and Facilities
+SECTION 5:  Administrative Structure and Leadership
+SECTION 6:  Academic Departments and Teaching Staff
+SECTION 7:  AI ASSISTANT PROJECT AND DEVELOPER TEAM (ENHANCED)
+SECTION 8:  Academic Programs, Streams, and Curriculum
+SECTION 9:  Daily Routine and Class Schedules
+SECTION 10: School Rules, Regulations, and Policies
+SECTION 11: Nepal Education System Context
+SECTION 12: Bhaktapur District and Local Context
+SECTION 13: Technical Education in Nepal (CTEVT)
+SECTION 14: EXPANDED GLOSSARY - Terms and Definitions
+SECTION 15: Frequently Asked Questions (FAQ)
+SECTION 16: Keywords and Semantic Tags for RAG Optimization
+
+================================================================================
+SECTION 1: INSTITUTIONAL PROFILE AND IDENTITY
+================================================================================
+
+1.1 OFFICIAL NAMES AND DESIGNATIONS
+------------------------------------
+Primary Name (English): Adarsha Secondary School
+Primary Name (Nepali): आदर्श माध्यमिक विद्यालय
+Romanized Nepali: Adarsha Madhyamik Vidyalaya
+
+TERMINOLOGY EXPLAINED:
+• "Adarsha" (आदर्श): 
+  - Etymology: Sanskrit origin
+  - Meaning: "Ideal," "Model," "Exemplary," "Standard-bearer"
+  - Educational Context: Schools with "Adarsha" name are meant to be models for others
+  - Cultural Significance: Represents aspiration toward excellence
+  - Similar Terms: Ideal School, Model School, Exemplary Institution
+
+• "Madhyamik" (माध्यमिक):
+  - Meaning: "Secondary" or "Middle-level"
+  - Educational Context: Refers to secondary education (Grades 9-10 in Nepal)
+  - Derived from: "Madhya" meaning "middle"
+  - Contrast with: "Prathamic" (Primary), "Uchcha Madhyamik" (Higher Secondary)
+
+• "Vidyalaya" (विद्यालय):
+  - Etymology: Sanskrit - "Vidya" (knowledge) + "Alaya" (abode/place)
+  - Literal Meaning: "Abode of Knowledge" or "House of Learning"
+  - Educational Context: Formal term for school in Nepali/Sanskrit
+  - Alternative Terms: School, Shikshyalaya, Pathshala (informal)
+
+Historical Names (Chronological Evolution):
+1. Demonstration Multipurpose School (DMPS) - Original name at founding (1967)
+   → TERM: "Demonstration School" = A model school that demonstrates effective teaching methods for other educators to observe and learn from
+   
+2. Adarsha Vocational Secondary School - During vocational education era
+   → TERM: "Vocational" = Related to practical job skills and trades; technical training focused on employment
+
+3. Adarsha Secondary School - Current official name (simplified)
+   → Evolution reflects shift from specialized vocational focus to comprehensive secondary education
+
+Common Nicknames and References:
+- Adarsha School (आदर्श स्कूल)
+- DMPS Sanothimi
+- Adarsha Sanothimi
+- Sanothimi Adarsha
+- The Model School of Bhaktapur
+
+1.2 INSTITUTIONAL CLASSIFICATION
+---------------------------------
+TERMINOLOGY: Understanding School Classifications in Nepal
+
+School Type: Secondary School (माध्यमिक विद्यालय)
+EXPLAINED: Secondary schools in Nepal cover Grades 9-10, preparing students for the SEE (Secondary Education Examination), formerly called SLC (School Leaving Certificate).
+
+Ownership Category: Government of Nepal (Public/Community School)
+TERMINOLOGY BREAKDOWN:
+• Public School (सामुदायिक विद्यालय): Government-funded, community-managed educational institutions
+• Contrast with: Private/Institutional Schools (निजी विद्यालय) which are privately owned and operated
+• Community Managed: Local School Management Committee (SMC) oversees operations
+• Funding: Government budget + community contribution + student fees
+
+Management Model: Community Managed with Government Support
+EXPLAINED: This hybrid model means:
+- Land and core funding from government
+- Daily management by local community representatives
+- Teachers employed by government
+- Community has decision-making power through SMC
+- Balance between government control and local autonomy
+
+Category: Technical Secondary School
+TERMINOLOGY:
+• Technical School: Institution offering both general academic subjects AND vocational/technical training
+• Distinction: Regular Secondary School (only academic) vs. Technical Secondary School (academic + technical)
+• Technical Stream: Specialized pathway focusing on practical technical skills
+• General Stream: Traditional academic subjects preparing for further academic study
+
+Stream Availability: 
+1. General Education Stream
+   - Academic subjects: Science, Math, English, Nepali, Social Studies
+   - Prepares for: Higher secondary education (Grades 11-12)
+   - Examination: SEE (Secondary Education Examination) under NEB
+
+2. Technical Education Stream (Computer Engineering)
+   - Technical subjects: Programming, Database, Web Design, Hardware
+   - Plus: Academic subjects (Math, English, Science)
+   - Prepares for: Technical diploma, engineering pathways, direct employment
+   - Examination: TSLC (Technical School Leaving Certificate) under CTEVT
+
+TERM: "Stream" or "Faculty" = Educational pathway or specialization track within a school
+
+Classification Under Nepal Education System:
+- Level: Secondary Level (माध्यमिक तह) - Grades 9-10
+- Also includes: Basic Level (आधारभूत तह) - ECD to Grade 8
+- Precedes: Higher Secondary Level (उच्च माध्यमिक तह) - Grades 11-12
+- Technical Affiliation: CTEVT (Council for Technical Education and Vocational Training)
+
+Legal Status: Registered educational institution under Ministry of Education, Science and Technology (MoEST), Federal Government of Nepal
+
+1.3 INSTITUTIONAL CODES AND REGISTRATION NUMBERS
+-------------------------------------------------
+
+TERMINOLOGY: Understanding Educational Identification Systems in Nepal
+
+School Code: 26405
+EXPLAINED:
+• Purpose: Unique national identifier in centralized school database
+• Format: 5-digit numerical code
+• Issued by: Department of Education (DoE), Nepal
+• Usage: All official correspondence, statistics, reporting
+• Function: Like a school's "ID number" in national system
+• Database: School Information Management System (SIMS)
+
+NEB Code: 26405001
+TERMINOLOGY BREAKDOWN:
+• NEB: National Examination Board (राष्ट्रिय परीक्षा बोर्ड)
+• Full Code Structure: [School Code] + [Sequential Examination Number]
+• Purpose: Registration for SEE (Secondary Education Examination)
+• Format: 8-digit code (5 for school + 3 for sequence)
+• Usage: Student examination registration, result publication, certificate issuance
+• Importance: Required for all Grade 10 board examinations
+
+TERM: "SEE" = Secondary Education Examination
+- Formerly: SLC (School Leaving Certificate) or "Iron Gate"
+- Grade Level: End of Grade 10
+- Significance: National standardized examination
+- Conducted by: National Examination Board
+- Determines: Student progression to higher secondary education
+
+CTEVT Code: CTEVT-BKT-045
+TERMINOLOGY EXPLAINED:
+• CTEVT: Council for Technical Education and Vocational Training
+• Full Form: प्राविधिक शिक्षा तथा व्यावसायिक तालीम परिषद्
+• Code Structure: CTEVT - [District Abbreviation] - [Sequential Number]
+• BKT: Bhaktapur District code
+• 045: School's sequential registration number in Bhaktapur
+• Purpose: Technical stream affiliation and TSLC examination registration
+• Usage: Technical student enrollment, technical examination, certification
+
+TERM: "TSLC" = Technical School Leaving Certificate
+- Equivalent to: SEE but with technical specialization
+- Conducted by: CTEVT instead of NEB
+- Specialization: Computer Engineering (for this school)
+- Recognition: Nationally recognized technical qualification
+- Pathway: Leads to technical diploma, engineering studies, or employment
+
+PAN Number: 301234567
+TERMINOLOGY:
+• PAN: Permanent Account Number (स्थायी लेखा नम्बर)
+• Format: 9-digit numerical identifier
+• Issued by: Inland Revenue Department (IRD), Ministry of Finance, Nepal
+• Purpose: Tax registration, financial transactions, banking
+• Required for: All financial dealings, salary disbursement, tax filing
+• Function: School's tax identification number
+
+Registration Number: EDU/BKT/2024/001
+EXPLAINED:
+• Format Components:
+  - EDU: Education sector designation
+  - BKT: Bhaktapur District
+  - 2024: Year of registration/renewal
+  - 001: Sequential number
+• Purpose: Legal registration as educational institution
+• Issued by: District Education Office / Company Registrar's Office
+• Significance: Legal entity status for contracts, agreements, legal matters
+
+1.4 AFFILIATIONS AND ACCREDITATIONS
+------------------------------------
+
+TERMINOLOGY: Understanding Educational Governance in Nepal
+
+Primary Academic Affiliations:
+
+1. National Examination Board (NEB):
+COMPREHENSIVE EXPLANATION:
+• Full Form: National Examination Board
+• Nepali: राष्ट्रिय परीक्षा बोर्ड (Rashtriya Pariksha Board)
+• Established: 2072 B.S. (2016 AD) - replaced previous examination system
+• Legal Basis: National Education Board Act, 2072
+• Headquarters: Sanothimi, Bhaktapur (approximately 1 km from school)
+• Website: neb.gov.np
+
+• Key Functions:
+  1. Curriculum Development: Sets syllabus for Grades 9-10
+  2. Examination Conduct: Conducts SEE (formerly SLC)
+  3. Result Publication: Declares examination results
+  4. Certificate Issuance: Issues official secondary education certificates
+  5. Quality Assurance: Monitors educational standards
+  6. Question Paper Setting: Prepares examination questions
+
+• SEE Examination Details:
+  - Full Form: Secondary Education Examination
+  - Grade Level: End of Grade 10
+  - Previous Name: SLC (School Leaving Certificate), colloquially "Iron Gate" (फलामे गेट)
+  - Subjects: All compulsory and optional subjects
+  - Format: Written examinations, practical tests (for science)
+  - Duration: Approximately 3 weeks
+  - Timing: Usually Chaitra-Baisakh (March-April)
+  - Grading: GPA system (Grade Point Average) from 0.8 to 4.0
+  - Pass Criteria: Minimum D grade in all subjects
+
+• Role for Adarsha School:
+  - Sets curriculum that teachers must follow
+  - Conducts examinations for general stream students
+  - Provides textbooks (approved publishers)
+  - Teacher training guidelines
+  - School inspection and monitoring
+
+2. Council for Technical Education and Vocational Training (CTEVT):
+COMPREHENSIVE EXPLANATION:
+• Full Form: Council for Technical Education and Vocational Training
+• Nepali: प्राविधिक शिक्षा तथा व्यावसायिक तालीम परिषद्
+• Acronym: CTEVT (सीटीईभीटी)
+• Established: 2045 B.S. (1989 AD)
+• Legal Basis: CTEVT Act, 2045 (1989)
+• Headquarters: Sanothimi, Bhaktapur (500 meters from school)
+• Website: ctevt.org.np
+
+• Organizational Structure:
+  - Governing Body: CTEVT Council (policy making)
+  - Executive Head: Member Secretary (CEO equivalent)
+  - Technical Education: Polytechnic institutes, technical schools
+  - Vocational Training: Short-term skill training centers
+  - Assessment: TEVT Qualification and Skill Testing
+
+• Key Functions:
+  1. Policy Formulation: Technical and vocational education policies
+  2. Curriculum Design: Technical program syllabi
+  3. Affiliation: Technical schools and institutes
+  4. Examination: TSLC and diploma examinations
+  5. Certification: Technical certificates and diplomas
+  6. Quality Assurance: Monitoring technical education standards
+  7. Skill Testing: Competency-based assessments
+
+• TSLC Program Details:
+  - Full Form: Technical School Leaving Certificate
+  - Level: Equivalent to SEE but technical
+  - Duration: 2 years (Grades 9-10)
+  - Specializations: Computer Engineering, Electrical, Civil, Mechanical, Agriculture, etc.
+  - At Adarsha: Computer Engineering only
+  - Assessment: Theory + Practical examinations
+  - Recognition: Nationally recognized; eligible for technical diploma
+
+• Role for Adarsha School:
+  - Affiliates technical stream (Computer Engineering)
+  - Provides technical curriculum and syllabus
+  - Conducts TSLC examinations
+  - Issues technical certificates
+  - Teacher training for technical subjects
+  - Quality monitoring visits
+  - Equipment standards guidelines
+
+3. Ministry of Education, Science and Technology (MoEST):
+COMPREHENSIVE EXPLANATION:
+• Full Form: Ministry of Education, Science and Technology
+• Nepali: शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय
+• Previous Name: Ministry of Education (name expanded to include science and technology)
+• Location: Singha Durbar, Kathmandu (central government complex)
+• Minister: Cabinet-level position appointed by Prime Minister
+
+• Organizational Structure:
+  - Cabinet Minister: Political head
+  - Secretary: Administrative head (senior civil servant)
+  - Departments: 
+    * Department of Education (DoE)
+    * Department of Technical Education and Vocational Training (DTEVT)
+    * University Grants Commission (UGC)
+    * Curriculum Development Center (CDC)
+
+• Key Functions:
+  1. Policy Framework: National education policies
+  2. Legislation: Education acts and regulations
+  3. Budget Allocation: Education sector funding
+  4. Teacher Management: Recruitment, training, salary
+  5. Infrastructure: School building standards
+  6. Monitoring: Educational quality oversight
+  7. International Relations: Educational cooperation agreements
+
+• Role for Adarsha School:
+  - Overall policy direction
+  - Teacher salary and benefits
+  - Infrastructure guidelines
+  - Curriculum framework approval
+  - Educational standards
+  - Monitoring and evaluation
+
+4. District Education Coordination Unit (DECU):
+TERMINOLOGY EXPLAINED:
+• Previous Name: District Education Office (DEO) - before federal restructuring
+• Nepali: जिल्ला शिक्षा समन्वय इकाई
+• Jurisdiction: Bhaktapur District
+• Location: Bhaktapur (district headquarters)
+• Head: Education Officer (शिक्षा अधिकृत)
+
+• Key Functions:
+  1. Local Administration: District-level education management
+  2. Teacher Allocation: Assign teachers to schools
+  3. Monitoring: School inspection visits
+  4. Support Services: Technical assistance to schools
+  5. Data Collection: School statistics reporting
+  6. Scholarship Distribution: Government scholarship programs
+  7. Coordination: Between schools and central government
+
+• Role for Adarsha School:
+  - Teacher posting and transfers
+  - Regular monitoring visits
+  - Statistical reporting channel
+  - Immediate support for issues
+  - Local policy implementation
+
+Certifications and Recognitions:
+
+1. ISO 9001:2015 Certification:
+COMPREHENSIVE EXPLANATION:
+• ISO: International Organization for Standardization (international body)
+• Full Title: ISO 9001:2015 Quality Management System
+• Year: 2015 edition (most recent version)
+• Scope: Quality management standards applicable globally
+
+• What It Means:
+  - International Standard: Recognized worldwide
+  - Quality Management: Systematic approach to quality
+  - Process-Based: Focus on processes, not just outcomes
+  - Continuous Improvement: Ongoing enhancement culture
+  - Customer Satisfaction: Student and parent satisfaction focus
+
+• Requirements Met:
+  1. Quality Policy: Documented quality commitment
+  2. Objectives: Measurable quality goals
+  3. Process Control: Standardized procedures
+  4. Documentation: Record keeping systems
+  5. Internal Audits: Regular self-assessment
+  6. Management Review: Periodic evaluation
+  7. Corrective Actions: Problem-solving mechanisms
+
+• Benefits for School:
+  - Consistent quality in teaching and administration
+  - Systematic processes for all activities
+  - Better resource management
+  - Enhanced reputation
+  - International recognition
+
+• Certification Process:
+  - Gap Analysis: Identify areas needing improvement
+  - Implementation: Establish quality systems
+  - Internal Audit: Self-assessment
+  - External Audit: Third-party certification body
+  - Certification: If standards met
+  - Surveillance: Annual monitoring audits
+  - Recertification: Every 3 years
+
+2. Green School Certification:
+TERMINOLOGY EXPLAINED:
+• Concept: Environmental sustainability recognition program
+• Global Movement: Part of worldwide green schools initiative
+• Nepal Context: Promoted by Ministry of Education and environmental organizations
+
+• Criteria for Green School:
+  1. Environmental Education: Climate change, ecology in curriculum
+  2. Waste Management: Recycling, composting, waste segregation
+  3. Energy Conservation: Solar panels, energy-efficient practices
+  4. Water Conservation: Rainwater harvesting, efficient use
+  5. Green Spaces: Trees, gardens, biodiversity
+  6. Sustainable Practices: Eco-friendly materials, less plastic
+  7. Student Participation: Environmental clubs, activities
+
+• Benefits:
+  - Environmental awareness among students
+  - Cost savings (energy, water)
+  - Healthier campus environment
+  - Community leadership in sustainability
+  - Positive public image
+
+• Activities at Adarsha School:
+  - Tree planting drives
+  - Plastic-free campaigns
+  - Recycling programs
+  - Environmental science projects
+  - Solar power utilization
+  - Water conservation measures
+
+3. Child-Friendly School Recognition:
+COMPREHENSIVE EXPLANATION:
+• Concept: School environment that ensures child rights, safety, and inclusive education
+• Promoted by: UNICEF Nepal + Ministry of Education
+• Framework: Based on UN Convention on Rights of the Child
+
+• Core Principles:
+  1. Rights-Based: Every child has right to quality education
+  2. Child-Centered: Focus on child's needs and wellbeing
+  3. Inclusive: No discrimination, education for all
+  4. Safe: Physical and psychological safety
+  5. Participatory: Children's voices heard
+
+• Essential Standards:
+  1. Child Protection: Anti-bullying, abuse prevention policies
+  2. Inclusive Education: Support for children with disabilities
+  3. Gender Equality: Equal opportunities for girls and boys
+  4. Child Participation: Student councils, feedback mechanisms
+  5. Safe Infrastructure: Child-safe buildings, facilities
+  6. Psychosocial Support: Counseling, emotional wellbeing
+  7. Health and Nutrition: Clean water, hygiene, nutrition programs
+
+• Implementation at Adarsha:
+  - Child protection policy
+  - Anti-bullying measures
+  - Student council for participation
+  - Inclusive classrooms
+  - Safe and clean facilities
+  - Counseling services
+  - Gender-sensitive practices
+
+4. Technical Education Quality Assurance:
+EXPLAINED:
+• Issued by: CTEVT Quality Assurance Division
+• Purpose: Validate quality of technical programs
+• Process: Periodic inspection and evaluation
+
+• Quality Parameters:
+  1. Curriculum Implementation: Following prescribed syllabus
+  2. Qualified Instructors: Certified technical teachers
+  3. Laboratory Facilities: Adequate equipment and space
+  4. Practical Training: Hands-on learning opportunities
+  5. Industry Connection: Visits, guest lectures, internships
+  6. Student Achievement: Examination results, skill development
+  7. Safety Standards: Lab safety, equipment maintenance
+
+• Inspection Process:
+  - Document Review: Policies, records, curriculum materials
+  - Facility Inspection: Labs, classrooms, equipment
+  - Teacher Evaluation: Qualifications, teaching methods
+  - Student Assessment: Skills demonstration, interviews
+  - Report and Recommendations: Improvement suggestions
+  - Certification: If standards met
+
+5. Model School Status:
+HISTORICAL AND CULTURAL SIGNIFICANCE:
+• Historical Designation: "Demonstration" or "Model" School
+• Etymology: Schools meant to "demonstrate" best practices
+• Function: Reference point for other schools to learn from
+
+• Characteristics of Model Schools:
+  1. Best Practices: Showcase effective teaching methods
+  2. Innovation: Pilot new educational approaches
+  3. Teacher Training: Host teachers from other schools for observation
+  4. Quality Standards: Higher standards than typical schools
+  5. Research: Educational research and experimentation
+  6. Leadership: Lead educational reforms in region
+
+• Adarsha's Model School Legacy:
+  - Founded as "Demonstration Multipurpose School"
+  - Historically trained teachers from other schools
+  - Pioneered vocational education in Bhaktapur
+  - Early adopter of computer education
+  - Now pioneering AI technology in education
+  - Continues tradition of innovation
+
+================================================================================
+SECTION 7: AI ASSISTANT PROJECT AND DEVELOPER TEAM (ENHANCED EDITION)
+================================================================================
+
+7.1 PROJECT OVERVIEW
+--------------------
+Project Title: Adarsha School AI Assistant
+Full Name: Adarsha School Artificial Intelligence Assistant
+Alternative Names: 
+- Adarsha AI
+- School Information AI System
+- Intelligent School Assistant
+
+Project Type: Advanced AI-Powered School Information System utilizing RAG Architecture
+
+TERMINOLOGY - ARTIFICIAL INTELLIGENCE EXPLAINED:
+• Artificial Intelligence (AI): 
+  - Definition: Computer systems that can perform tasks typically requiring human intelligence
+  - Examples: Understanding language, answering questions, recognizing patterns
+  - Subfields: Machine Learning, Natural Language Processing, Computer Vision
+  - This Project Uses: Natural Language Processing (NLP) and Machine Learning (ML)
+
+• Natural Language Processing (NLP):
+  - Definition: AI's ability to understand, interpret, and generate human language
+  - Enables: Chatbots, translation, question answering
+  - Components: Text understanding, context recognition, response generation
+  - In This Project: Understanding questions about school and generating accurate answers
+
+• RAG (Retrieval-Augmented Generation):
+  - Full Form: Retrieval-Augmented Generation
+  - Architecture Type: Hybrid AI system combining database retrieval with AI generation
+  - How It Works: 
+    1. Retrieval: Find relevant information from knowledge base
+    2. Augmentation: Enhance AI with retrieved information
+    3. Generation: Create accurate, contextual answer
+  - Advantage: More accurate than pure AI, uses verified school data
+  - Technical Components: Vector database, embeddings, large language model
+
+• Vector Database:
+  - Definition: Specialized database storing information as mathematical vectors
+  - Purpose: Enable semantic search (meaning-based, not just keyword matching)
+  - Example: Understands "principal" and "headmaster" are related concepts
+  - Technology: Converts text to numerical representations (embeddings)
+  - Benefits: Fast, accurate, context-aware information retrieval
+
+• Large Language Model (LLM):
+  - Definition: Advanced AI trained on vast amounts of text
+  - Capabilities: Understanding context, generating human-like responses
+  - Examples: GPT (OpenAI), Claude (Anthropic), Gemini (Google)
+  - In This Project: Generates natural, conversational answers
+  - Training: Learns from millions of documents and conversations
+
+Launch Year: 2082 B.S. (2025 AD)
+Development Period: 2081-2082 B.S. (2024-2025 AD)
+Development Duration: Approximately 8-10 months
+
+Project Status: Active / Deployed / Production-Ready
+Platform: Web-based interface accessible via browsers
+
+Distinction: First AI-powered school assistant in Bhaktapur District
+Regional Significance: Pioneering project in Nepal's education technology landscape
+
+Project Category: Student Innovation Project (उद्यमी विद्यार्थी परियोजना)
+Nature: 100% Student-Developed with Teacher Guidance and Support
+
+Technology Stack:
+EXPLAINED FOR NON-TECHNICAL USERS:
+• Frontend: User interface (what users see and interact with)
+  - Technologies: React.js (modern web framework), HTML, CSS, JavaScript
+  - Features: Responsive design (works on phones, tablets, computers)
+
+• Backend: Server-side processing (handles requests and logic)
+  - Technologies: Python (programming language), FastAPI (web framework)
+  - Functions: Process queries, retrieve information, coordinate AI
+
+• AI/ML: Artificial intelligence components
+  - Language Model: Advanced AI for understanding and generating responses
+  - Vector Store: Semantic search system for knowledge retrieval
+  - Embeddings: Mathematical representations of school information
+
+• Database: Information storage
+  - Type: Vector database + traditional database
+  - Content: All school information, policies, schedules, staff details
+
+7.2 PROJECT VISION AND OBJECTIVES
+---------------------------------
+Vision Statement:
+"To demonstrate exceptional student capability in advanced artificial intelligence technology while providing 24/7 intelligent assistance for all school-related queries, showcasing Nepal's young tech talent on a global stage."
+
+Extended Vision:
+"Empower students to create world-class AI solutions, inspire the next generation of Nepali technologists, and establish new standards for student innovation in Nepal's education sector."
+
+Comprehensive Project Objectives:
+
+1. PRIMARY OBJECTIVES:
+   a) Create an intelligent AI assistant for comprehensive school information
+   b) Demonstrate student skills in cutting-edge AI/ML technology
+   c) Provide instant, accurate answers to school queries 24/7
+   d) Reduce administrative burden on office staff and teachers
+
+2. EDUCATIONAL OBJECTIVES:
+   a) Inspire other students to pursue STEM fields
+   b) Showcase practical application of technical education
+   c) Demonstrate value of CTEVT technical stream
+   d) Create learning opportunity for development team
+
+3. TECHNOLOGICAL OBJECTIVES:
+   a) Implement advanced RAG architecture
+   b) Utilize modern AI/ML frameworks and tools
+   c) Develop scalable, maintainable system
+   d) Apply software engineering best practices
+
+4. INSTITUTIONAL OBJECTIVES:
+   a) Enhance school's technological reputation
+   b) Attract technology-interested students
+   c) Showcase innovation to education authorities
+   d) Establish school as education technology leader
+
+5. NATIONAL OBJECTIVES:
+   a) Showcase Nepal's young tech talent
+   b) Contribute to Nepal's digital transformation
+   c) Demonstrate quality of Nepali technical education
+   d) Inspire similar projects in other schools
+
+Problem Statement - Issues Addressed:
+
+BEFORE AI ASSISTANT:
+1. Information Accessibility:
+   - Students, parents, visitors needed to visit school office for information
+   - Information only available during school hours (10 AM - 5 PM)
+   - Common questions asked repeatedly
+
+2. Administrative Burden:
+   - Office staff spending hours answering same questions
+   - Teachers interrupted for basic information
+   - Inefficient use of staff time
+
+3. Communication Gaps:
+   - Parents outside Bhaktapur cannot easily get information
+   - Prospective students have difficulty learning about school
+   - Alumni looking for information face barriers
+
+4. Timeliness:
+   - No way to get urgent information after school hours
+   - Delays in getting answers during busy times
+   - No instant response mechanism
+
+Solution Provided - AI Assistant Benefits:
+
+AFTER AI ASSISTANT:
+1. 24/7 Availability:
+   - Information accessible anytime, any day
+   - No waiting for office hours
+   - Instant responses to queries
+
+2. Comprehensive Information:
+   - Covers all aspects: admissions, academics, facilities, staff, events
+   - Up-to-date information from verified database
+   - Consistent, accurate answers
+
+3. Efficiency:
+   - Reduces repetitive work for staff
+   - Frees staff for more important tasks
+   - Handles multiple queries simultaneously
+
+4. Accessibility:
+   - Accessible from anywhere (internet connection required)
+   - User-friendly interface
+   - Works on multiple devices (phones, tablets, computers)
+
+5. Technological Showcase:
+   - Demonstrates student capability
+   - Attracts attention to school
+   - Inspires other students and schools
+
+7.3 THE DEVELOPER TEAM - EXCELLENCE IN STUDENT INNOVATION
+----------------------------------------------------------
+
+TEAM PHILOSOPHY:
+"Students creating world-class technology, proving that Nepali youth can compete globally in cutting-edge AI/ML development."
+
+==================== PRIMARY DEVELOPER ====================
+
+LEAD DEVELOPER & ARCHITECT:
+Name: Sangam Gautam (संगम गौतम)
+Role: Lead AI Developer, Project Architect, Technical Lead
+Grade: Class 10 (Technical Stream - Computer Engineering)
+Age: 16 years (as of 2082 B.S.)
+
+EXPERTISE AND SKILLS:
+• Artificial Intelligence & Machine Learning:
+  - Deep understanding of AI/ML concepts and algorithms
+  - Practical experience with language models and NLP
+  - Vector embeddings and semantic search implementation
+  - RAG (Retrieval-Augmented Generation) architecture design
+
+• Programming Languages:
+  - Python: Advanced level (primary language for AI/ML)
+  - C/C++: Strong foundation from technical curriculum
+  - JavaScript/TypeScript: Frontend development
+  - SQL: Database management
+
+• Frameworks and Technologies:
+  - LangChain: AI application framework
+  - FastAPI: Modern Python web framework
+  - React.js: Frontend user interface
+  - Vector Databases: Pinecone, Chroma, FAISS
+  - Machine Learning Libraries: TensorFlow, PyTorch basics
+
+• Software Engineering:
+  - System Architecture: Designing scalable systems
+  - API Design: RESTful API development
+  - Version Control: Git and GitHub
+  - Documentation: Technical documentation skills
+  - Testing: Unit testing, integration testing
+
+PROJECT CONTRIBUTIONS:
+1. Architecture Design:
+   - Designed entire RAG pipeline from scratch
+   - Selected optimal technology stack
+   - Created system architecture diagrams
+   - Planned scalability and maintenance
+
+2. AI/ML Implementation:
+   - Integrated large language models
+   - Implemented vector search system
+   - Fine-tuned embeddings for school context
+   - Optimized query understanding
+
+3. Backend Development:
+   - Built FastAPI backend server
+   - Created API endpoints
+   - Implemented business logic
+   - Database design and management
+
+4. Frontend Development:
+   - Designed user interface
+   - Implemented chat interface
+   - Responsive design for all devices
+   - User experience optimization
+
+5. Data Engineering:
+   - Compiled comprehensive school knowledge base
+   - Structured data for RAG optimization
+   - Created training datasets
+   - Implemented data validation
+
+6. Testing and Quality Assurance:
+   - Conducted extensive testing
+   - Fixed bugs and issues
+   - Performance optimization
+   - User feedback incorporation
+
+7. Documentation:
+   - Technical documentation
+   - User guides
+   - API documentation
+   - Knowledge base creation
+
+LEARNING JOURNEY:
+Sangam's journey from basic programming to AI development:
+• Grade 9: Started with C programming basics in technical stream
+• Self-Study: Learned Python, web development independently
+• Online Courses: Completed AI/ML courses on platforms like Coursera, Udemy
+• Open Source: Contributed to GitHub projects
+• Project-Based: Learned by building real applications
+• Mentorship: Guidance from school teachers and online communities
+
+ACHIEVEMENTS:
+• Successfully deployed first AI assistant in Bhaktapur District schools
+• Demonstrated advanced AI/ML skills at age 16
+• Created production-ready system handling real users
+• Gained recognition from school administration and education authorities
+• Inspired fellow students to pursue technology
+
+VISION AND ASPIRATIONS:
+"I want to show that students in Nepal can create world-class AI applications. This project is just the beginning. My goal is to contribute to Nepal's technology sector and inspire more young people to pursue AI and software development."
+
+Future Plans:
+• Further studies in Computer Science/AI
+• Entrepreneurship in AI/tech sector
+• Contribute to Nepal's digital transformation
+• Mentor next generation of student developers
+
+TECHNICAL PHILOSOPHY:
+• Learning by Doing: Best way to learn is to build real projects
+• Open Source: Believes in community knowledge sharing
+• Quality First: Focus on creating production-quality code
+• User-Centric: Design with users' needs in mind
+• Continuous Learning: Technology evolves, must keep learning
+
+ONLINE PRESENCE:
+• GitHub: github.com/sangamgautam (open source contributions)
+• LinkedIn: Active in tech community
+• Email: sangam.gautam@adarshaschool.edu.np
+
+QUOTES FROM SANGAM:
+"This project proved to me that age is just a number in technology. If you have the passion and dedication, you can build anything."
+
+"I'm grateful to Adarsha School's technical stream and teachers who believed in my vision and supported this ambitious project."
+
+"Nepal has incredibly talented young people. We just need opportunities and platforms to showcase our skills."
+
+==================== SUPPORTING TEAM MEMBERS ====================
+
+TECHNICAL ADVISORS & DATA CONTRIBUTORS:
+
+1. Er. Kamal Tamrakar
+   Role: Technical Advisor & Data Collection Support
+   Contribution:
+   - Provided comprehensive school data and information
+   - Verified technical accuracy of information
+   - Tested early prototypes
+   - Gave feedback on technical aspects
+   - Supported hardware and infrastructure setup
+   Teaches: Computer Fundamentals, Computer Repair & Maintenance
+   Background: Engineering degree, experienced technical instructor
+
+2. Er. Ganesh Sapkota
+   Role: Technical Consultant & Information Provider
+   Contribution:
+   - Supplied detailed school operational data
+   - Validated information accuracy
+   - Provided insights on school processes
+   - Technical consultation on system requirements
+   - Hardware and electronic systems expertise
+   Teaches: Electronic Systems, Hardware
+   Background: Engineering degree, technical education specialist
+
+3. Er. Tri Mandir Prajapati
+   Role: Technical Stream Mentor & Project Supervisor
+   Position: Head of Technical Stream
+   Contribution:
+   - Overall project supervision and guidance
+   - Technical mentorship to development team
+   - Facilitated school administration approval
+   - Provided advanced programming insights
+   - Quality assurance review
+   Teaches: C++ Programming, Advanced Programming Concepts
+   Background: Engineering degree, senior technical educator
+
+4. Er. Bikesh Shrestha
+   Role: Project Reviewer & Technical Consultant
+   Position: Head of Computer Department
+   Contribution:
+   - Reviewed system architecture
+   - Database design consultation
+   - Web technologies guidance
+   - Testing and feedback
+   - Administrative liaison
+   Teaches: Database Management Systems (DBMS), Web Design
+   Background: Engineering degree, computer department leadership
+
+STUDENT CONTRIBUTORS:
+
+While Sangam Gautam led development, several fellow students contributed:
+
+Testing Team (Grade 9-10 Technical Students):
+- Conducted user acceptance testing
+- Reported bugs and issues
+- Suggested feature improvements
+- Helped refine user interface
+- Spread awareness among students
+
+Data Validation Team:
+- Cross-checked information accuracy
+- Verified schedules and timings
+- Validated staff details
+- Confirmed facility descriptions
+
+Student Ambassadors:
+- Promoted AI assistant to fellow students
+- Gathered user feedback
+- Documented common questions
+- Helped create FAQ section
+
+7.4 PROJECT DEVELOPMENT TIMELINE
+--------------------------------
+
+PHASE 1: CONCEPTION AND PLANNING (Shrawan-Bhadra 2081 / July-August 2024)
+Duration: 2 months
+
+Activities:
+• Idea Development: Sangam conceptualized AI assistant project
+• Research Phase: Studied RAG architectures, similar projects globally
+• Technology Evaluation: Compared different AI frameworks and tools
+• Proposal Creation: Prepared detailed project proposal
+• Approval Process: Presented to technical teachers and administration
+• Resource Planning: Identified required resources (servers, APIs, etc.)
+• Team Formation: Recruited student helpers and secured teacher advisors
+
+Challenges:
+- Convincing administration about feasibility
+- Securing resources for development
+- Limited similar projects in Nepal for reference
+
+Outcomes:
+✓ Project approved by school administration
+✓ Technology stack finalized
+✓ Development roadmap created
+✓ Support from technical instructors secured
+
+PHASE 2: DATA COLLECTION AND KNOWLEDGE BASE CREATION (Ashwin-Kartik 2081 / September-October 2024)
+Duration: 2 months
+
+Activities:
+• Information Gathering: Collected comprehensive school data
+• Staff Interviews: Met with teachers, admin staff, librarian
+• Document Review: Studied school records, policies, handbooks
+• Facility Documentation: Documented infrastructure, labs, facilities
+• Historical Research: Compiled school history and evolution
+• Academic Information: Gathered curriculum, examination details
+• Data Structuring: Organized information for RAG system
+• Knowledge Base Writing: Created comprehensive training document
+
+Data Sources:
+- School office records
+- Teacher interviews (all department heads)
+- Principal's office documentation
+- Historical archives
+- Government websites (NEB, CTEVT)
+- Personal observation and verification
+
+Knowledge Base Statistics:
+- Total Pages: 150+ pages of structured information
+- Sections: 16 major sections
+- Words: 50,000+ words
+- Topics Covered: 200+ distinct topics
+- Terminology Definitions: 150+ terms explained
+
+Challenges:
+- Gathering scattered information from multiple sources
+- Verifying accuracy of historical data
+- Structuring unstructured information
+- Ensuring comprehensiveness
+
+Outcomes:
+✓ Comprehensive knowledge base completed
+✓ All school information documented
+✓ Data verified by multiple teachers
+✓ Structured for AI optimization
+
+PHASE 3: SYSTEM DEVELOPMENT (Mangsir-Poush 2081 / November-December 2024)
+Duration: 2 months
+
+Activities:
+• Backend Development: Built FastAPI server and API endpoints
+• Vector Database Setup: Configured vector storage system
+• Embedding Generation: Created embeddings from knowledge base
+• AI Integration: Integrated large language model
+• RAG Pipeline: Implemented retrieval-augmented generation
+• Frontend Development: Created user interface
+• Chat Interface: Built conversational interface
+• Testing Infrastructure: Set up testing environment
+
+Technical Implementation:
+1. Knowledge Base Processing:
+   - Text chunking: Split large document into manageable pieces
+   - Embedding creation: Convert text to vector representations
+   - Vector storage: Store in specialized database
+   - Metadata indexing: Tag for efficient retrieval
+
+2. Query Processing Pipeline:
+   - User query received
+   - Query embedding generated
+   - Semantic search in vector database
+   - Relevant context retrieved
+   - Context + query sent to language model
+   - AI generates accurate answer
+   - Response returned to user
+
+3. User Interface:
+   - Chat-like interface (familiar to users)
+   - Query input field
+   - Response display area
+   - Suggested questions
+   - Mobile-responsive design
+
+Coding Statistics:
+- Lines of Code: 5,000+ lines
+- Programming Languages: Python (backend), JavaScript (frontend)
+- Files Created: 50+ code files
+- GitHub Commits: 200+ commits
+- Development Hours: 300+ hours
+
+Challenges:
+- Complex RAG implementation for first time
+- Optimizing response accuracy
+- Handling edge cases and errors
+- Performance optimization
+- Learning curve for new technologies
+
+Outcomes:
+✓ Functional AI system completed
+✓ Accurate information retrieval
+✓ Fast response times (< 3 seconds)
+✓ User-friendly interface
+
+PHASE 4: TESTING AND REFINEMENT (Magh 2081 / January 2025)
+Duration: 1 month
+
+Activities:
+• Internal Testing: Team tested thoroughly
+• Teacher Testing: Technical instructors evaluated system
+• Student Beta Testing: Selected students tried system
+• Bug Identification: Documented issues and errors
+• Bug Fixing: Resolved identified problems
+• Accuracy Verification: Cross-checked answers with actual data
+• Performance Optimization: Improved speed and efficiency
+• UI/UX Improvements: Enhanced user experience
+• Documentation: Created user guides and technical docs
+
+Testing Methodology:
+1. Functional Testing:
+   - Verified all features work correctly
+   - Tested different types of queries
+   - Checked edge cases
+
+2. Accuracy Testing:
+   - Asked 500+ different questions
+   - Verified answer correctness
+   - Measured accuracy rate (>95%)
+
+3. Performance Testing:
+   - Response time measurement
+   - Load testing (multiple simultaneous users)
+   - System stability under stress
+
+4. User Experience Testing:
+   - Interface usability
+   - Navigation ease
+   - Mobile device compatibility
+   - Accessibility features
+
+Testing Statistics:
+- Test Queries: 500+ questions asked
+- Testers: 20+ students and teachers
+- Bugs Found: 50+ issues identified
+- Bugs Fixed: 100% resolution rate
+- Accuracy Rate: >95% correct answers
+
+Challenges:
+- Identifying subtle inaccuracies
+- Balancing speed with accuracy
+- Handling ambiguous questions
+- Refining natural language understanding
+
+Outcomes:
+✓ System thoroughly tested and refined
+✓ High accuracy achieved (>95%)
+✓ Fast, reliable performance
+✓ Positive feedback from testers
+
+PHASE 5: DEPLOYMENT AND LAUNCH (Falgun 2082 / February 2025)
+Duration: 2 weeks
+
+Activities:
+• Production Server Setup: Deployed to live server
+• Domain Configuration: Set up web address
+• Security Implementation: SSL certificate, security measures
+• Final Testing: Production environment testing
+• Staff Training: Trained teachers and staff on system
+• Launch Preparation: Created promotional materials
+• Official Launch: Public announcement and release
+• Monitoring: Set up usage analytics and monitoring
+
+Launch Event:
+- Date: Falgun 15, 2082 B.S. (February 28, 2025)
+- Venue: School Multipurpose Hall
+- Attendees: Students, teachers, SMC members, parents, media
+- Demonstration: Live demo of AI assistant
+- Presentation: Technical presentation by Sangam
+- Recognition: Appreciation from principal and SMC
+- Media Coverage: Local newspapers featured the project
+
+Launch Statistics:
+- First Day Users: 50+ users
+- First Week Queries: 200+ questions answered
+- Media Coverage: 3 local newspapers, 1 online news portal
+- Social Media: Viral posts on Facebook, Twitter
+
+Outcomes:
+✓ Successfully deployed to production
+✓ Available 24/7 to all users
+✓ Positive reception from community
+✓ Media recognition and coverage
+✓ Established as first in Bhaktapur District
+
+PHASE 6: POST-LAUNCH AND CONTINUOUS IMPROVEMENT (Ongoing)
+Duration: Ongoing
+
+Activities:
+• User Monitoring: Track usage patterns and popular queries
+• Feedback Collection: Gather user suggestions and issues
+• Continuous Updates: Regular knowledge base updates
+• Bug Fixes: Address any reported issues
+• Feature Additions: Implement new capabilities
+• Performance Optimization: Ongoing improvements
+• Security Updates: Maintain security standards
+• Documentation Updates: Keep user guides current
+
+Ongoing Metrics (as of Poush 2082 / December 2025):
+- Total Users: 500+ unique users
+- Total Queries: 2,000+ questions answered
+- Average Daily Queries: 50-60 questions
+- Accuracy Rate: Maintained >95%
+- User Satisfaction: 4.5/5 rating
+- System Uptime: 99.8%
+
+Future Enhancements Planned:
+1. Voice Interface: Speech-to-text query input
+2. Multilingual: Add Nepali language support
+3. Mobile App: Native mobile applications
+4. Advanced Analytics: Usage insights and reports
+5. Integration: Connect with school management system
+6. Personalization: Customized responses based on user type
+7. Smart Recommendations: Suggest relevant information
+
+7.5 TECHNICAL ARCHITECTURE - DETAILED EXPLANATION
+-------------------------------------------------
+
+SYSTEM ARCHITECTURE OVERVIEW:
+
+The AI Assistant uses a sophisticated three-tier architecture:
+
+TIER 1: PRESENTATION LAYER (User Interface)
+What Users See and Interact With
+
+Components:
+• Web Interface: Browser-based chat interface
+• Input Field: Text box for typing questions
+• Response Display: Area showing AI answers
+• Suggested Questions: Common query buttons
+• Mobile Responsive: Adapts to different screen sizes
+
+Technologies:
+- React.js: Modern JavaScript framework for building UI
+- HTML/CSS: Structure and styling
+- JavaScript: Interactive functionality
+- Responsive Design: Works on all devices
+
+User Flow:
+1. User opens website in browser
+2. Types question in input field
+3. Clicks send or presses Enter
+4. Loading indicator shows while processing
+5. Answer appears in chat format
+6. Can ask follow-up questions
+
+TIER 2: APPLICATION LAYER (Business Logic)
+Brain of the System
+
+Components:
+• API Server: Handles requests and responses
+• RAG Pipeline: Retrieves and generates answers
+• Query Processor: Understands user questions
+• Context Manager: Maintains conversation context
+• Response Generator: Formats final answers
+
+Technologies:
+- FastAPI: Modern Python web framework
+- Python: Programming language
+- LangChain: AI application framework
+- Pydantic: Data validation
+
+Processing Flow:
+1. Receive user query from frontend
+2. Process and clean query text
+3. Generate query embedding (vector representation)
+4. Search vector database for relevant information
+5. Retrieve top matching knowledge pieces
+6. Send query + context to language model
+7. AI generates comprehensive answer
+8. Format and return response to frontend
+
+RAG PIPELINE DETAILED:
+
+Step-by-Step Process Explanation:
+
+STEP 1: Query Reception
+- User types: "Who is the principal?"
+- System receives query as text string
+
+STEP 2: Query Embedding
+- Convert query to numerical vector (numbers representing meaning)
+- Example (simplified): "Who is the principal?" → [0.2, 0.8, 0.3, 0.9...]
+- Captures semantic meaning, not just words
+- Enables meaning-based search
+
+STEP 3: Semantic Search
+- Compare query vector with knowledge base vectors
+- Find most similar information pieces
+- Similarity measured mathematically (cosine similarity)
+- Retrieve top 5-10 most relevant chunks
+
+STEP 4: Context Retrieval
+- Retrieved relevant information:
+  * Principal section from knowledge base
+  * Name: Ram Babu Regmi
+  * Qualifications, experience, responsibilities
+  * Related information
+
+STEP 5: Prompt Construction
+- Create AI prompt combining:
+  * User's question
+  * Retrieved context
+  * System instructions
+  * Conversation history (if any)
+
+STEP 6: AI Generation
+- Send prompt to large language model
+- AI reads all provided information
+- Generates natural, accurate answer
+- Ensures factual consistency
+
+STEP 7: Response Formatting
+- Format AI output for display
+- Add citations if needed
+- Ensure readability
+- Return to user
+
+STEP 8: Display
+- Show answer in chat interface
+- Maintain conversation history
+- Ready for next question
+
+TIER 3: DATA LAYER (Information Storage)
+Where Knowledge Resides
+
+Components:
+• Vector Database: Stores embedded knowledge
+• Metadata Store: Additional information tags
+• Cache: Temporary storage for speed
+• Backups: Data redundancy
+
+Technologies:
+- Vector Database (Pinecone/Chroma/FAISS)
+- PostgreSQL/MongoDB: Traditional database
+- Redis: Caching layer
+
+Data Structure:
+Knowledge Base → Text Chunks → Embeddings → Vector Database
+           ↓
+      Metadata (source, section, tags)
+
+WHAT MAKES IT "INTELLIGENT":
+
+1. Semantic Understanding:
+   - Understands meaning, not just keywords
+   - "principal" = "headmaster" = "school head"
+   - Handles typos and variations
+
+2. Context Awareness:
+   - Remembers conversation flow
+   - Understands follow-up questions
+   - Maintains topic coherence
+
+3. Accurate Retrieval:
+   - Finds relevant information even if phrased differently
+   - Combines multiple information pieces
+   - Provides comprehensive answers
+
+4. Natural Responses:
+   - Generates human-like language
+   - Explains complex terms simply
+   - Adapts tone appropriately
+
+5. Continuous Learning:
+   - Updates with new information
+   - Improves from user feedback
+   - Adapts to common queries
+
+7.6 PROJECT IMPACT AND RECOGNITION
+----------------------------------
+
+LOCAL IMPACT (School Community):
+
+Student Benefits:
+• 24/7 Access: Information anytime, anywhere
+• Quick Answers: Instant responses to common questions
+• Comprehensive Info: Covers all school aspects
+• Inspiration: Shows what students can achieve
+• Tech Awareness: Exposes students to AI technology
+
+Parent Benefits:
+• Easy Communication: Get information without visiting school
+• Time Saving: No need to call or visit for basic queries
+• Comprehensive Overview: Learn about all school aspects
+• Admission Info: Prospective parents can learn easily
+• Peace of Mind: Always know school policies and schedules
+
+Teacher/Staff Benefits:
+• Reduced Workload: Less time answering repetitive questions
+• Documentation: All information centralized and accessible
+• Accuracy: Consistent, verified information shared
+• Pride: Recognition for school's innovation
+• Teaching Tool: Example for technical stream students
+
+Administrative Benefits:
+• Efficiency: Office staff freed for important work
+• Reputation: Enhanced technological image
+• Transparency: All information openly accessible
+• Reduced Queries: Fewer basic questions to office
+• Innovation Showcase: Demonstrates school capabilities
+
+DISTRICT IMPACT (Bhaktapur):
+
+First in District:
+- Only AI-powered school assistant in Bhaktapur District
+- Sets new standard for education technology
+- Other schools now interested in similar projects
+
+Education Technology Leadership:
+- Adarsha School recognized as technology leader
+- Invited to present at district education meetings
+- Collaboration requests from other schools
+- Model for district-wide technology adoption
+
+Student Inspiration:
+- Technical students across district inspired
+- Increased interest in computer engineering
+- Raised aspirations of young tech enthusiasts
+- Demonstrated Bhaktapur's tech talent
+
+Media Recognition:
+- Featured in local newspapers
+- Social media viral posts
+- Education department recognition
+- Parent community praise
+
+NATIONAL IMPACT (Nepal):
+
+Technology Demonstration:
+- Proves Nepali students can create world-class AI
+- Showcases quality of technical education (CTEVT)
+- Demonstrates Nepal's growing tech capabilities
+- Attracts attention from education policymakers
+
+STEM Education Promotion:
+- Inspires students nationwide to pursue technology
+- Shows practical value of computer education
+- Encourages schools to invest in technical streams
+- Promotes coding and AI education
+
+Innovation Culture:
+- Encourages student-led innovation projects
+- Shows importance of practical project-based learning
+- Demonstrates value of supporting student initiatives
+- Creates aspirational model for other schools
+
+Recognition:
+- CTEVT appreciation and recognition
+- Ministry of Education awareness
+- Featured in education technology forums
+- Potential model for scaling to other schools
+
+DEVELOPER RECOGNITION:
+
+Sangam Gautam's Recognition:
+• School Level:
+  - Appreciation certificate from Principal
+  - Recognition in school assembly
+  - Featured in school newsletter
+  - Inspiration for fellow students
+
+• District Level:
+  - Recognition from District Education Office
+  - Invited to present at education events
+  - Media interviews and coverage
+  - Peer recognition from other schools
+
+• National Level:
+  - CTEVT appreciation (potential)
+  - Featured in tech community forums
+  - Online tech community recognition
+  - LinkedIn and GitHub visibility
+
+• Personal Achievement:
+  - Portfolio builder for future education/career
+  - Demonstrated skills beyond age expectations
+  - Gained practical AI/ML experience
+  - Built confidence and leadership skills
+
+7.7 LESSONS LEARNED AND BEST PRACTICES
+--------------------------------------
+
+TECHNICAL LESSONS:
+
+1. Start Simple, Iterate:
+   - Begin with basic version (MVP - Minimum Viable Product)
+   - Test early and often
+   - Add features gradually
+   - Listen to user feedback
+
+2. Data Quality Matters:
+   - Accurate knowledge base crucial for AI accuracy
+   - Verify all information thoroughly
+   - Structure data well for optimal retrieval
+   - Regular updates needed
+
+3. User Experience Priority:
+   - Simple, intuitive interface essential
+   - Fast response times critical
+   - Mobile compatibility important
+   - Clear, helpful error messages
+
+4. Documentation is Key:
+   - Good docs save time later
+   - Help others understand system
+   - Enable future improvements
+   - Facilitate knowledge transfer
+
+5. Testing is Critical:
+   - Test extensively before launch
+   - Get diverse testers
+   - Test edge cases
+   - Plan for failures
+
+PROJECT MANAGEMENT LESSONS:
+
+1. Clear Vision Essential:
+   - Define goals clearly upfront
+   - Get stakeholder buy-in early
+   - Communicate vision effectively
+   - Stay focused on core objectives
+
+2. Seek Guidance:
+   - Teacher mentorship invaluable
+   - Learn from others' experience
+   - Join online communities
+   - Don't hesitate to ask questions
+
+3. Time Management:
+   - Balance with school studies
+   - Set realistic milestones
+   - Avoid burnout
+   - Consistent progress beats sporadic sprints
+
+4. Collaboration Works:
+   - Involve others early
+   - Value feedback
+   - Build support network
+   - Share credit
+
+5. Perseverance Pays:
+   - Challenges inevitable
+   - Learn from failures
+   - Stay motivated
+   - Celebrate small wins
+
+ADVICE FOR ASPIRING STUDENT DEVELOPERS:
+
+From Sangam Gautam:
+
+"To students who want to build similar projects:
+
+1. Start Learning: Don't wait for perfect conditions. Start learning today - online courses, YouTube tutorials, documentation.
+
+2. Build Projects: Theory is important, but building real projects teaches you most. Start small, grow gradually.
+
+3. Don't Fear Failure: Every error is a learning opportunity. I faced countless bugs and errors - that's how I learned.
+
+4. Seek Mentorship: Teachers, seniors, online communities - seek guidance. Nobody succeeds alone.
+
+5. Stay Curious: Technology evolves rapidly. Keep learning, experimenting, exploring.
+
+6. Solve Real Problems: Build something useful, not just for portfolio. Solving real problems is most rewarding.
+
+7. Share Knowledge: Help others learning. Teaching reinforces your own understanding.
+
+8. Be Patient: Complex projects take time. Consistent effort over months beats rushed work.
+
+9. Believe in Yourself: Age is just a number in tech. If you're passionate and dedicated, you can achieve anything.
+
+10. Dream Big: This project started as a crazy idea. Now it's reality. Your ideas can become reality too."
+
+7.8 FUTURE ROADMAP AND EXPANSION PLANS
+--------------------------------------
+
+SHORT-TERM PLANS (Next 6 Months):
+
+1. Nepali Language Support:
+   - Add Nepali language interface
+   - Accept queries in Nepali
+   - Respond in Nepali
+   - Challenge: Nepali NLP resources limited
+   - Benefit: Accessibility for Nepali-only speakers
+
+2. Voice Interface:
+   - Speech-to-text input
+   - Text-to-speech output
+   - Hands-free interaction
+   - Benefit: Accessibility, convenience
+
+3. Mobile Application:
+   - Native Android app
+   - Native iOS app
+   - Push notifications
+   - Offline basic features
+   - Benefit: Better mobile experience
+
+4. Enhanced Analytics:
+   - Usage statistics dashboard
+   - Popular queries analysis
+   - User behavior insights
+   - Performance metrics
+   - Benefit: Data-driven improvements
+
+MEDIUM-TERM PLANS (6-12 Months):
+
+1. Integration with School Management:
+   - Connect to attendance system
+   - Access exam results (with permission)
+   - View notices and announcements
+   - Check assignment deadlines
+   - Benefit: One-stop platform for students
+
+2. Personalization:
+   - User accounts and profiles
+   - Customized responses based on user type (student/parent/visitor)
+   - Saved conversation history
+   - Personalized recommendations
+   - Benefit: Tailored experience
+
+3. Advanced Features:
+   - Image recognition (identify places, people with consent)
+   - Document upload and analysis
+   - Calendar integration
+   - Email notifications
+   - Benefit: Enhanced capabilities
+
+4. Expansion to Other Schools:
+   - Create framework for other schools
+   - Offer as service to interested schools
+   - Training and support
+   - Potential business opportunity
+   - Benefit: Wider impact, sustainability
+
+LONG-TERM VISION (1-3 Years):
+
+1. District-Wide Platform:
+   - AI assistants for all Bhaktapur schools
+   - District education information hub
+   - Unified platform
+   - Benefit: Educational technology transformation
+
+2. National Education AI:
+   - Scale to schools nationwide
+   - Standardized school information access
+   - Ministry of Education collaboration
+   - Benefit: National digital education infrastructure
+
+3. Advanced AI Capabilities:
+   - Personalized learning recommendations
+   - Academic performance insights
+   - Career guidance based on interests
+   - Predictive analytics for student success
+   - Benefit: AI-powered education enhancement
+
+4. Commercial Sustainability:
+   - Software-as-a-Service (SaaS) model
+   - Subscription for schools
+   - Self-sustaining business
+   - Employment opportunities
+   - Benefit: Long-term viability and growth
+
+CALL FOR COLLABORATION:
+
+Interested in Collaborating?
+- Other schools wanting similar systems
+- Students interested in contributing
+- Developers wanting to help expand
+- Investors interested in education technology
+- Researchers studying AI in education
+
+Contact: sangam.gautam@adarshaschool.edu.np
+
+7.9 PROJECT TERMINOLOGY GLOSSARY
+--------------------------------
+
+FOR NON-TECHNICAL USERS - KEY TERMS EXPLAINED:
+
+Artificial Intelligence (AI):
+Computer systems that can perform tasks requiring human intelligence like understanding language, recognizing patterns, making decisions. Example: This AI assistant understands your questions and provides accurate answers.
+
+Machine Learning (ML):
+Subset of AI where computers learn from data without explicit programming. Example: The AI learns what types of questions users ask and improves over time.
+
+Natural Language Processing (NLP):
+AI's ability to understand and generate human language. Example: The AI understands "Who's the principal?" and "Tell me about the headmaster" mean the same thing.
+
+Large Language Model (LLM):
+Advanced AI trained on vast amounts of text, capable of understanding context and generating human-like responses. Examples: GPT (OpenAI), Claude (Anthropic), Gemini (Google).
+
+RAG (Retrieval-Augmented Generation):
+Hybrid AI approach combining database search with AI generation for accurate, factual answers. Process: Find relevant information first, then AI uses it to generate answer.
+
+Vector Database:
+Specialized database storing information as mathematical vectors for semantic (meaning-based) search. Benefit: Finds relevant information even if worded differently.
+
+Embedding:
+Mathematical representation of text as numbers (vectors) that capture meaning. Example: "principal" and "headmaster" have similar embeddings because similar meaning.
+
+Semantic Search:
+Search based on meaning, not just keywords. Example: Searching "school leader" finds information about "principal" even though exact word not used.
+
+API (Application Programming Interface):
+Way for different software to communicate. Example: Frontend sends question to backend through API.
+
+Frontend:
+User-facing part of application (what you see and interact with). Example: Chat interface where you type questions.
+
+Backend:
+Server-side logic and data processing (behind the scenes). Example: Processes your question, searches database, generates answer.
+
+Prompt:
+Input given to AI including your question plus relevant context. Example: Your question + school information from database = Prompt for AI.
+
+Context:
+Relevant background information provided to AI for accurate answers. Example: When you ask about principal, AI receives principal section from knowledge base as context.
+
+Query:
+Question or request submitted by user. Example: "What are the school timings?"
+
+Response:
+Answer generated by AI based on query and context. Example: "School operates from 10:00 AM to 5:00 PM on school days."
+
+Training Data:
+Information used to teach AI. Example: Comprehensive school knowledge base (this document) is training data.
+
+Model:
+AI system trained to perform specific task. Example: Language model trained to understand and generate text.
+
+Deployment:
+Making system available for actual use (going live). Example: When AI assistant was made accessible to everyone via website.
+
+Production:
+Live, operational system used by real users (not testing). Example: The AI assistant currently answering user questions is in production.
+
+MVP (Minimum Viable Product):
+Simplest version of product with core features, used for initial testing. Example: First version of AI with basic question-answering.
+
+Bug:
+Error or defect in software. Example: If AI gives wrong answer or system crashes.
+
+Testing:
+Process of checking if system works correctly. Example: Asking 500 questions to verify accuracy before launch.
+
+User Experience (UX):
+How users feel when using system. Example: Is interface easy to use? Are answers helpful?
+
+Scalability:
+Ability to handle growth (more users, more data). Example: System should work with 10 users or 10,000 users.
+
+================================================================================
+SECTION 14: EXPANDED GLOSSARY - COMPREHENSIVE TERMS AND DEFINITIONS
+================================================================================
+
+This section provides detailed explanations of ALL terminology used throughout the document, optimized for semantic understanding and RAG retrieval.
+
+EDUCATIONAL TERMINOLOGY:
+
+Academic Year:
+Period during which school operates, typically running from Baisakh (April/May) to Chaitra (March/April) in Nepal. Divided into terms or semesters.
+
+Admission:
+Process of enrolling new students into school. Involves application, documentation, fee payment, and registration. At Adarsha, typically occurs in Chaitra-Baisakh (March-May).
+
+Alumni (singular: Alumnus/Alumna):
+Former students who have graduated from the institution. Adarsha has 58 years of alumni across generations.
+
+Assessment:
+Evaluation of student learning through exams, assignments, projects, presentations. Types: Formative (ongoing), Summative (final).
+
+Attendance:
+Regular presence in classes. Mandatory in Nepal education system. Minimum 75% attendance often required for exam eligibility.
+
+Board Examination:
+Standardized external examination conducted by board (NEB, CTEVT). Examples: SEE (Grade 10), TSLC (Technical Grade 10).
+
+Campus:
+School grounds including all buildings, facilities, and outdoor spaces. Adarsha campus is 67,986 square meters.
+
+Certificate:
+Official document verifying academic achievement. Types: Passing certificate, character certificate, transfer certificate, grade sheets.
+
+Class/Grade:
+Level of education. In Nepal: ECD → Grades 1-8 (Basic) → Grades 9-10 (Secondary) → Grades 11-12 (Higher Secondary).
+
+Co-curricular Activities:
+Activities complementing academic curriculum. Examples: Sports, debates, clubs, cultural programs, social service.
+
+Compulsory Subject:
+Mandatory subject all students must study. At Adarsha: Nepali, English, Mathematics, Science, Social Studies.
+
+Curriculum:
+Structured set of courses, content, and learning experiences. In Nepal, set by NEB for general education, CTEVT for technical.
+
+Demonstration School:
+Model school showcasing best educational practices for other schools to observe and learn from. Adarsha's original designation.
+
+Discipline:
+1) Adherence to school rules and behavioral standards.
+2) Academic field of study (subject discipline).
+
+Dropout:
+Student leaving school before completing education. Major concern in Nepal education system, especially in rural areas.
+
+Enrollment:
+Number of registered students. Also refers to registration process. Adarsha has 800+ enrolled students.
+
+Examination:
+Formal testing of knowledge and skills. Types: Internal (unit tests, monthly tests), External (SEE, TSLC).
+
+Extra-curricular Activities:
+Activities outside academic curriculum. Examples: Sports, music, drama, art, clubs.
+
+Faculty:
+1) Teaching staff collectively.
+2) Major division of subjects (Science Faculty, Management Faculty).
+
+Grade Point Average (GPA):
+Numerical representation of academic performance. Scale in Nepal: 0.8 (D) to 4.0 (A+). Required for higher education admission.
+
+Guardians:
+Adults legally responsible for student. Usually parents, sometimes relatives if parents absent.
+
+Homework:
+Academic work assigned to be completed outside class. Reinforces learning, develops discipline.
+
+House System (optional in some schools):
+Division of students into competing houses for sports and activities. Promotes teamwork and school spirit.
+
+Infrastructure:
+Physical facilities and buildings. Adarsha infrastructure: classrooms, labs, library, halls, sports facilities.
+
+Internship:
+Practical work experience for students, especially in technical streams. Provides real-world exposure.
+
+Laboratory/Lab:
+Specialized room for practical experiments and hands-on learning. Adarsha has Physics, Chemistry, Biology, and Computer labs.
+
+Learning Outcome:
+What students should know and be able to do after instruction. Defined in curriculum.
+
+Library:
+Collection of books and resources for learning. Adarsha library has 5,000+ books.
+
+Medium of Instruction:
+Language used for teaching. At Adarsha: English medium (Nepali language taught as subject).
+
+Pedagogy:
+Science and art of teaching. Teaching methods and strategies.
+
+Period:
+Unit of class time. Typically 40-45 minutes. School day divided into multiple periods.
+
+Practical:
+Hands-on activity or experiment. Important in science and technical education. Contrasts with theory.
+
+Principal:
+Chief executive and academic leader of school. Pradhanadhyapak in Nepali. At Adarsha: Mr. Ram Babu Regmi.
+
+Private School:
+School owned and operated by private entity (individual, organization). Contrast: Government/Community school like Adarsha.
+
+Promotion:
+Advancement to next grade based on performance. Automatic promotion in some grades, exam-based in others.
+
+Public School:
+In Nepal context: Government-funded, community-managed school. (Note: Different meaning in UK/USA).
+
+Report Card/Progress Report:
+Document showing student's academic performance and attendance. Issued periodically (monthly, quarterly, annually).
+
+Scholarship:
+Financial aid for students based on merit or need. Sources: Government, school, private organizations.
+
+School Management Committee (SMC):
+Governing body of community school. Oversees policy, finance, operations. Chairperson: Mr. Rajendra Prasad Shrestha.
+
+Semester/Term:
+Division of academic year. Some schools use semesters (2 per year), others use three terms. Helps organize curriculum delivery.
+
+Stream/Faculty:
+Specialized pathway in higher grades. At Adarsha: General Stream (academic) and Technical Stream (Computer Engineering).
+
+Student Council:
+Elected student representatives promoting student voice and leadership. Organizes activities, channels concerns.
+
+Syllabus:
+Detailed outline of topics to be covered in a course. Subset of broader curriculum.
+
+Teacher:
+Professional educator who instructs students. At Adarsha: 42 teaching staff members.
+
+Timetable:
+Schedule of classes, subjects, and periods. Organized by day and time slot.
+
+Transfer Certificate (TC):
+Document issued when student leaves school, required for admission elsewhere.
+
+Tuition/Fee:
+Payment for education services. Community schools charge minimal fees compared to private schools.
+
+Uniform:
+Standardized clothing worn by students. Promotes equality, discipline, school identity.
+
+Vocational Education:
+Education focused on practical skills for specific trades or occupations. Historical focus at Adarsha.
+
+Workshop:
+1) Training session on specific topic.
+2) Room with tools and equipment for practical work (in technical education).
+
+NEPAL EDUCATION SYSTEM TERMINOLOGY:
+
+B.S./Bikram Sambat:
+Official calendar system of Nepal. Currently 2082 B.S. (equals 2025 AD). Approximately 56-57 years ahead of Gregorian calendar.
+
+Basic Education:
+Education from ECD to Grade 8 in Nepal's restructured system. Foundation level before secondary education.
+
+CTEVT (Council for Technical Education and Vocational Training):
+प्राविधिक शिक्षा तथा व्यावसायिक तालीम परिषद्
+Autonomous body governing technical and vocational education in Nepal. Established 2045 B.S. (1989 AD). Headquarters: Sanothimi, Bhaktapur.
+
+Curriculum Development Centre (CDC):
+Government body responsible for developing curriculum and textbooks for school education in Nepal.
+
+Dashain:
+डशैं/दशैं - Major Hindu festival in Nepal (September/October). Schools have 10-15 day holiday. Largest festival celebrated nationally.
+
+Department of Education (DoE):
+Government department under MoEST responsible for school education administration nationwide.
+
+DECU (District Education Coordination Unit):
+Local government unit managing education at district level. Replaced DEO after federal restructuring.
+
+ECD (Early Childhood Development):
+Pre-primary education for children ages 3-5. Includes Nursery, LKG, UKG. Prepares children for Grade 1.
+
+Federal System:
+Nepal's current governance structure (since 2072 B.S./2015 AD). Three levels: Federal, Provincial, Local. Education is concurrent subject.
+
+Grade/Class:
+Level of school education. Nepal system: ECD → 1-12 → Higher Education. Adarsha covers ECD to Grade 10.
+
+Higher Secondary (+2):
+Grades 11-12 in Nepal. Different institutions than secondary schools. Students choose specialized faculty (Science, Management, Humanities, Education, Law).
+
+Iron Gate (फलामे गेट):
+Colloquial term for SLC (now SEE) examination. Historically very difficult, many students failed. Now pass rate much higher.
+
+Jestha (जेष):
+Second month of Nepali calendar (May-June in Gregorian calendar). School year typically starts in Baisakh, exams often in Jestha.
+
+MoEST (Ministry of Education, Science and Technology):
+शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय
+Central government ministry overseeing education policy and administration. Located in Singha Durbar, Kathmandu.
+
+Nagarpalika (नगरपालिका):
+Municipality - unit of local government in Nepal. Adarsha is in Madhyapur Thimi Municipality.
+
+NEB (National Examination Board):
+राष्ट्रिय परीक्षा बोर्ड
+Autonomous body conducting secondary level examinations. Established 2072 B.S. (2016 AD). Conducts SEE examination.
+
+Nepali Language:
+राष्ट्रभाषा (National Language) of Nepal. Official language, taught as compulsory subject. Indo-Aryan language written in Devanagari script.
+
+Province (प्रदेश):
+Nepal has 7 provinces after federal restructuring. Adarsha is in Bagmati Province (Province 3).
+
+SLC (School Leaving Certificate):
+स्कूल लिभिङ सर्टिफिकेट
+Former name of Grade 10 board exam. Now called SEE. Highly significant examination determining future educational pathway.
+
+SEE (Secondary Education Examination):
+माध्यमिक शिक्षा परीक्षा
+Current name for Grade 10 board examination. Replaced SLC in 2073 B.S. (2016 AD). Conducted by NEB.
+
+Secondary Education:
+Grades 9-10 in Nepal's education structure. Culminates in SEE examination.
+
+Tihar (तिहार):
+Major Hindu festival (October/November). Festival of lights. 5-day celebration. Schools have holiday.
+
+TSLC (Technical School Leaving Certificate):
+प्राविधिक स्कूल लिभिङ सर्टिफिकेट
+Grade 10 certificate for technical stream students. Equivalent to SEE but with technical specialization. Conducted by CTEVT.
+
+TECHNICAL AND COMPUTER SCIENCE TERMINOLOGY:
+
+Algorithm:
+Step-by-step procedure for solving problem or completing task. Foundation of programming and computer science.
+
+API (Application Programming Interface):
+Set of rules allowing different software applications to communicate. Enables integration between systems.
+
+Backend Development:
+Server-side programming. Handles data processing, storage, business logic. Not directly visible to users. Languages: Python, Java, PHP, Node.js.
+
+Bug:
+Error or defect in software causing incorrect results or behavior. Named after actual bug (moth) found in early computer.
+
+C Programming:
+Programming language developed in 1970s. Foundation for many modern languages. Taught in technical stream Grade 9 at Adarsha.
+
+C++ Programming:
+Extension of C with object-oriented features. Powerful language for system programming, games, applications. Taught in Grade 10 technical stream.
+
+Cache:
+Temporary storage for frequently accessed data. Improves system performance by reducing retrieval time.
+
+Cloud Computing:
+Delivery of computing services (servers, storage, databases, software) over internet. Examples: AWS, Google Cloud, Azure.
+
+Code:
+Instructions written in programming language that computer executes. Verb: to write such instructions.
+
+Computer Engineering:
+Field combining electrical engineering and computer science. Covers hardware, software, networks. Technical stream specialization at Adarsha.
+
+Computer Fundamentals:
+Basic concepts of computer: hardware, software, input/output, storage, processing. Introductory subject in technical stream.
+
+CRM (Computer Repair and Maintenance):
+Technical subject teaching hardware troubleshooting, repair, maintenance. Practical skills for computer technicians.
+
+CSS (Cascading Style Sheets):
+Language for styling web pages. Controls colors, layouts, fonts, visual presentation. Used with HTML.
+
+Database:
+Organized collection of data stored electronically. Enables efficient storage, retrieval, manipulation. Examples: MySQL, PostgreSQL, MongoDB.
+
+Database Management System (DBMS):
+Software for creating, managing, querying databases. Subject taught in technical stream Grade 10. Examples: MySQL, Oracle, SQL Server.
+
+Debugging:
+Process of finding and fixing bugs in code. Essential programming skill.
+
+Deployment:
+Process of making application available for use. Moving from development environment to production.
+
+Electronic Systems:
+Study of electronic circuits, components, devices. Technical subject covering transistors, ICs, circuits, microcontrollers.
+
+Embedding (in AI/ML):
+Numerical vector representation of data (text, images). Enables mathematical operations on semantic meaning. Key to RAG systems.
+
+Framework:
+Pre-built software foundation providing structure for development. Examples: React (frontend), FastAPI (backend), Django, Flask.
+
+Frontend Development:
+Client-side programming. Creates user interface and user experience. Technologies: HTML, CSS, JavaScript, React.
+
+Full-Stack Development:
+Combination of frontend and backend development. Developer skilled in both layers.
+
+GitHub:
+Web platform for version control and collaboration. Hosts code repositories. Essential tool for modern developers. Website: github.com
+
+GUI (Graphical User Interface):
+Visual interface with windows, icons, buttons. Contrasts with text-based command line interface.
+
+HTML (Hypertext Markup Language):
+Standard language for creating web pages. Defines structure and content. Foundation of all websites.
+
+HTTP/HTTPS:
+Protocols for transferring data on web. HTTPS is secure version with encryption. URLs start with these.
+
+IDE (Integrated Development Environment):
+Software application for writing and testing code. Examples: Visual Studio Code, PyCharm, Eclipse, Code::Blocks.
+
+JavaScript:
+Programming language for web interactivity. Runs in browsers. Essential for modern web development. Used in frontend and backend (Node.js).
+
+LAN (Local Area Network):
+Network connecting computers in limited area like school or building. Enables file sharing, printer sharing, internet sharing.
+
+Library (in programming):
+Collection of pre-written code for reuse. Saves time, provides tested functionality. Examples: React, NumPy, Pandas.
+
+Machine Learning (ML):
+Subset of AI where systems learn from data without explicit programming. Applications: recommendations, predictions, classification.
+
+Natural Language Processing (NLP):
+AI field focused on interaction between computers and human language. Enables chatbots, translation, sentiment analysis.
+
+Operating System (OS):
+Software managing computer hardware and software resources. Examples: Windows, Linux, macOS, Android, iOS.
+
+Programming:
+Process of writing instructions (code) for computers to execute. Creating software applications.
+
+Python:
+High-level programming language. Widely used for AI/ML, web development, data science, automation. Known for readability and simplicity.
+
+React.js:
+JavaScript library for building user interfaces. Created by Facebook. Component-based, efficient, popular for web apps.
+
+Server:
+Computer or program providing services to other computers (clients). Hosts websites, applications, databases.
+
+Software:
+Programs and applications running on computers. Contrasts with hardware (physical components).
+
+SQL (Structured Query Language):
+Language for managing and querying relational databases. Essential skill for database work.
+
+UI/UX (User Interface/User Experience):
+UI: Visual elements users interact with.
+UX: Overall experience and satisfaction using product.
+Both critical for successful applications.
+
+Vector (in mathematics/CS):
+Array of numbers. In AI: represents data as numerical values enabling mathematical operations on semantic meaning.
+
+Web Design:
+Creating layout, appearance, and usability of websites. Technical subject at Adarsha covering HTML, CSS, JavaScript, responsive design.
+
+Web Development:
+Process of creating websites and web applications. Includes frontend, backend, database, deployment.
+
+ADMINISTRATIVE AND ORGANIZATIONAL TERMINOLOGY:
+
+Affiliation:
+Official connection between institution and governing body. Adarsha affiliated with NEB (academic) and CTEVT (technical).
+
+Annual Report:
+Yearly comprehensive report of school activities, achievements, finances, statistics. Presented to SMC and authorities.
+
+Budget:
+Financial plan for income and expenditure. School budget approved by SMC annually.
+
+Bylaws:
+Rules governing organization's operations. SMC operates according to bylaws defined in education regulations.
+
+Chairperson:
+Head of committee or organization. SMC Chairperson: Mr. Rajendra Prasad Shrestha. Presides over meetings, represents SMC.
+
+Circular:
+Official written announcement distributed widely. Schools receive circulars from DECU, MoEST.
+
+Community School:
+School owned by government but managed by local community through SMC. Receives government funding and community support. Adarsha is community school.
+
+Ex-officio:
+By virtue of position/office. Principal is ex-officio member secretary of SMC due to position.
+
+Fiscal Year:
+12-month period for financial reporting. In Nepal: Mid-July (Shrawan 1) to Mid-July (Ashadh end). Differs from academic year.
+
+Governance:
+System of rules, practices, processes for directing and controlling organization. School governance through SMC.
+
+Grievance:
+Formal complaint or concern. Schools have grievance handling mechanisms for students, parents, staff.
+
+Infrastructure Development:
+Improvement of physical facilities. SMC approves major infrastructure projects.
+
+Institutional:
+Related to organization or institution. "Institutional school" in Nepal means private school (confusing terminology).
+
+Inventory:
+Detailed list of assets, equipment, supplies. Schools maintain inventory of furniture, equipment, books, supplies.
+
+Member Secretary:
+Administrative head of committee. Records minutes, implements decisions, coordinates. Principal serves as member secretary of SMC.
+
+Minutes:
+Written record of meeting proceedings, discussions, decisions. Maintained for all official meetings.
+
+MoU (Memorandum of Understanding):
+Formal agreement between parties. May outline partnerships, collaborations, resource sharing.
+
+PAN (Permanent Account Number):
+Tax registration number. Required for all financial transactions in Nepal. Issued by Inland Revenue Department.
+
+Policy:
+Formal guideline or principle guiding decisions and actions. Schools have policies for admissions, discipline, safety, etc.
+
+Quorum:
+Minimum number of members required for meeting to be valid. Ensures representative decision-making.
+
+Registration:
+Official recording in formal register or database. Schools registered with government education authorities.
+
+Stakeholder:
+Individual or group with interest in organization. School stakeholders: students, parents, teachers, staff, community, government.
+
+Tender:
+Formal invitation to bid for contract or project. Used for major purchases, construction projects.
+
+Transparency:
+Openness in operations, decisions, finances. Good governance principle. Public schools must maintain transparency.
+
+AI AND TECHNOLOGY PROJECT TERMINOLOGY:
+
+Accuracy:
+Measure of correctness. AI accuracy: percentage of correct answers. Adarsha AI Assistant: >95% accuracy.
+
+Architecture:
+Overall structure and design of system. Software architecture defines components and their interactions.
+
+Beta Testing:
+Testing phase where select users try product before public release. Provides real-world feedback.
+
+Chatbot:
+AI-powered conversational agent. Interacts with users via text or speech. Adarsha AI Assistant is specialized chatbot.
+
+Client-Server Model:
+Architecture where clients request services and servers provide them. Web applications use this model.
+
+Context Window:
+Amount of text AI can process at once. Larger window allows understanding longer conversations.
+
+Conversational AI:
+AI systems capable of human-like conversation. Uses NLP to understand and respond naturally.
+
+Data Science:
+Field extracting insights from data using statistics, programming, ML. Interdisciplinary combining multiple skills.
+
+Deep Learning:
+Subset of ML using neural networks with multiple layers. Powers modern AI like image recognition, language models.
+
+Demo/Demonstration:
+Showing how product works. Project demos showcase capabilities to stakeholders.
+
+Documentation:
+Written materials explaining system design, usage, maintenance. Critical for project sustainability.
+
+Edge Case:
+Unusual or extreme scenario not commonly encountered. Testing edge cases ensures robustness.
+
+Feedback Loop:
+Process where system output influences future input. User feedback improves system over time.
+
+Fine-tuning:
+Adjusting pre-trained model for specific task or domain. Can improve accuracy for specialized applications.
+
+GPT (Generative Pre-trained Transformer):
+Type of large language model. GPT-3, GPT-4 by OpenAI. Foundation of many modern AI applications.
+
+Hallucination (in AI):
+When AI generates plausible-sounding but incorrect information. RAG systems reduce hallucinations by grounding responses in factual data.
+
+Inference:
+Process of AI making predictions or generating outputs based on trained model. Runtime AI activity.
+
+Integration:
+Combining different systems or components to work together. API integration connects separate applications.
+
+Iteration:
+Repetition of process. Software development involves iterative cycles of building, testing, improving.
+
+Knowledge Base:
+Structured collection of information. Adarsha AI's knowledge base contains comprehensive school information.
+
+Latency:
+Time delay between input and output. Low latency means fast response. Adarsha AI responds in <3 seconds.
+
+LLM (Large Language Model):
+AI model trained on vast text data to understand and generate language. Examples: GPT-4, Claude, Gemini, LLaMA.
+
+Load Testing:
+Testing system performance under heavy usage. Ensures system handles many simultaneous users.
+
+Machine Learning Pipeline:
+Series of data processing steps from raw data to model output. Standardized workflow for ML projects.
+
+Metadata:
+Data about data. Describes characteristics, context, structure of other data. Used in knowledge base for categorization.
+
+Metrics:
+Quantifiable measures of performance. Project metrics: accuracy, response time, user satisfaction, uptime.
+
+Microservices:
+Architecture breaking application into small, independent services. Contrasts with monolithic architecture.
+
+Migration:
+Moving data or applications from one system to another. May involve database migration, cloud migration.
+
+Model Training:
+Process of teaching AI model using data. Involves feeding examples and adjusting model parameters.
+
+MVP (Minimum Viable Product):
+Simplest version of product with core features. Used to validate concept before full development.
+
+Neural Network:
+Computing system inspired by biological brain. Foundation of deep learning. Consists of interconnected nodes (neurons).
+
+Optimization:
+Improving system performance, speed, resource usage. Continuous process throughout development.
+
+Pipeline:
+Sequence of processing steps. RAG pipeline: query → embedding → retrieval → generation → response.
+
+Platform:
+Computing environment or framework supporting applications. Web platform, mobile platform, cloud platform.
+
+Pre-processing:
+Preparing data before main processing. Text preprocessing: cleaning, normalization, tokenization.
+
+Production Environment:
+Live system used by real users. Contrasts with development (coding) and testing (QA) environments.
+
+Prompt Engineering:
+Crafting effective inputs for AI models to get desired outputs. Important skill for working with LLMs.
+
+Prototype:
+Early sample or model for testing concepts. Quick version to validate ideas before full development.
+
+Query:
+Request for information. Database query retrieves data. AI query asks question.
+
+RAG (Retrieval-Augmented Generation):
+AI architecture combining retrieval from knowledge base with generative AI. Produces accurate, factual responses.
+
+Repository (Repo):
+Storage location for code and project files. GitHub hosts repositories. Project repo contains all code.
+
+Responsive Design:
+Web design adapting to different screen sizes. Works on phones, tablets, computers.
+
+REST API (Representational State Transfer API):
+Architectural style for web services. Standard way to create APIs.
+
+Scalability:
+Capability to handle growth. Scalable system works with 10 or 10,000 users without redesign.
+
+Semantic:
+Related to meaning. Semantic search finds relevant information based on meaning, not just keywords.
+
+Server:
+Computer providing services to other computers. Web servers host websites, database servers store data.
+
+Stack (Technology Stack):
+Collection of technologies used together. Adarsha AI stack: React (frontend), Python (backend), Vector DB, LLM.
+
+Syntax:
+Rules for writing code in programming language. Syntax errors prevent code from running.
+
+Testing:
+Verifying system works correctly. Types: unit testing, integration testing, user acceptance testing.
+
+Token:
+Basic unit in NLP. Words or word pieces. LLMs process text as tokens.
+
+Training Data:
+Data used to train ML models. Quality and quantity crucial for model performance.
+
+UI (User Interface):
+Visual elements users interact with. Buttons, forms, menus, displays.
+
+Uptime:
+Time system is operational and accessible. Adarsha AI: 99.8% uptime means available 99.8% of time.
+
+User Acceptance Testing (UAT):
+Final testing phase where actual users verify system meets requirements before launch.
+
+UX (User Experience):
+Overall experience using product. Encompasses usability, accessibility, satisfaction.
+
+Vector:
+Mathematical representation as array of numbers. Vector embeddings represent text numerically.
+
+Version Control:
+System tracking changes to code over time. Git is version control system. Enables collaboration, rollback.
+
+Web Scraping:
+Automated extraction of data from websites. May be used for data collection (with permission).
+
+Workflow:
+Sequence of steps to complete process. Development workflow: code → test → review → deploy.
+
+NEPALI CULTURAL AND SOCIAL TERMINOLOGY:
+
+Bagmati:
+Major river in Nepal flowing through Kathmandu Valley. Also name of Province 3 (Bagmati Province).
+
+Bhaktapur:
+भक्तपुर - "City of Devotees"
+Ancient Newari city in Kathmandu Valley. Former capital. Famous for: culture, temples, pottery, yogurt (juju dhau). District where Adarsha located.
+
+Dashain:
+दशैं - 15-day festival celebrating victory of good over evil. Largest and most important festival in Nepal. Worship of Goddess Durga. Family reunions, blessings, feasts.
+
+Devanagari:
+देवनागरी - Script used for writing Nepali, Sanskrit, Hindi. Also used for Marathi and several other Indian languages.
+
+Durbar Square:
+दरबार स्क्वायर - Palace square. Historical royal palace complexes. Kathmandu Valley has three: Kathmandu, Bhaktapur, Patan. UNESCO World Heritage Sites.
+
+Ganesh:
+गणेश - Hindu deity, remover of obstacles. Elephant-headed god. Worshipped before starting new ventures, including school year.
+
+Khukuri/Kukri:
+खुकुरी - Traditional Nepali curved knife. National weapon, symbol of Gurkha warriors. Cultural significance.
+
+Malla Dynasty:
+मल्ल - Ruled Kathmandu Valley (14th-18th century). Built temples, palaces, art. Divided into three kingdoms: Kathmandu, Bhaktapur, Patan.
+
+Mandala:
+मण्डल - Spiritual symbol in Hinduism and Buddhism. Geometric design representing universe. Used in meditation and art.
+
+Mount Everest:
+सगरमाथा (Sagarmatha) in Nepali, Chomolungma in Tibetan
+World's highest mountain (8,849m). Located in Nepal-Tibet border. Pride of Nepal.
+
+Namaste:
+नमस्ते - Traditional greeting. Hands together, slight bow. Means "I bow to the divine in you."
+
+Nepali/Nepalese:
+नेपाली - Relating to Nepal. Person from Nepal, language of Nepal, culture of Nepal.
+
+Newari/Newar:
+नेवार - Indigenous people of Kathmandu Valley. Rich culture, language (Nepal Bhasa), architecture, festivals, cuisine.
+
+Puja:
+पूजा - Hindu worship ritual. Prayer ceremony. Schools often have puja before exams or special events.
+
+Sagarmatha:
+सगरमाथा - Nepali name for Mount Everest. Means "forehead of the sky."
+
+Sherpa:
+शेर्पा - Ethnic group from Himalayan regions. Famous for mountaineering skills. Guide trekkers and climbers.
+
+Sindoor Jatra:
+सिन्दूर जात्रा - Unique festival of Thimi (where Adarsha located). Throwing vermillion powder. Celebrates Nepali New Year.
+
+Terai:
+तराई - Southern plains of Nepal. Flat, fertile land. Contrasts with Hills (पहाड) and Mountains (हिमाल).
+
+Thimi:
+थिमि - Ancient Newari town, part of Bhaktapur District. Known for pottery, masks, Sindoor Jatra. Adarsha in Madhyapur Thimi Municipality.
+
+Tika:
+टिका - Mark on forehead. Religious and cultural significance. Applied during Dashain festival with blessing.
+
+Tihar:
+तिहार - Festival of lights. 5-day celebration. Worship of crows, dogs, cows, Laxmi, brothers. Called Deepawali in India.
+
+Tribhuvan:
+त्रिभुवन - King Tribhuvan Bir Bikram Shah (ruled 1911-1955). Ended Rana rule, restored monarchy. Father of modern Nepal. Airport named after him.
+
+Yeti:
+येती - Mythical creature of Himalayas. "Abominable Snowman." Part of Sherpa folklore and popular culture.
+
+================================================================================
+SECTION 16: KEYWORDS AND SEMANTIC TAGS FOR RAG OPTIMIZATION
+================================================================================
+
+This section provides comprehensive keyword mappings and semantic tags to enhance RAG retrieval accuracy and semantic understanding.
+
+PRIMARY ENTITY KEYWORDS:
+
+School Name Variations:
+- Adarsha Secondary School
+- Adarsha School
+- Adarsha Madhyamik Vidyalaya
+- आदर्श माध्यमिक विद्यालय
+- DMPS (Demonstration Multipurpose School)
+- Adarsha Sanothimi
+- Sanothimi Adarsha
+- Model School Bhaktapur
+
+Location Keywords:
+- Sanothimi
+- सानोठिमी
+- Madhyapur Thimi
+- मध्यपुर थिमी
+- Thimi
+- Bhaktapur
+- भक्तपुर
+- Bagmati Province
+- Province 3
+- Ward 2
+- Near CTEVT
+- Near NEB
+
+Principal Keywords:
+- Principal
+- Headmaster
+- Pradhanadhyapak
+- प्रधानाध्यापक
+- School Head
+- Ram Babu Regmi
+- रामबाबु रेग्मी
+- School Leader
+- Administrative Head
+
+Examination Keywords:
+- SEE (Secondary Education Examination)
+- SLC (School Leaving Certificate)
+- Iron Gate
+- फलामे गेट
+- Board Exam
+- Grade 10 Exam
+- TSLC (Technical School Leaving Certificate)
+- Final Examination
+- NEB Exam
+
+Technical Stream Keywords:
+- Computer Engineering
+- Technical Stream
+- प्राविधिक
+- CTEVT Stream
+- Technical Education
+- Vocational Education
+- Computer Technical
+- Engineering Stream
+
+AI Project Keywords:
+- AI Assistant
+- Artificial Intelligence
+- School AI
+- Chatbot
+- AI Project
+- Sangam Gautam
+- संगम गौतम
+- Student Developer
+- Innovation Project
+- RAG System
+
+SEMANTIC RELATIONSHIP MAPPINGS:
+
+People Relationships:
+- Principal = Headmaster = Pradhanadhyapak = School Head = Ram Babu Regmi
+- Vice Principal = Upadhyapak = Tanka Nath Acharya
+- Teacher = Instructor = Faculty = Educator = Shikshak
+- Student = Pupil = Learner = Vidyarthi
+- Parent = Guardian = Abhivabhak
+
+Place Relationships:
+- Sanothimi = Location of school = Near CTEVT = Near NEB
+- Bhaktapur = District = Historical city = Durbar Square city
+- Kathmandu Valley = Bhaktapur + Kathmandu + Lalitpur
+- Campus = School Grounds = School premises = Vidyalaya parishar
+
+Time Relationships:
+- School Hours = 10 AM to 5 PM = Morning to Evening
+- School Days = Sunday to Friday = Weekdays
+- Holiday = Saturday = Weekend = Chutti
+- Academic Year = Baisakh to Chaitra
+
+Facility Relationships:
+- Library = Book Collection = Reading Room = Pustakalaya
+- Laboratory = Lab = Practical Room = Experiment Room
+- Classroom = Class = Room = Kakchya
+- Playground = Sports Field = Ground = Khel Maidan
+
+Subject Relationships:
+- Science = Physics + Chemistry + Biology
+- Mathematics = Math = Ganit = Numbers
+- Language = Nepali + English
+- Social = History + Geography + Civics
+- Computer = IT = Programming = Technology
+
+QUESTION PATTERN MAPPINGS:
+
+Who Questions:
+- "Who is the principal?" → Ram Babu Regmi information
+- "Who teaches X?" → Teacher name and details
+- "Who founded?" → Historical founders, King Mahendra, USAID
+- "Who manages?" → SMC, Administration
+
+What Questions:
+- "What is the address?" → Location information
+- "What are the timings?" → School hours, schedule
+- "What subjects?" → Curriculum, courses offered
+- "What facilities?" → Infrastructure, amenities
+
+When Questions:
+- "When was it established?" → 1967, 2024 BS, founding date
+- "When are exams?" → Examination schedule
+- "When is school open?" → Operating hours, days
+- "When do admissions start?" → Admission timeline
+
+Where Questions:
+- "Where is the school?" → Address, location, directions
+- "Where is X located?" → Facility locations within campus
+- "Where to apply?" → Admission office, process
+
+Why Questions:
+- "Why choose this school?" → Advantages, features, reputation
+- "Why technical stream?" → Benefits, career opportunities
+- "Why AI project?" → Innovation, student capability showcase
+
+How Questions:
+- "How to apply?" → Admission process steps
+- "How to reach?" → Transportation, directions, routes
+- "How many students?" → Enrollment numbers
+- "How is the infrastructure?" → Facility descriptions
+
+CONTEXTUAL SEMANTIC CLUSTERS:
+
+Cluster 1: Admission and Enrollment
+Keywords: admission, enrollment, apply, join, register, entrance, eligibility, requirements, documents, fees, process, deadline
+
+Cluster 2: Academic Information
+Keywords: subjects, curriculum, syllabus, textbooks, examination, grades, marks, results, GPA, assessment, homework, projects
+
+Cluster 3: Infrastructure and Facilities
+Keywords: buildings, classrooms, labs, library, playground, toilets, canteen, parking, equipment, furniture, computers
+
+Cluster 4: Staff and Administration
+Keywords: teachers, principal, vice principal, instructors, librarian, nurse, staff, employees, administration, management
+
+Cluster 5: Student Life
+Keywords: uniform, rules, discipline, activities, sports, clubs, events, cultural programs, assemblies, friends, peers
+
+Cluster 6: Location and Access
+Keywords: address, location, directions, transportation, bus, route, map, nearby, distance, GPS, coordinates
+
+Cluster 7: History and Legacy
+Keywords: founded, established, history, evolution, founders, heritage, tradition, alumni, achievements, milestones
+
+Cluster 8: Technical Education
+Keywords: CTEVT, computer engineering, programming, C, C++, DBMS, web design, technical skills, practical, labs
+
+Cluster 9: AI Project and Innovation
+Keywords: artificial intelligence, AI assistant, chatbot, Sangam Gautam, developer, innovation, technology, RAG, machine learning
+
+Cluster 10: Contact and Communication
+Keywords: phone, email, contact, communication, inquiry, questions, information, office, reception
+
+MULTILINGUAL KEYWORD MAPPINGS:
+
+English → Nepali:
+- School → विद्यालय (Vidyalaya)
+- Teacher → शिक्षक (Shikshak)
+- Student → विद्यार्थी (Vidyarthi)
+- Principal → प्रधानाध्यापक (Pradhanadhyapak)
+- Education → शिक्षा (Shiksha)
+- Examination → परीक्षा (Pariksha)
+- Grade/Class → कक्षा (Kakchya)
+- Library → पुस्तकालय (Pustakalaya)
+- Subject → विषय (Vishaya)
+- Time → समय (Samaya)
+
+ACRONYM EXPANSIONS:
+
+- AI = Artificial Intelligence
+- NEB = National Examination Board
+- CTEVT = Council for Technical Education and Vocational Training
+- SEE = Secondary Education Examination
+- SLC = School Leaving Certificate
+- TSLC = Technical School Leaving Certificate
+- MoEST = Ministry of Education, Science and Technology
+- SMC = School Management Committee
+- DECU = District Education Coordination Unit
+- ECD = Early Childhood Development
+- GPA = Grade Point Average
+- RAG = Retrieval-Augmented Generation
+- NLP = Natural Language Processing
+- ML = Machine Learning
+- LLM = Large Language Model
+- API = Application Programming Interface
+- UI = User Interface
+- UX = User Experience
+- DBMS = Database Management System
+- CRM = Computer Repair and Maintenance
+- HTML = Hypertext Markup Language
+- CSS = Cascading Style Sheets
+- SQL = Structured Query Language
+
+ADVANCED SEMANTIC TAGS FOR AI:
+
+Intent Classification Tags:
+- [INFORMATION_REQUEST]: Seeking factual information
+- [ADMISSION_INQUIRY]: Questions about joining school
+- [NAVIGATION_HELP]: Directions and location queries
+- [FACILITY_INQUIRY]: Questions about infrastructure
+- [CONTACT_REQUEST]: Seeking contact details
+- [ACADEMIC_QUERY]: Questions about studies, exams, subjects
+- [TECHNICAL_STREAM]: Questions about computer engineering program
+- [HISTORY_INQUIRY]: Questions about school's past
+- [AI_PROJECT]: Questions about AI assistant project
+- [GENERAL_GREETING]: Casual greetings and introductions
+
+Entity Tags:
+- [PERSON]: Names of people (teachers, staff, developers)
+- [PLACE]: Locations (school, city, landmarks)
+- [ORGANIZATION]: Institutions (NEB, CTEVT, MoEST)
+- [TIME]: Temporal references (hours, days, years)
+- [SUBJECT]: Academic subjects
+- [FACILITY]: Infrastructure elements
+- [PROGRAM]: Educational programs
+- [EVENT]: School events and activities
+- [DOCUMENT]: Certificates, records, reports
+- [TECHNOLOGY]: Technical terms and concepts
+
+Sentiment Tags:
+- [POSITIVE]: Praise, satisfaction, appreciation
+- [NEUTRAL]: Factual inquiries, objective questions
+- [NEGATIVE]: Complaints, concerns, dissatisfaction
+- [CURIOUS]:
+
+================================================================================
+ADARSHA SECONDARY SCHOOL - RAG KNOWLEDGE BASE V4.0
+FOCUS: STUDENT INNOVATION, EXHIBITION PROJECTS, AND AI DEVELOPMENT
+================================================================================
+
+[METADATA]
+Institution: Adarsha Secondary School (Sanothimi, Bhaktapur)
+Document Type: Master Knowledge Base for AI Training
+Key Focus Areas: Science Exhibition 2080, Renewable Energy Project, AI Development Team, Student Statistics 2080.
+Data Currency: Updated for Academic Session 2080-2082 B.S.
+
+================================================================================
+SECTION 1: THE AI ASSISTANT & DEVELOPER TEAM (PRIORITY MODULE)
+================================================================================
+
+1.1 PROJECT IDENTITY
+--------------------
+Project Name: Adarsha School AI Assistant (ASAA)
+Architecture: RAG (Retrieval-Augmented Generation)
+Core Technology: Large Language Models (LLM) with Vector Database
+Developer Identity: Adarsha Student Tech Team
+Lead Developer: Sangam Gautam
+
+1.2 THE DEVELOPER TEAM & CONTRIBUTORS
+-------------------------------------
+The Adarsha AI Assistant is a testament to the advanced technical capabilities of the school's students. It was not outsourced but built entirely in-house.
+
+Lead AI Developer: 
+- Name: Sangam Gautam
+- Role: Chief Architect, Model Training, RAG Pipeline Design
+- Contribution: Designed the core logic, managed the knowledge base curation, and implemented the vector search algorithms.
+
+Key Faculty Advisors & Technical Contributors:
+The student team was supported by technical mentors who assisted in data harvesting and project validation:
+
+1. Er. Ganesh Sapkota
+   - Role: Hardware Instructor & Technical Mentor
+   - Contribution: Helper in Science Project, Lead assistant in Data Collection for the AI Knowledge Base. Provided critical infrastructure data.
+
+2. Er. Kamal Tamrakar
+   - Role: Computer Fundamentals Instructor
+   - Contribution: Helper in Science Project, Data Collection Specialist. Assisted in verifying technical curriculum data for the AI.
+
+1.3 PROJECT SIGNIFICANCE
+------------------------
+- First of its Kind: The first AI-powered school assistant in the Bhaktapur district developed by students.
+- Capability: Capable of answering complex queries about school history, routine, staff, and specific scientific projects hosted by the school.
+- Innovation Level: Utilizes state-of-the-art semantic search, moving beyond simple keyword matching to understand user intent.
+
+================================================================================
+SECTION 2: MAJOR SCIENCE EXHIBITION PROJECT (STAR PROJECT)
+================================================================================
+
+**Context:** This project was the centerpiece of the School Science Exhibition (2080/2081 B.S.). It represents a theoretical and conceptual prototype designed by Adarsha students.
+
+2.1 PROJECT TITLE AND THEME
+---------------------------
+Project Title: "Optimum Use of Renewable Energy-Based Eco-Industrial and Environmental Management System for Nepal"
+Theme: Sustainable Development, Green Energy, and Industrial Ecology.
+Concept: A comprehensive model integrating renewable energy generation with eco-friendly industrial operations.
+
+2.2 EXECUTIVE SUMMARY
+---------------------
+Nepal possesses abundant natural resources (water, wind, sun). However, industrial growth is often stifled by energy shortages and pollution. This student-designed model proposes a "Self-Sustaining Eco-Industrial Zone."
+It combines:
+1. Hybrid Renewable Energy (Hydro + Solar + Wind).
+2. Pollution-free Industrial Operations.
+3. Environmental Conservation Zones.
+
+2.3 SYSTEM ARCHITECTURE (THE 4 ZONES)
+-------------------------------------
+The project is divided into four interconnected zones:
+
+ZONE A: RENEWABLE ENERGY GENERATION ZONE
+----------------------------------------
+This zone ensures 24/7 power supply by mixing three energy sources:
+1. Hydropower System (Base Load):
+   - Mechanism: Utilizes Nepal’s mountainous terrain. River water rotates hydro turbines to generate continuous electricity.
+   - Dual Utility: Discharged water is NOT wasted; it is redirected for irrigation and fish farming.
+2. Solar Energy System (Peak Load):
+   - Mechanism: Photovoltaic panels installed on open land harvest solar radiation.
+   - Function: Covers high energy demand during the daytime.
+3. Wind Energy System (Supportive Load):
+   - Mechanism: Turbines in open areas convert wind velocity into mechanical energy.
+   - Function: Critical backup during cloudy days or nighttime.
+4. Hybrid Advantage: Ensures energy security so industries never face power cuts ("load shedding").
+
+ZONE B: POWER TRANSMISSION AND CONTROL ZONE
+-------------------------------------------
+- Function: Centralized control station.
+- Task: Voltage regulation, minimization of transmission losses, and safety management before power reaches the industry.
+
+ZONE C: INDUSTRIAL UTILIZATION ZONE
+-----------------------------------
+- Concept: "Green Industrialization."
+- Operation: All machinery is electrically powered (replacing fossil fuels like diesel/coal).
+- Features: 
+  - Zero carbon emission from power sources.
+  - Energy-efficient processing.
+  - Automated waste management.
+
+ZONE D: ENVIRONMENTAL CONSERVATION ZONE
+---------------------------------------
+A protective buffer surrounding the industrial area:
+1. Forest & Green Belt: Trees absorb CO2 and release Oxygen, acting as a noise barrier and air purifier.
+2. Fish Farming (Aquaculture): Uses the water discharged from the hydro-turbine.
+3. Air Purification: Industrial exhaust (if any) passes through scrubbers/filters before release.
+
+2.4 APPLICATIONS & SCOPE IN NEPAL
+---------------------------------
+Where can this student model be applied in real life?
+1. Industrial Corridors (e.g., Birgunj-Pathlaiya).
+2. Smart Cities and Green Villages.
+3. Eco-Industrial Parks (EIPs).
+4. Rural Energy-Based Industries (Agro-processing).
+5. Hydropower-based Economic Zones.
+
+2.5 ALIGNMENT WITH GOVERNMENT POLICY
+------------------------------------
+This project directly supports the Government of Nepal's vision by:
+- Promoting the "Clean Energy Development Strategy."
+- Supporting the "Green Resilient and Inclusive Development (GRID)" action plan.
+- Reducing dependency on imported fossil fuels (petrol/diesel).
+- Utilizing CTEVT technical skills for national development.
+
+================================================================================
+SECTION 3: TECHNICAL TERMINOLOGY & GLOSSARY (UPDATED)
+================================================================================
+
+3.1 RENEWABLE ENERGY TERMS (FROM EXHIBITION PROJECT)
+----------------------------------------------------
+- Base-Load Power: A power source that provides a continuous, reliable flow of electricity (e.g., Hydropower in this project).
+- Photovoltaic Effect: The physical process used by solar panels to convert sunlight directly into electricity.
+- Hybrid Energy System: A system combining two or more energy sources (Hydro + Wind + Solar) to overcome the intermittency of a single source.
+- Eco-Industrial Park: A community of manufacturing and service businesses located together on a common property to enhance environmental and economic performance.
+- Scrubbers: Devices used in the project's air purification system to remove particulate matter from industrial exhaust.
+
+3.2 AI & SCHOOL TERMS
+---------------------
+- RAG (Retrieval-Augmented Generation): The AI architecture used by Adarsha School, which "retrieves" specific school data (like this text) to "generate" accurate answers.
+- Vector Database: A storage system that understands the *meaning* (semantics) of data, allowing the AI to know that "Solar Power" and "Sun Energy" are related.
+- CTEVT: Council for Technical Education and Vocational Training (The body affiliating the school's Engineering stream).
+
+================================================================================
+SECTION 4: STUDENT STATISTICS (ACADEMIC SESSION 2080)
+================================================================================
+
+4.1 ENROLLMENT SUMMARY
+----------------------
+Total Student Population: 1,538
+Total Boys: 784
+Total Girls: 754
+Gender Ratio: Approximately 1:1 (Balanced)
+
+4.2 BREAKDOWN BY GRADE
+----------------------
+| Grade | Boys | Girls | Total | Note |
+|-------|------|-------|-------|------|
+| ECD   | 14   | 14    | 28    | Early Childhood Development |
+| KG    | 14   | 14    | 28    | Kindergarten |
+| 1     | 18   | 11    | 29    | |
+| 2     | 23   | 13    | 36    | |
+| 3     | 24   | 21    | 45    | |
+| 4     | 28   | 26    | 54    | |
+| 5     | 22   | 33    | 55    | |
+| 6     | 48   | 48    | 96    | |
+| 7     | 50   | 50    | 100   | |
+| 8     | 54   | 59    | 113   | Basic Level Ends |
+| 9     | 83   | 83    | 166   | Secondary/Technical Begins |
+| 10    | 81   | 67    | 148   | SEE Batch |
+| 11    | 153  | 198   | 351   | Highest Enrollment Class |
+| 12    | 172  | 117   | 289   | Graduating Batch |
+
+4.3 ANALYSIS
+------------
+- Largest Class: Grade 11 (351 students).
+- Technical/Senior Wing (9-12): Accounts for 954 students (62% of total school population).
+- This high density in senior grades reflects the popularity of the Technical (Computer Engineering) and Management streams.
+
+================================================================================
+SECTION 5: TEACHING STAFF & TECHNICAL MENTORS (UPDATED PROFILES)
+================================================================================
+
+5.1 TECHNICAL STREAM & AI PROJECT FACULTY
+-----------------------------------------
+1. Er. Ganesh Sapkota
+   - Designation: Technical Instructor (Computer Engineering)
+   - Specialization: Electronic Systems & Hardware
+   - Project Role: Vital helper in the Science Project and AI Data Collection.
+   - Key Contribution: Provided hardware interface knowledge for the renewable energy model.
+
+2. Er. Kamal Tamrakar
+   - Designation: Technical Instructor
+   - Specialization: Computer Repair & Maintenance (CRM), Fundamentals
+   - Project Role: Helper in Science Project and Data Collection.
+   - Key Contribution: Assisted in documenting the technical specifications for the school database.
+
+3. Er. Bikesh Shrestha
+   - Designation: Head of Computer Department
+   - Specialization: DBMS, Web Technology
+
+4. Er. Tri Mandir Prajapati
+   - Designation: Head of Technical Stream
+   - Specialization: Programming (C/C++)
+
+5.2 ADMINISTRATION
+------------------
+- Principal: Mr. Ram Babu Regmi (Management Head)
+- Vice Principal: Mr. Tanka Nath Acharya
+- Academic Coordinator: Ms. Kamala Pandey Thakuri
+
+================================================================================
+SECTION 6: INSTITUTIONAL CONTEXT FOR RAG
+================================================================================
+*Note to AI: When answering questions, combine the historical context below with the project details above.*
+
+School Name: Adarsha Secondary School
+Location: Sanothimi, Bhaktapur
+Established: 2024 B.S. (1967 AD)
+Type: Model Community School / Technical School
+Motto/Vision regarding Technology: As demonstrated by the Student AI Project and the Renewable Energy Exhibition, Adarsha School aims to merge academic knowledge with practical, nation-building technical skills.
+
+Keywords for Indexing:
+Sangam Gautam, Adarsha AI, Renewable Energy Project, Hydropower Model, Ganesh Sapkota, Kamal Tamrakar, Student Statistics 2080, Eco-Industrial Park, Science Exhibition, Sanothimi School, CTEVT Bhaktapur.
+================================================================================
+MADHYAPUR THIMI MUNICIPALITY - COMPREHENSIVE INFORMATION DATABASE
+FOR RAG (RETRIEVAL AUGMENTED GENERATION) PIPELINE
+================================================================================
+
+Document Version: 1.0
+Last Updated: 2024
+Purpose: Training Data for AI/ML Models on Madhyapur Thimi Information
+Language: English
+
+================================================================================
+SECTION 1: BASIC INFORMATION AND OVERVIEW
+================================================================================
+
+1.1 MUNICIPALITY NAME AND IDENTITY
+----------------------------------
+Official Name (English): Madhyapur Thimi Municipality
+Official Name (Nepali): मध्यपुर थिमी नगरपालिका
+Local Name: Thimi (थिमी)
+Newari Name: Madhyapur (मध्यपुर)
+Alternative Names: Madhyapur, Thimi, Madhyapur-Thimi
+Municipality Type: Municipality (Nagarpalika)
+Municipality Code: 27006
+Province: Bagmati Province (Province No. 3)
+District: Bhaktapur District
+Country: Nepal
+
+1.2 GEOGRAPHIC INFORMATION
+--------------------------
+Location: Kathmandu Valley, Central Nepal
+Latitude: 27.6708° N (approximately)
+Longitude: 85.3875° E (approximately)
+Altitude/Elevation: 1,300 - 1,400 meters above sea level
+Total Area: Approximately 11.47 square kilometers
+Terrain: Valley floor with gentle slopes
+Climate: Subtropical highland climate
+Average Temperature: 10°C - 30°C
+Monsoon Season: June to September
+Winter Season: December to February
+Annual Rainfall: Approximately 1,400-1,600 mm
+
+1.3 BOUNDARIES
+--------------
+North: Bhaktapur Municipality
+South: Lalitpur Metropolitan City
+East: Suryabinayak Municipality
+West: Kathmandu Metropolitan City
+Northeast: Bhaktapur Municipality
+Southeast: Suryabinayak Municipality
+
+1.4 DISTANCE FROM MAJOR LOCATIONS
+----------------------------------
+Distance from Kathmandu (Capital): Approximately 8 km
+Distance from Bhaktapur Durbar Square: Approximately 4 km
+Distance from Tribhuvan International Airport: Approximately 3 km
+Distance from Patan (Lalitpur): Approximately 6 km
+Distance from Banepa: Approximately 15 km
+
+================================================================================
+SECTION 2: ADMINISTRATIVE STRUCTURE
+================================================================================
+
+2.1 WARD DIVISION
+-----------------
+Total Number of Wards: 9 Wards
+
+Ward 1: 
+- Areas: Gatthaghar, Lokanthali areas
+- Notable features: Growing residential and commercial area
+
+Ward 2:
+- Areas: Parts of central Thimi
+- Notable features: Traditional settlements
+
+Ward 3:
+- Areas: Bode, Nagadesh areas
+- Notable features: Famous for Bode Jatra festival
+
+Ward 4:
+- Areas: Central Thimi areas
+- Notable features: Traditional pottery areas
+
+Ward 5:
+- Areas: Chapacho and surrounding areas
+- Notable features: Historical significance
+
+Ward 6:
+- Areas: Tigani and surrounding areas
+- Notable features: Traditional Newari settlements
+
+Ward 7:
+- Areas: Dibyashwori area
+- Notable features: Religious importance
+
+Ward 8:
+- Areas: Parts of Thimi
+- Notable features: Mixed residential-commercial
+
+Ward 9:
+- Areas: Balkot and surrounding areas
+- Notable features: Commercial growth area
+
+2.2 LOCAL GOVERNMENT STRUCTURE
+------------------------------
+Head of Municipality: Mayor (Nagarpalika Pramukh)
+Deputy Head: Deputy Mayor (Nagarpalika Upapramukh)
+Ward Chairpersons: 9 (one for each ward)
+Ward Members: Multiple members per ward
+Municipal Executive: Mayor-led executive body
+Municipal Assembly: Legislative body
+
+2.3 MUNICIPAL OFFICE
+--------------------
+Office Name: Madhyapur Thimi Municipality Office
+Official Website: https://www.madhyapurthimimun.gov.np
+Services Provided:
+- Birth/Death Registration
+- Citizenship Recommendation
+- Building Permit
+- Business Registration
+- Land Administration Services
+- Social Security Programs
+- Marriage Registration
+- Migration Certificates
+- Various Recommendations and Certifications
+
+================================================================================
+SECTION 3: HISTORICAL BACKGROUND
+================================================================================
+
+3.1 ANCIENT HISTORY
+-------------------
+Historical Period: Madhyapur Thimi has a history spanning over 2,000 years
+Ancient Name: The area was known as "Madhyapur" meaning "Middle City"
+Etymology of Thimi: 
+- "Thimi" is derived from the Newari word "Thimi" meaning "capable people"
+- Some sources suggest it comes from "Thimi" meaning "people who are capable"
+- Local legend says the name reflects the hardworking nature of residents
+
+Kingdom Era: Part of the ancient Kathmandu Valley civilization
+Malla Period: Flourished as an important settlement during Malla dynasty
+Lichchhavi Period: Evidence of settlements from Lichchhavi era (400-750 AD)
+
+3.2 MEDIEVAL HISTORY
+--------------------
+Malla Dynasty Rule: Thimi was part of Bhaktapur Kingdom during Malla rule
+Three Kingdoms Period: Aligned with Bhaktapur during the three Malla kingdoms era
+Cultural Development: Significant development of Newari culture and traditions
+Temple Construction: Many temples built during Malla period
+Trade Route: Important point on trade routes within the valley
+
+3.3 MODERN HISTORY
+------------------
+Unification Period: Incorporated into unified Nepal after 1768
+Shah Dynasty: Continued development under Shah rulers
+Municipality Formation: Established as a municipality
+Merger: Traditional Thimi merged with surrounding areas
+2015 Constitution: Became part of Bagmati Province under federal structure
+2017 Restructuring: Maintained municipality status in local government restructuring
+
+3.4 EARTHQUAKE IMPACT
+---------------------
+2015 Nepal Earthquake: Suffered significant damage
+Magnitude: 7.8 on Richter scale
+Damage: Many historical structures damaged
+Reconstruction: Ongoing rebuilding efforts
+Heritage Restoration: International support for heritage site restoration
+
+================================================================================
+SECTION 4: DEMOGRAPHICS AND POPULATION
+================================================================================
+
+4.1 POPULATION STATISTICS
+-------------------------
+Estimated Total Population: Approximately 80,000 - 90,000 (as per recent estimates)
+Population Density: High density for municipal area
+Male Population: Approximately 48-49%
+Female Population: Approximately 51-52%
+Population Growth Rate: Moderate growth
+Households: Approximately 18,000-20,000 households
+
+4.2 ETHNIC COMPOSITION
+----------------------
+Dominant Ethnic Group: Newar (majority)
+Other Ethnic Groups:
+- Brahmin (Bahun)
+- Chhetri
+- Tamang
+- Magar
+- Others
+
+Newar Sub-groups:
+- Prajapati (Kumhale/Potters) - significant population
+- Shrestha
+- Bajracharya
+- Shakya
+- Joshi
+- Karmacharya
+- Chitrakar (Painters)
+- Others
+
+4.3 LANGUAGE
+------------
+Primary Language: Nepali (official)
+Local Language: Nepal Bhasa (Newari)
+Script: Devanagari (for Nepali), Ranjana/Prachalit (traditional for Newari)
+English: Increasingly used, especially in education and business
+
+4.4 RELIGION
+------------
+Predominant Religion: Hinduism
+Other Religions:
+- Buddhism (significant presence)
+- Christianity (minority)
+- Islam (minority)
+- Others
+
+Religious Syncretism: Strong Hindu-Buddhist syncretism typical of Newar culture
+
+================================================================================
+SECTION 5: CULTURAL HERITAGE
+================================================================================
+
+5.1 UNESCO RECOGNITION
+----------------------
+While Madhyapur Thimi itself is not directly UNESCO-listed, it is part of the 
+Kathmandu Valley's cultural landscape that includes UNESCO World Heritage Sites.
+The cultural practices and festivals have significance for Nepal's intangible heritage.
+
+5.2 TRADITIONAL NEWARI CULTURE
+------------------------------
+Architecture: Traditional Newari architecture with wooden windows and brick construction
+Art Forms: 
+- Paubha painting
+- Wood carving
+- Stone carving
+- Metal craft
+
+Social Organization:
+- Guthi system (community organizations)
+- Tole (neighborhood) organization
+- Joint family traditions
+- Caste-based occupational traditions
+
+Cuisine:
+- Newari cuisine prominent
+- Samay Baji (traditional food set)
+- Yomari (sweet dumpling)
+- Wo (lentil pancake)
+- Aila (local alcohol)
+- Chatamari
+- Various meat preparations
+
+5.3 TRADITIONAL CRAFTS
+----------------------
+Pottery (Primary Craft):
+- Thimi is FAMOUS for traditional pottery
+- Prajapati community specializes in pottery
+- Types of pottery: clay pots, flower pots, decorative items
+- Location of pottery squares: Throughout Thimi
+- Traditional methods still used alongside modern techniques
+
+Mask Making:
+- Papier-mâché masks for festivals
+- Deities masks
+- Dance masks
+- Traditional techniques preserved
+
+Farming Crafts:
+- Agricultural tools
+- Traditional implements
+
+Vegetable Farming:
+- Thimi is famous for vegetable farming
+- Major supplier of vegetables to Kathmandu Valley
+- Leafy vegetables
+- Seasonal vegetables
+
+5.4 TRADITIONAL MUSIC AND DANCE
+-------------------------------
+Musical Instruments:
+- Dhimay (traditional drum)
+- Bhusya (cymbals)
+- Muhali (wind instrument)
+- Paschima
+- Naumati Baja
+
+Traditional Dances:
+- Lakhe dance
+- Mahakali dance
+- Various deity dances during festivals
+
+Music Groups:
+- Numerous Guthi-based music groups
+- Dhimay groups active during festivals
+- Youth involvement in traditional music
+
+================================================================================
+SECTION 6: MAJOR FESTIVALS AND CELEBRATIONS
+================================================================================
+
+6.1 BISKET JATRA (BISKET FESTIVAL)
+----------------------------------
+Timing: Nepali New Year (Mid-April, around Baisakh 1)
+Duration: 9 days
+Significance: New Year celebration, Victory over serpent demons
+Main Deity: Bhairav
+Activities:
+- Chariot pulling (Rath Jatra)
+- Tongue-piercing ritual (at Bode)
+- Lingo (pole) erection
+- Sindoor Jatra (powder festival)
+- Traditional sports and games
+Location: Throughout Thimi, especially Ward 3 (Bode)
+
+6.2 SINDOOR JATRA (VERMILLION FESTIVAL)
+---------------------------------------
+Timing: New Year's Day (Baisakh 1, mid-April)
+Location: Thimi, especially Balkumari temple area
+Activities:
+- Throwing of sindoor (vermillion powder)
+- Palanquin processions (Khat Jatra)
+- Worship of Balkumari
+- Music and celebration
+- Carrying of Khats (palanquins) with deities
+Significance: One of Nepal's most colorful festivals
+Similarity: Often compared to Holi for its colors
+Uniqueness: Unique to Thimi, not celebrated elsewhere in this form
+
+6.3 BODE JATRA (TONGUE-PIERCING FESTIVAL)
+-----------------------------------------
+Location: Bode (Ward 3 of Madhyapur Thimi)
+Timing: During Bisket Jatra (New Year)
+Main Event: Tongue-piercing ritual
+Participant: Selected individual from specific family
+Ritual: Iron spike pierced through tongue
+Significance: Sacrifice and devotion to deities
+Belief: Protects community from evil spirits
+
+6.4 OTHER MAJOR FESTIVALS
+-------------------------
+Dashain (Vijaya Dashami):
+- 15-day festival
+- Worship of Goddess Durga
+- Family reunions
+- Animal sacrifices
+- Tika and blessings
+
+Tihar (Deepawali):
+- 5-day festival of lights
+- Worship of Lakshmi, dogs, crows, cows
+- Bhai Tika (brother-sister festival)
+- Deusi-Bhailo (traditional songs)
+
+Indra Jatra:
+- 8-day festival
+- Worship of Indra (King of Gods)
+- Kumari (Living Goddess) procession
+- Cultural performances
+
+Gai Jatra (Cow Festival):
+- Satire and humor festival
+- Remembrance of the dead
+- Processions with cow representations
+
+Yenya (Indra Jatra in Newari):
+- Celebration in Newari tradition
+- Cultural performances
+
+Mha Puja:
+- Newari New Year
+- Self-worship ritual
+- Mandala creation
+- Family celebrations
+
+Yomari Punhi:
+- Making and eating Yomari (sweet dumplings)
+- Full moon celebration
+- Harvest festival
+
+Ghode Jatra:
+- Horse racing festival
+- Celebrated at Tundikhel (Kathmandu)
+- Also observed locally
+
+Holi (Fagu Purnima):
+- Color festival
+- Spring celebration
+
+Janai Purnima:
+- Sacred thread changing ceremony
+- Raksha Bandhan
+- Full moon festival
+
+Buddha Jayanti:
+- Buddha's birthday
+- Celebrated by Buddhist community
+
+================================================================================
+SECTION 7: RELIGIOUS SITES AND TEMPLES
+================================================================================
+
+7.1 MAJOR TEMPLES
+-----------------
+
+Balkumari Temple:
+- Location: Central Thimi
+- Deity: Balkumari (form of Goddess Durga)
+- Significance: Main temple of Thimi
+- Festival: Center of Sindoor Jatra
+- Architecture: Traditional Newari pagoda style
+- Importance: Most important temple in Madhyapur Thimi
+
+Nagadesh Temple:
+- Location: Near Bode
+- Deity: Nagadesh (Serpent God)
+- Significance: Associated with Bisket Jatra
+- History: Ancient temple with mythological importance
+
+Ganesh Temple:
+- Multiple Ganesh temples throughout municipality
+- Worship before any auspicious event
+- Traditional architecture
+
+Bhairav Temple:
+- Location: Various locations
+- Deity: Bhairav (fierce form of Shiva)
+- Significance: Central to Bisket Jatra
+
+Mahalaxmi Temple:
+- Worship of Goddess Lakshmi
+- Important during Tihar festival
+
+Narayan Temple:
+- Vishnu worship
+- Traditional architecture
+
+Shiva Temples:
+- Multiple Shiva temples
+- Important during Shivaratri
+
+7.2 BUDDHIST SITES
+------------------
+Various Buddhist shrines and bahals (monasteries)
+Chaityas (Buddhist stupas)
+Combined Hindu-Buddhist worship sites
+Influence of Vajrayana Buddhism
+
+7.3 OTHER RELIGIOUS SITES
+-------------------------
+Sattal (Rest houses)
+Pati (Public rest places)
+Traditional water spouts (Dhunge Dhara/Hiti)
+Guthi houses
+Community worship spaces
+
+================================================================================
+SECTION 8: ECONOMY AND LIVELIHOOD
+================================================================================
+
+8.1 TRADITIONAL OCCUPATIONS
+---------------------------
+Pottery:
+- Primary traditional occupation
+- Prajapati (Kumhale) community
+- Major pottery production center
+- Traditional clay pots
+- Modern decorative pottery
+- Flower pots for commercial sale
+- Export to other parts of Nepal
+
+Agriculture:
+- Vegetable farming (major supplier to Kathmandu)
+- Rice cultivation
+- Wheat farming
+- Seasonal crops
+- Urban farming continues despite urbanization
+
+Mask Making:
+- Festival masks
+- Decorative masks
+- Traditional art form
+
+8.2 MODERN ECONOMY
+------------------
+Commercial Activities:
+- Retail shops
+- Wholesale markets
+- Vegetable markets
+- Pottery shops
+- Hardware stores
+- Electronics shops
+
+Service Sector:
+- Banks and financial institutions
+- Hospitals and clinics
+- Schools and colleges
+- Hotels and restaurants
+- IT and technology services
+
+Real Estate:
+- Growing real estate market
+- Residential developments
+- Commercial complexes
+- Proximity to Kathmandu increases value
+
+Manufacturing:
+- Small and medium industries
+- Cottage industries
+- Food processing
+- Textile (small scale)
+
+8.3 MARKETS
+-----------
+Local Markets:
+- Thimi Market
+- Gatthaghar Market
+- Balkot Market
+- Vegetable markets throughout
+
+Market Days:
+- Daily markets
+- Weekly special markets
+
+Major Products:
+- Vegetables
+- Pottery
+- Daily necessities
+- Clothing
+- Electronics
+
+================================================================================
+SECTION 9: EDUCATION
+================================================================================
+
+9.1 EDUCATIONAL INSTITUTIONS
+----------------------------
+Schools:
+- Multiple government schools
+- Private schools
+- Community schools
+- English medium schools
+
+Higher Secondary Schools:
+- Several +2 level institutions
+- Science, Management, Humanities streams
+
+Colleges:
+- Various colleges in vicinity
+- Affiliation with Tribhuvan University
+- Technical institutes
+
+Notable Educational Features:
+- High literacy rate compared to national average
+- Emphasis on education in Newar culture
+- Growing number of English medium schools
+- Technical and vocational training centers
+
+9.2 LITERACY RATE
+-----------------
+Estimated Literacy Rate: Above 85% (higher than national average)
+Male Literacy: Higher
+Female Literacy: Improving steadily
+Youth Literacy: Very high
+
+================================================================================
+SECTION 10: HEALTH FACILITIES
+================================================================================
+
+10.1 HOSPITALS AND HEALTH CENTERS
+---------------------------------
+Hospitals:
+- Madhyapur Hospital
+- Nearby: KIST Medical College (Gwarko area)
+- Access to Bhaktapur Hospital
+- Private hospitals and nursing homes
+
+Health Posts:
+- Municipal health posts in each ward
+- Primary health care centers
+- Birthing centers
+
+Pharmacies:
+- Multiple pharmacies throughout the municipality
+- 24-hour pharmacies available
+
+10.2 HEALTH PROGRAMS
+--------------------
+- Immunization programs
+- Maternal and child health
+- Family planning services
+- Disease prevention programs
+- COVID-19 response (ongoing)
+- Health awareness campaigns
+
+================================================================================
+SECTION 11: INFRASTRUCTURE
+================================================================================
+
+11.1 ROADS AND TRANSPORTATION
+-----------------------------
+Major Roads:
+- Araniko Highway passes nearby
+- Connection to Ring Road
+- Local road network developed
+
+Transportation:
+- Local buses (microbus, tempo)
+- Taxis available
+- Private vehicles increasing
+- Connection to Kathmandu public transport
+
+Road Conditions:
+- Main roads blacktopped
+- Internal roads mixed condition
+- Ongoing infrastructure improvements
+
+11.2 WATER SUPPLY
+-----------------
+Water Sources:
+- Municipal water supply (Melamchi in progress)
+- Traditional stone spouts (Dhunge Dhara)
+- Deep boring wells
+- Tanker water supply
+
+Challenges:
+- Water scarcity during dry season
+- Growing demand with population
+- Infrastructure improvements ongoing
+
+11.3 ELECTRICITY
+----------------
+Electricity Coverage: Near 100%
+Provider: Nepal Electricity Authority
+Status: Regular power supply
+Challenges: Occasional maintenance cuts
+
+11.4 TELECOMMUNICATIONS
+-----------------------
+Service Providers:
+- Nepal Telecom
+- Ncell
+- Smart Telecom
+
+Services:
+- Mobile networks (4G available)
+- Internet services (fiber optic, DSL)
+- Cable television
+
+11.5 SANITATION
+---------------
+Drainage Systems: Developing
+Waste Management: Municipal waste collection
+Sewerage: Mixed system
+Public Toilets: Available at key locations
+
+================================================================================
+SECTION 12: TOURISM
+================================================================================
+
+12.1 TOURIST ATTRACTIONS
+------------------------
+Main Attractions:
+1. Balkumari Temple
+2. Pottery Squares
+3. Traditional Newari architecture
+4. Sindoor Jatra (during New Year)
+5. Bode Jatra
+6. Traditional craft demonstrations
+7. Local markets
+8. Temple complexes
+9. Ancient water spouts (Hiti)
+
+12.2 TYPES OF TOURISM
+---------------------
+Cultural Tourism:
+- Festival tourism (especially during Sindoor Jatra)
+- Heritage walks
+- Temple visits
+
+Craft Tourism:
+- Pottery making experiences
+- Traditional craft workshops
+- Mask making demonstrations
+
+Culinary Tourism:
+- Newari food experiences
+- Local restaurants
+- Traditional cooking experiences
+
+12.3 BEST TIME TO VISIT
+-----------------------
+Peak Season: 
+- Mid-April (for Sindoor Jatra/Bisket Jatra) - MOST RECOMMENDED
+- October-November (Dashain/Tihar, good weather)
+- February-March (spring season)
+
+Good Weather: October to May
+Monsoon Season: June to September (not ideal for tourism)
+
+12.4 TOURIST FACILITIES
+-----------------------
+Accommodation:
+- Limited hotels within Thimi
+- Many options in nearby Bhaktapur and Kathmandu
+- Homestays available
+
+Restaurants:
+- Local Newari restaurants
+- Various cuisines available
+- Traditional food experiences
+
+Guides:
+- Local guides available
+- Cultural walk organizers
+- Tourism associations
+
+================================================================================
+SECTION 13: GOVERNANCE AND SERVICES
+================================================================================
+
+13.1 MUNICIPAL SERVICES
+-----------------------
+Services Provided by Municipality:
+- Civil registration (birth, death, marriage)
+- Land administration support
+- Building permits
+- Business registration
+- Road maintenance
+- Water supply management
+- Waste management
+- Public health programs
+- Social security distribution
+- Disaster management
+- Urban planning
+
+13.2 CITIZEN SERVICES
+---------------------
+Required Documents for Various Services:
+
+Birth Registration:
+- Hospital birth certificate
+- Parents' citizenship copies
+- Ward recommendation
+
+Citizenship Recommendation:
+- Birth certificate
+- Parents' citizenship
+- Ward recommendation
+- Photos
+
+Building Permit:
+- Land ownership certificate
+- Drawings and designs
+- Engineer's certification
+- Ward recommendation
+
+Business Registration:
+- Citizenship copy
+- Photos
+- Location details
+- Ward recommendation
+
+13.3 ONLINE SERVICES
+--------------------
+Website: https://www.madhyapurthimimun.gov.np
+Online Services (if available):
+- Information access
+- Notices and announcements
+- Contact information
+- Some application forms
+
+================================================================================
+SECTION 14: NOTABLE FEATURES AND FACTS
+================================================================================
+
+14.1 WHY MADHYAPUR THIMI IS FAMOUS
+----------------------------------
+1. SINDOOR JATRA - The most colorful festival in Nepal
+2. POTTERY - One of the best pottery centers in Nepal
+3. VEGETABLE FARMING - Major supplier of vegetables to Kathmandu
+4. BISKET JATRA - Famous New Year festival with chariot pulling
+5. BODE JATRA - Unique tongue-piercing ritual
+6. NEWAR CULTURE - Preserved traditional Newari culture
+7. MASK MAKING - Traditional papier-mâché masks
+8. STRATEGIC LOCATION - Gateway to Bhaktapur, near airport
+
+14.2 UNIQUE CHARACTERISTICS
+---------------------------
+- One of the most culturally preserved areas in Kathmandu Valley
+- Active community participation in festivals
+- Traditional crafts still practiced commercially
+- Strong Guthi (community organization) system
+- High agricultural productivity despite urbanization
+- Blend of traditional and modern lifestyle
+
+14.3 CHALLENGES
+---------------
+- Rapid urbanization affecting traditional practices
+- Traffic congestion
+- Water scarcity
+- Air pollution
+- Youth migration for employment abroad
+- Preservation of heritage sites
+- Earthquake damage recovery
+
+14.4 DEVELOPMENT PRIORITIES
+---------------------------
+- Infrastructure improvement
+- Heritage preservation
+- Tourism development
+- Education enhancement
+- Health services improvement
+- Economic development
+- Environmental protection
+
+================================================================================
+SECTION 15: CONTACT INFORMATION
+================================================================================
+
+15.1 MUNICIPAL OFFICE
+---------------------
+Name: Madhyapur Thimi Municipality Office
+Address: Madhyapur Thimi, Bhaktapur, Nepal
+Website: https://www.madhyapurthimimun.gov.np
+(For current phone numbers and email, please check official website)
+
+15.2 EMERGENCY CONTACTS
+-----------------------
+Police Emergency: 100
+Fire Brigade: 101
+Ambulance: 102
+Local Police Station: Check local listings
+
+================================================================================
+SECTION 16: FREQUENTLY ASKED QUESTIONS (FAQ)
+================================================================================
+
+Q1: What is Madhyapur Thimi famous for?
+A1: Madhyapur Thimi is famous for:
+- Sindoor Jatra (vermillion powder festival)
+- Traditional pottery making
+- Bisket Jatra and Bode Jatra festivals
+- Vegetable farming
+- Rich Newari cultural heritage
+- Traditional mask making
+
+Q2: Where is Madhyapur Thimi located?
+A2: Madhyapur Thimi is located in Bhaktapur District, Bagmati Province, Nepal. 
+It is approximately 8 km east of Kathmandu and 4 km west of Bhaktapur Durbar Square.
+
+Q3: How many wards are in Madhyapur Thimi Municipality?
+A3: Madhyapur Thimi Municipality has 9 wards.
+
+Q4: What is Sindoor Jatra?
+A4: Sindoor Jatra is a unique festival celebrated on Nepali New Year's Day in 
+Thimi where participants throw sindoor (vermillion powder) on each other while 
+carrying palanquins of deities. It is one of the most colorful festivals in Nepal.
+
+Q5: What is the tongue-piercing festival?
+A5: The tongue-piercing festival is part of Bode Jatra, held during Bisket Jatra 
+in Bode village (Ward 3). A selected individual from a specific family has an 
+iron spike pierced through their tongue as a sacrifice to protect the community.
+
+Q6: What crafts is Thimi known for?
+A6: Thimi is particularly known for:
+- Traditional pottery (clay pots, decorative items)
+- Papier-mâché mask making
+- Vegetable farming (though not a craft, it's a notable occupation)
+
+Q7: What is the best time to visit Madhyapur Thimi?
+A7: The best time to visit is during Nepali New Year (mid-April) to witness 
+Sindoor Jatra and Bisket Jatra. October-November and February-April are also 
+good times due to pleasant weather and various festivals.
+
+Q8: What language is spoken in Madhyapur Thimi?
+A8: Nepali is the official language, but Nepal Bhasa (Newari) is widely spoken 
+among the local Newar community. English is also understood in tourist areas.
+
+Q9: How do I get to Madhyapur Thimi?
+A9: Madhyapur Thimi can be reached by:
+- Bus from Kathmandu (Ratnapark or Kalanki)
+- Taxi from anywhere in Kathmandu Valley
+- Private vehicle via Ring Road or through Bhaktapur
+- It is very close to Tribhuvan International Airport
+
+Q10: What is the population of Madhyapur Thimi?
+A10: The estimated population is approximately 80,000-90,000 people.
+
+================================================================================
+SECTION 17: GLOSSARY OF TERMS
+================================================================================
+
+Guthi: Traditional Newari community organization for social and religious functions
+Jatra: Festival or procession
+Newari/Nepal Bhasa: The language of the Newar people
+Sindoor: Vermillion powder (red colored)
+Rath: Chariot
+Hiti/Dhunge Dhara: Traditional stone water spout
+Pati: Traditional public rest house
+Tole: Neighborhood or locality
+Baha/Bahal: Buddhist monastery in Newari tradition
+Dyochhen: God house/Temple
+Chaitya: Buddhist stupa/shrine
+Prajapati: Potter caste among Newars
+Kumhale: Another term for potter caste
+Bhairav: Fierce form of Lord Shiva
+Lakhe: Demon figure in Newari culture (also a dance)
+Dhimay: Large traditional drum
+Samay Baji: Traditional Newari food platter
+Yomari: Sweet steamed dumpling
+Aila: Traditional alcoholic drink
+Chhwela: Spiced grilled meat (Newari delicacy)
+Baji: Beaten rice (chiura)
+
+================================================================================
+SECTION 18: ADDITIONAL INFORMATION FOR RAG MODEL
+================================================================================
+
+18.1 KEYWORDS AND TAGS
+----------------------
+Primary Keywords:
+Madhyapur Thimi, Thimi, Bhaktapur, Nepal, Municipality, Sindoor Jatra, 
+Bisket Jatra, Bode Jatra, Pottery, Newari, Newar, Festival, Culture, 
+Balkumari, Heritage, Kathmandu Valley
+
+Secondary Keywords:
+vermillion, tongue-piercing, traditional crafts, mask making, vegetable farming,
+Nepal Bhasa, Guthi, temples, pagoda, earthquake, reconstruction
+
+Location Tags:
+Bagmati Province, Central Nepal, Kathmandu Valley, Near Bhaktapur, 
+Near Tribhuvan Airport, Ring Road, Araniko Highway
+
+18.2 RELATED ENTITIES
+---------------------
+Related Municipalities:
+- Bhaktapur Municipality
+- Suryabinayak Municipality  
+- Kathmandu Metropolitan City
+- Lalitpur Metropolitan City
+
+Related UNESCO Sites:
+- Bhaktapur Durbar Square
+- Kathmandu Durbar Square
+- Patan Durbar Square
+- Changu Narayan Temple
+
+Related Topics:
+- Newari culture
+- Nepali festivals
+- Traditional crafts
+- Pottery making
+- Cultural tourism
+- Heritage preservation
+
+18.3 SEMANTIC RELATIONSHIPS
+----------------------------
+Madhyapur Thimi IS_A Municipality
+Madhyapur Thimi IS_PART_OF Bhaktapur District
+Madhyapur Thimi IS_PART_OF Bagmati Province
+Madhyapur Thimi IS_FAMOUS_FOR Sindoor Jatra
+Madhyapur Thimi IS_FAMOUS_FOR Pottery
+Sindoor Jatra IS_CELEBRATED_IN Madhyapur Thimi
+Bisket Jatra IS_CELEBRATED_IN Madhyapur Thimi
+Bode Jatra IS_CELEBRATED_IN Bode (Ward 3)
+Balkumari Temple IS_LOCATED_IN Madhyapur Thimi
+Prajapati COMMUNITY_KNOWN_FOR Pottery
+Newar IS_DOMINANT_ETHNICITY_OF Madhyapur Thimi
+
+================================================================================
+SECTION 19: DATA QUALITY NOTES
+================================================================================
+
+19.1 DATA SOURCES
+-----------------
+- Official government sources
+- Academic research
+- Cultural documentation
+- Local knowledge bases
+- Historical records
+
+19.2 ACCURACY NOTES
+-------------------
+- Population figures are estimates based on census data and projections
+- Some statistics may have changed due to ongoing development
+- Festival dates follow lunar calendar and vary each year
+- Administrative details should be verified with official sources
+- Infrastructure status changes with ongoing development
+
+19.3 UPDATE RECOMMENDATIONS
+---------------------------
+- Verify population data with latest census
+- Update contact information from official website
+- Check for new development projects
+- Verify ward boundaries if changed
+- Update infrastructure status regularly
+
+================================================================================
+SECTION 20: EMBEDDING OPTIMIZATION
+================================================================================
+
+This document is structured for optimal use in RAG systems:
+
+1. Clear section headers for chunk identification
+2. Consistent formatting for parsing
+3. Question-answer pairs for retrieval
+4. Keyword-rich content for matching
+5. Hierarchical information organization
+6. Multiple reference formats (lists, prose, Q&A)
+7. Semantic relationships for knowledge graphs
+8. Comprehensive coverage for diverse queries
+
+Recommended chunk sizes:
+- For detailed retrieval: 500-1000 tokens per chunk
+- For general retrieval: 200-500 tokens per chunk
+- Maintain section boundaries when chunking
+
+================================================================================
+END OF DOCUMENT
+================================================================================
+
+Document Statistics:
+- Total Sections: 20
+- Word Count: Approximately 6,000+ words
+- Topics Covered: Geography, History, Culture, Administration, Tourism, 
+                  Economy, Infrastructure, Governance, and more
+- Intended Use: RAG Pipeline Training Data
+- Language: English
+
+================================================================================
+Based on the handwritten note in the image and your specific instructions regarding the teachers, here is the updated data.
+
+First, here is the **Raw Text Extraction** from the image:
+
+**Developer Team**
+**Science Project Team**
+*   **Pravesh Yadav** from Grade 10 Section A, Roll no 23. Brilliant extraordinary person known for hardware resource management.
+*   **Prashant Yadav** from Grade 9 Section C, Roll no 14.Presentator of Project Basically known for brilliant and extraordinary construction.
+*   **Sikendra Mahaseth** from Grade 9 Section C, Roll no 15.Brilliant extraordinary person known for hardware resource management.
+*   **Aawaran Bist** from Grade 9 Section C, Roll no: 22.Brilliant extraordinary person known for hardware resource management.
+*   **Avinash Shah** — Roll no: 24 from Grade 9 Section C.Brilliant extraordinary person known for hardware resource management.
+*   **Sangam Gautam** Roll no: 2 from Grade 9 Section C, presentator of project.Brilliant extraordinary person known for hardware resource management.
+
+**Adarsha Secondary School Artificial Intelligence ChatBOT**
+*   **Sangam Gautam** (Lead AI developer) Brilliant Mind Behind Chatbot.
+*   **Physical Construction Team:** Pravesh, Sikendra, Aawaran, Avinash, Sangam.
+
+***
+
+Below is the **Enhanced RAG Training Data (.txt)**. This version integrates the handwritten notes with your previous data and strictly applies your instructions regarding Er. Kamal Tamrakar and Er. Ganesh Sapkota.
+
+```text
+================================================================================
+ADARSHA SECONDARY SCHOOL - RAG KNOWLEDGE BASE V5.0
+FOCUS: DEVELOPER TEAMS, STUDENT ROLES, AND FACULTY CONTRIBUTORS
+================================================================================
+
+[METADATA]
+Institution: Adarsha Secondary School (Sanothimi, Bhaktapur)
+Document Scope: Science Project Team, AI Developer Team, Physical Construction Team.
+Data Source: Student Handwritten Records & Faculty Updates.
+Status: Verified Training Data.
+
+================================================================================
+SECTION 1: THE AI & SCIENCE PROJECT DEVELOPER TEAMS
+================================================================================
+
+1.1 LEADERSHIP & DEVELOPMENT
+----------------------------
+Project Name: Adarsha Secondary School Artificial Intelligence ChatBOT
+Lead AI Developer: Sangam Gautam
+- Grade/Section: Grade 9, Section C (Roll No: 2)
+- Role Description: The "Brilliant Mind Behind Chatbot," Lead Developer, and Project Presentator.
+- Responsibilities: Core coding, RAG implementation, and project presentation.
+
+1.2 PHYSICAL CONSTRUCTION & HARDWARE TEAM
+-----------------------------------------
+This team was responsible for the physical construction of the project prototypes (including the Renewable Energy Model and AI Hardware interface).
+
+1. Pravesh Yadav
+   - Grade/Section: Grade 10, Section A (Roll No: 23)
+   - Role: Hardware Resource Manager
+   - Description: Described as a "Brilliant extraordinary person known for hardware resource management." Key member of the Physical Construction Team.
+
+2. Prashant Yadav
+   - Grade/Section: Grade 9, Section C (Roll No: 14)
+   - Role: Construction Specialist
+   - Description: Known for "brilliant and extraordinary construction."
+
+3. Sikendra Mahaseth
+   - Grade/Section: Grade 9, Section C (Roll No: 15)
+   - Role: Physical Construction Team Member.
+
+4. Aawaran Bist
+   - Grade/Section: Grade 9, Section C (Roll No: 22)
+   - Role: Physical Construction Team Member.
+
+5. Avinash Shah
+   - Grade/Section: Grade 9, Section C (Roll No: 24)
+   - Role: Physical Construction Team Member.
+
+================================================================================
+SECTION 2: FACULTY MENTORS AND CONTRIBUTORS
+================================================================================
+
+The student teams were supported by technical faculty who provided critical assistance in project execution and data curation for the AI.
+
+2.1 KEY TECHNICAL MENTORS
+-------------------------
+
+1. Er. Ganesh Sapkota
+   - Designation: Technical Instructor
+   - Specific Contribution: Contributed in Science Project and helped in AI Data Collection.
+   - Role: Provided guidance on hardware systems and assisted the AI team in gathering necessary school data.
+
+2. Er. Kamal Tamrakar
+   - Designation: Technical Instructor
+   - Specific Contribution: Contributed in Science Project and helped in AI Data Collection.
+   - Role: Assisted with project logistics and verified data accuracy for the AI knowledge base.
+
+================================================================================
+SECTION 3: PROJECT TEAM STRUCTURE SUMMARY
+================================================================================
+
+For the RAG model to understand relationships between students:
+
+Team Identity: "Science Project Team" / "Developer Team"
+Lead Presenter: Sangam Gautam
+Hardware Lead: Pravesh Yadav
+Construction Lead: Prashant Yadav
+Team Members: Sikendra Mahaseth, Aawaran Bist, Avinash Shah.
+
+Collaborative Effort:
+The project was a joint effort where Sangam Gautam handled the Software/AI aspect, while Pravesh, Prashant, Sikendra, Aawaran, and Avinash managed the Physical Construction and Hardware resources.
+
+================================================================================
+SECTION 4: KEYWORDS FOR SEMANTIC SEARCH
+================================================================================
+Sangam Gautam AI Lead, Pravesh Yadav Hardware, Prashant Yadav Construction, Er. Ganesh Sapkota AI Data Collection, Er. Kamal Tamrakar Science Project Helper, Grade 9 Section C Developers, Adarsha Chatbot Team.
+```
+================================================================================
+ADARSHA SECONDARY SCHOOL - KNOWLEDGE BASE MODULE
+PROJECT: RENEWABLE ENERGY ECO-SYSTEM & AI ASSISTANT
+================================================================================
+
+[METADATA]
+Project Name: Optimum Use of Renewable Energy-Based Eco-Industrial and Environmental Management System for Nepal
+Event: School Science Exhibition 2080/2081 B.S.
+Institution: Adarsha Secondary School, Sanothimi, Bhaktapur
+Document Type: Full Project Explanation & Team Roster
+
+================================================================================
+1. PROJECT OVERVIEW & CONCEPT
+================================================================================
+The project addresses Nepal's dual challenges of energy scarcity and industrial pollution. It proposes a "Self-Sustaining Eco-Industrial Zone" model where industries operate entirely on clean, renewable energy generated within the same facility.
+
+Core Philosophy: Economic growth should not come at the cost of environmental degradation.
+Key Innovation: A Hybrid Energy System (Hydro + Solar + Wind) integrated with agricultural reuse of water.
+
+================================================================================
+2. THE DEVELOPER TEAM (STUDENT ROLES)
+================================================================================
+The project was designed, constructed, and presented by a specialized team of students from Grades 9 and 10.
+
+2.1 LEADERSHIP & SOFTWARE
+-------------------------
+Name: Sangam Gautam
+- Grade: 9 | Section: C | Roll No: 2
+- Role: Lead AI Developer & Project Presentator
+- Distinction: Described as the "Brilliant Mind Behind Chatbot." He developed the AI assistant that accompanied the physical model and served as the primary spokesperson during the exhibition.
+
+2.2 HARDWARE & CONSTRUCTION LEADERSHIP
+--------------------------------------
+Name: Pravesh Yadav
+- Grade: 10 | Section: A | Roll No: 23
+- Role: Hardware Resource Manager
+- Distinction: Described as a "Brilliant extraordinary person known for hardware resource management." He oversaw the electronic and mechanical components of the physical model.
+
+Name: Prashant Yadav
+- Grade: 9 | Section: C | Roll No: 14
+- Role: Construction Specialist
+- Distinction: Known for "brilliant and extraordinary construction skills." He led the structural build of the project.
+
+2.3 PHYSICAL CONSTRUCTION TEAM MEMBERS
+--------------------------------------
+The following students worked on building the physical prototype and layout:
+1. Sikendra Mahaseth (Grade 9, Section C, Roll No: 15)
+2. Aawaran Bist (Grade 9, Section C, Roll No: 22)
+3. Avinash Shah (Grade 9, Section C, Roll No: 24)
+
+================================================================================
+3. FACULTY MENTORSHIP & CONTRIBUTIONS
+================================================================================
+The student team was supported by technical faculty members who provided mentorship and infrastructure support.
+
+1. Er. Kamal Tamrakar
+   - Role: Technical Instructor
+   - Specific Contribution: Contributed in Science Project and helped in AI Data Collection.
+   - Details: Assisted with project logistics and verified the accuracy of data fed into the AI system.
+
+2. Er. Ganesh Sapkota
+   - Role: Technical Instructor
+   - Specific Contribution: Contributed in Science Project and helped in AI Data Collection.
+   - Details: Provided guidance on hardware systems and assisted in gathering necessary institutional data for the AI.
+
+================================================================================
+4. DETAILED TECHNICAL ARCHITECTURE (THE 4 ZONES)
+================================================================================
+The project model is divided into four functional zones:
+
+ZONE A: RENEWABLE ENERGY GENERATION ZONE
+----------------------------------------
+Purpose: To generate continuous, clean electricity.
+Mechanism: Hybrid Energy System.
+1. Hydropower (Base Load):
+   - Uses flowing water to spin turbines.
+   - Critical Feature: The water discharged from the turbine is NOT wasted; it is redirected to the Environmental Zone for fish farming.
+2. Solar Energy (Peak Load):
+   - Solar panels harvest sunlight during the day to meet high industrial demand.
+3. Wind Energy (Supportive Load):
+   - Wind turbines provide backup power during cloudy days or nighttime.
+
+ZONE B: POWER TRANSMISSION & CONTROL ZONE
+-----------------------------------------
+Purpose: Safety and Efficiency.
+Function: A centralized control station regulates the voltage from the hybrid sources. It ensures stable electricity is transmitted to the factory machinery and minimizes transmission losses.
+
+ZONE C: INDUSTRIAL UTILIZATION ZONE
+-----------------------------------
+Purpose: Green Manufacturing.
+Function:
+- Industries in this zone operate without fossil fuels (no coal or diesel).
+- All machinery is 100% electrically powered.
+- Result: Near-zero carbon emissions from industrial operations.
+
+ZONE D: ENVIRONMENTAL CONSERVATION ZONE
+---------------------------------------
+Purpose: Ecological Balance.
+Features:
+1. Green Belt: A forest area planted around the industry to absorb CO2, release Oxygen, and act as a noise barrier.
+2. Fish Farming (Aquaculture): Utilizes the water discharged from the hydropower system. This demonstrates "Resource Efficiency"—using the same water for both energy and food.
+3. Air Purification: Advanced filtration systems (scrubbers) clean any residual exhaust before it is released.
+
+================================================================================
+5. APPLICATIONS & SIGNIFICANCE
+================================================================================
+Why is this project important for Nepal?
+1. Energy Security: Reduces dependency on imported petroleum products by using local renewable resources.
+2. Smart City Planning: Serves as a blueprint for future eco-friendly urban development.
+3. Industrial Corridors: Can be applied to industrial areas (like Birgunj) to reduce pollution.
+4. Agriculture Integration: Shows how energy generation can support agriculture (fisheries) rather than destroying it.
