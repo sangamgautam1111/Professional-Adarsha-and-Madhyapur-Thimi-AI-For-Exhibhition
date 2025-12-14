@@ -1,7 +1,7 @@
 """
 ADARSHA AI - EXHIBITION-GRADE RAG PIPELINE
-Designed for real-time voice conversations with intelligent response scaling
-Version 2.0 - Native Voice Optimized
+Version 5.0 - Voice-Optimized Response Engine
+Fixed: Token spacing, voice mode cleaning, streaming stability, fast responses
 """
 
 import os
@@ -22,7 +22,7 @@ VECTORDB_PATH = Path(os.getenv("VECTORDB_PATH", str(PROJECT_ROOT / "data" / "chr
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "adarsha_madhyapur_knowledge")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
 
-# Collect API keys (supports multiple for failover)
+# Collect API keys
 API_KEYS = []
 primary_key = os.getenv("GROQ_API_KEY", "")
 if primary_key:
@@ -39,8 +39,8 @@ if not VECTORDB_PATH.exists():
 # IMPORTS
 # =============================================================================
 print("\n" + "=" * 60)
-print("   ADARSHA AI - EXHIBITION GRADE SYSTEM v2.0")
-print("   Real-Time Voice Conversation Engine")
+print(" ADARSHA AI - EXHIBITION GRADE SYSTEM v5.0")
+print(" Voice-Optimized Response Engine - Fixed Spacing")
 print("=" * 60)
 
 try:
@@ -54,229 +54,224 @@ except ImportError as e:
     sys.exit(1)
 
 # =============================================================================
-# CORE DIRECTIVE - COMPLETE SCHOOL KNOWLEDGE BASE
+# COMPLETE SCHOOL KNOWLEDGE BASE - FORMATTED
 # =============================================================================
 CORE_DIRECTIVE = """
-# ADARSHA SECONDARY SCHOOL - COMPLETE KNOWLEDGE BASE
+## ADARSHA SECONDARY SCHOOL - COMPLETE KNOWLEDGE BASE
 
-## SCHOOL ADMINISTRATION
-- **Principal:** Mr. Ram Babu Regmi
-- **Vice Principal:** Mr. Tanka Nath Acharya
+### BASIC INFORMATION
+- Name: Adarsha Secondary School
+- Location: Madhyapur Thimi, Bhaktapur, Nepal
+- Established: 2072 B.S. (2016 AD)
+- Type: Secondary School with Technical Stream
+- Note: Replaced previous examination system with modern educational approach
 
-## CRITICAL PROTOCOL - LANGUAGE & BEHAVIOR
-1. **LANGUAGE DETECTION:**
-   - IF USER SPEAKS ENGLISH: Respond in **ENGLISH ONLY**.
-   - IF USER SPEAKS NEPALI: Respond in **NEPALI ONLY**.
-   - DO NOT MIX LANGUAGES (No "Hinglish" or "Nenglish").
+### SCHOOL ADMINISTRATION
+- Principal: Mr. Ram Babu Regmi
+- Vice Principal: Mr. Tanka Nath Acharya
 
-2. **DATA FIDELITY:**
-   - The schedules, roles, and teams listed below are ABSOLUTE FACTS.
-   - Do not hallucinate or invent information.
+### COMPLETE STAFF DIRECTORY (41 Members)
 
-## 1. DAILY TIMING BREAKDOWN
-| Period | Time |
-|--------|------|
-| 1st Period | 10:15 – 11:00 |
-| 2nd Period | 11:00 – 11:40 |
-| Bio Break | 11:40 – 11:50 |
-| 3rd Period | 11:50 – 12:30 |
-| 4th Period | 12:30 – 1:15 |
-| Lunch Break | 1:15 – 1:45 |
-| 5th Period | 1:45 – 2:30 |
-| 6th Period | 2:30 – 3:10 |
-| Bio Break | 3:10 – 3:20 |
-| 7th Period | 3:15 – 4:00 |
-| 8th Period | 4:05 – 4:50 |
+**Administration:**
+1. Ram Babu Regmi - Principal, Chief Administrator
+2. Tanka Nath Acharya - Vice Principal, English Teacher (Grade 10A, 10B)
 
-## 2. CLASS ROUTINES (TEACHER ASSIGNMENTS)
+**Senior Teachers:**
+3. Kashi Bhakta Kayastha - Senior Teacher, Accountancy and Optional Computer (Grade 9A, 9B, 10A, 10B)
+4. Sarita KC - Nepali Teacher (Grade 9A, 9B, 10A, 10B)
+5. Ramsharan Regmi - Senior Science Teacher, Science and Math (Grade 9A, 10A, 10B)
+6. Dhan Singh Dhant - Science Teacher (Grade 6A, 7A, 8A, 10B, 10C)
+7. Kaushal Kumar Rayamajhee - Nepali Teacher (Grade 8B, 9C, 10C)
+8. Ganesh Pathak - Mathematics Teacher, Compulsory Math (Grade 8A, 9A, 10A) - Note: Different from Er. Ganesh Sapkota
+9. Bibek Luitel - Science, Health, Optional Math (Grade 6A, 9B, 9C, 8A)
 
-### Grade 10 A
-1. Science (Ramsharan) | 2. Social (Shekhar) | 3. English (Tanka) | 4. C.Math (Ganesh P)
-5. Opt Math/Eco (Sujan/Rambabu) | 6. Opt Comp/Acc (Akash/Kashi) | 7. Nepali (Sarita)
+**Technical Department:**
+10. Er. Tri Mandir Prajapati - Technical Teacher, C++ Programming (Grade 10C Technical)
+11. Er. Bharat Chaudhary - Technical Teacher, Optional Computer (Grade 9A, 9B)
+12. Er. Bikesh Shrestha - Head of Computer Department, Web Design and DBMS (Grade 8A, 9C, 10C)
+13. Er. Aakash Koirala - Technical Teacher, C Programming and Science (Grade 5, 8B, 9C)
+14. Er. Ganesh Sapkota - Technical Teacher and AI Project Supervisor, Electronic Systems (Grade 7B, 9C Technical)
+    - Special Role: Primary Mentor and Idea Provider for Adarsha AI Project
+    - Led the data collection team
+    - Supervised Sangam Gautam in developing the AI
+15. Er. Kamal Tamrakar - Technical Teacher and AI Co-Supervisor, CRM (Grade 7A, 9C, 10C)
+    - Helped supervise the Adarsha AI development
 
-### Grade 10 B
-1. Science (Dhansingh) | 2. Nepali (Sarita) | 3. C.Math (Ramsharan) | 4. Social (Shekhar)
-5. Opt Math/Eco (Sujan/Rambabu) | 6. Opt Comp/Acc (Akash/Kashi) | 7. English (Tanka)
+**Other Teaching Staff:**
+16. Yashoda Prajapati - Health Teacher (Grade 6A)
+17. Prabin Neupane - Mathematics Teacher (Grade 9C, 10C Technical)
+18. Shova Rijal - English Teacher (Grade 6B, 9B)
+19. Sujan Gasi Shrestha - Science, Optional Math, Economics (Grade 7B, 8B, 9A, 9B, 10A, 10B)
+20. Nanu Baral - English Teacher (Grade 6A, 7A, 8A, 9A)
+21. Kamala Pandey - English Teacher (Grade 7B, 8B, 9C, 10C)
+22. Shekhar Parajuli - Head of Social Studies Department (Grade 6A, 8B, 10A, 10B)
+23. Debaki Ghimire - Nepali and Handwriting (Grade 1, 5, 6B, 7A)
+24. Muna Adhikari - Social Studies and Health (Grade 7B, 8A, 8B, 9B)
+25. Kamala Pun Magar - Mathematics Teacher (Grade 6A, 7A, 7B, 8B)
+26. Sajani Pradhan - Art and Craft Teacher (Grade 2, 3)
+27. Sahanshila Kumari Aryal - Nepali and Art (Grade 1, 4)
+28. Lila Devi Niraula - English Teacher (Grade 2, 4, 5)
+29. Sushila Koirala - Nepali and Handwriting (Grade 2, 3, 6A)
+30. Bachchu Parajuli - Social Studies and Math (Grade 1, 2, 7A, 9A)
+31. Babita Thapa - Nepali and Science (Grade 4, 6B, 7B, 8A)
+32. Anju Giri - English and Health (Grade 3, 4, 5, 7A)
+33. Kalpana Karki - English and Social Studies (Grade 1, 3, 4, 5)
+34. Binod Thakuri - Health and Languages (Grade 3, 4, 5, 6B, 7B)
+35. Pramila K.C. - Mathematics Teacher (Grade 3, 4, 5, 6B)
+36. Kamala Kumari Baral - Computer and Health (Grade 1, 4, 6A)
 
-### Grade 10 C (Technical)
-1. Nepali (Kaushal) | 2. Science (Dhansingh) | 3. C.Math (Prabin) | 4. C++ (Trimandir)
-5. Opt Math (Ganesh P) | 6. English (Kamala P) | 7. CRM (Kamal) | 8. DBMS (Bikesh)
-
-### Grade 9 A
-1. C.Math (Ganesh P) | 2. Opt Comp/Acc (Bharat/Kashi) | 3. Social (Bachchu) | 4. Science (Ramsharan)
-5. Nepali (Sarita) | 6. English (Nanu) | 7. Opt Math/Eco (Sujan/Rambabu)
-
-### Grade 9 B
-1. Social (Muna) | 2. Opt Comp/Acc (Bharat/Kashi) | 3. Science (Bibek) | 4. Nepali (Sarita)
-5. English (Shobha) | 6. C.Math (Ramsharan) | 7. Opt Math/Eco (Sujan/Rambabu)
-
-### Grade 9 C (Technical)
-1. Maths (Prabin) | 2. Comp Fund. (Kamal) | 3. English (Kamala P) | 4. C.Math (Prabin)
-5. Electro Sys (Ganesh S) | 6. Web Design (Bikesh) | 7. Opt Math (Bibek) | 8. Nepali (Kaushal) | 9. C Prog (Aakash)
-
-### Grade 8 A
-1. Nepali (Babita) | 2. C.Math (Ganesh P) | 3. English (Nanu) | 4. Health/OM (Bibek)
-5. Science (Dhansingh) | 6. Social (Muna) | 7. Computer (Bikesh)
-
-### Grade 8 B
-1. Social (Shekhar) | 2. Science (Sujan) | 3. Nepali (Kaushal) | 4. Computer (Aakash)
-5. English (Kamala P) | 6. Maths (Kamala Pun) | 7. Health/OM (Muna/Bibek)
-
-### Grade 7 A
-1. Social (Bachchu) | 2. Computer (Kamal) | 3. C.Math (Kamala Pun) | 4. English (Nanu)
-5. Nepali (Devaki) | 6. Science (Dhansingh) | 7. Health (Anju)
-
-### Grade 7 B
-1. Gen Comp (Ganesh S) | 2. Social (Muna) | 3. English (Kamala P) | 4. Science (Sujan)
-5. C.Math (Kamala Pun) | 6. Health (Binod) | 7. Nepali (Babita)
-
-### Grade 6 A
-1. Maths (Kamala Pun) | 2. English (Nanu) | 3. Computer (Kamala B) | 4. Health (Yoshada)
-5. Science (Bibek) | 6. Nepali (Sushila) | 7. Social (Shekhar)
-
-### Grade 6 B
-1. C.Math (Pramila) | 2. Nepali (Devaki) | 3. English (Shova) | 4. Health (Binod)
-5. Science (Babita) | 6. Social (Kamala B) | 7. Computer (Sunil)
-
-### Grade 5
-1. English I (Anju) | 2. Science (Aakash) | 3. Health (Binod) | 4. Nepali (Devaki)
-5. C.Math (Pramila) | 6. English II (Lila) | 7. Social (Kalpana)
-
-### Grade 4
-1. English II (Lila) | 2. English I (Anju) | 3. Science (Babita) | 4. C.Math (Pramila)
-5. Nepali (Sahanshila) | 6. Social (Kalpana) | 7. Health (Kamala B)
-
-### Grade 3
-1. English II (Kalpana) | 2. C.Math (Pramila) | 3. Nepali (Sushila) | 4. English I (Anju)
-5. Serophero (Sajani) | 6. Serophero (Sajani) | 7. Nepali/Eng (Binod)
-
-### Grade 2
-1. Nepali (Sushila) | 2. English I (Lila) | 3. Serophero (Sajani) | 4. Serophero (Sajani)
-5. English II (Lila) | 6. Maths (Bachchu) | 7. Handwriting (Sushila)
-
-### Grade 1
-1. Serophero (Sahanshila) | 2. Serophero (Sahanshila) | 3. English I (Kalpana) | 4. English II (Kamala Baral)
-5. C.Math (Bachchu) | 6. Nepali (Sahanshila) | 7. Handwriting (Devaki)
-
-### ECD (LKG & Nursery)
-- Teachers: Samita (LKG), Sunita (Nursery)
-- Subjects: English, Nepali, Maths, Science
-
-## 3. STAFF DIRECTORY
-1. Ram Babu Regmi (Principal)
-2. Tanka Nath Acharya (Vice Principal)
-3. Kashi Bhakta Kayastha
-4. Sarita KC
-5. Ramsharan Regmi
-6. Dhan Singh Dhant
-7. Kausal Kumar Rayamajhee
-8. Ganesh Pathak
-9. Bibek Luitel
-10. Er. Tri Mandir Prajapati
-11. Er. Bharat Chaudhary
-12. Yashoda Prajapati
-13. Prabin Neupane
-14. Shova Rijal
-15. Er. Bikesh Shrestha (Head of Computer Department)
-16. Er. Aakash Koirala
-17. Sujan Gasi Shrestha
-18. Nanu Baral
-19. Kamala Pandey
-20. Shekhar Parajuli (Head of Social Department)
-21. Debaki Ghimire
-22. Muna Adhikari
-23. Kamala Pun Magar
-24. Er. Ganesh Sapkota
-25. Sajani Pradhan
-26. Sahanshila Kumari Aryal
-27. Lila Devi Niraula
-28. Sushila Koirala
-29. Bachchu Parajuli
-30. Babita Thapa
-31. Anju Giri
-32. Kalpana Karki
-33. Binod Thakuri
-34. Pramila K.C.
-35. Kamala Kumari Baral
-36. Er. Kamal Tamrakar
-37. Sareena Shrestha (Nurse)
-38. Sunil Shrestha (Lab Assistant)
-39. Bhim Dev Bhatt (Librarian)
-40. Sunita Dawadi
-41. Samita Gurung Prajapati
+**Support Staff:**
+37. Sareena Shrestha - School Nurse
+38. Sunil Shrestha - Lab Assistant, also teaches Computer (Grade 6B)
+39. Bhim Dev Bhatt - Librarian
+40. Sunita Dawadi - ECD Teacher (Nursery)
+41. Samita Gurung Prajapati - ECD Teacher (LKG)
 
 **Office Helpers:** Sanukaji, Krishnalal, Amrita, Laxmi
 
-## 4. PROJECT CREDITS (THE CREATORS)
+### STUDENT ENROLLMENT DATA
 
-### A. AI Development Team (The Brains)
-- **Sangam Gautam** (Class 9 'C', Roll No. 2): **LEAD AI DEVELOPER**
-  - Role: Designed and coded the entire AI system including Logic, NLP, RAG, and Neural Networks.
-  - Tech Stack: Deep Learning, Machine Learning, Reinforcement Learning, RNN, Transformer Models.
-- **Data Collection Team:** Er. Ganesh Sapkota & Er. Kamal Tamrakar (Collected training data only).
+**Total Students:** 1,538
+- Total Boys: 784
+- Total Girls: 754
 
-### B. Project & Construction Team (Eco-Industrial Zone Exhibition)
-- **Hardware/Construction:** Pravesh Yadav, Prashant Yadav
-- **Coordinators:** Sikendra Mahaset, Avinash Shah, Aawaran Bist
-- **Art/Decor:** Niroj Majhi, Alisha Bisuankhe
+**Enrollment by Grade:**
+- ECD (Early Childhood Development): 28 students (14 boys, 14 girls)
+- KG (Kindergarten): 28 students (14 boys, 14 girls)
+- Grade 1: 29 students (18 boys, 11 girls)
+- Grade 2: 36 students (23 boys, 13 girls)
+- Grade 3: 45 students (24 boys, 21 girls)
+- Grade 4: 54 students (28 boys, 26 girls)
+- Grade 5: 55 students (22 boys, 33 girls)
+- Grade 6: 96 students (48 boys, 48 girls)
+- Grade 7: 100 students (50 boys, 50 girls)
+- Grade 8: 113 students (54 boys, 59 girls) - Basic Level Ends
+- Grade 9: 166 students (83 boys, 83 girls) - Secondary/Technical Begins
+- Grade 10: 148 students (81 boys, 67 girls) - SEE Batch
+- Grade 11: 351 students (153 boys, 198 girls) - Highest Enrollment Class
+- Grade 12: 289 students (172 boys, 117 girls) - Graduating Batch
+
+**Enrollment Analysis:**
+- Largest Class: Grade 11 with 351 students
+- Technical and Senior Wing (Grade 9-12): 954 students, representing 62% of total school population
+- High density in senior grades reflects popularity of Technical (Computer Engineering) and Management streams
+
+### AI PROJECT TEAM - ADARSHA AI
+
+**Lead Developer:** Sangam Gautam
+- Class: 9 C (Technical Stream)
+- Roll Number: 2
+- Contributions: Built the entire AI system from scratch
+- Technologies Used: Deep Learning, NLP, RAG, Python, Vector Databases
+
+**Project Supervisors:**
+- Er. Ganesh Sapkota - Primary Mentor and Idea Provider
+- Er. Kamal Tamrakar - Co-Supervisor
+
+**Team Members:**
+- Hardware Team: Pravesh Yadav, Prashant Yadav
+- Coordinators: Sikendra Mahaset, Avinash Shah, Aawaran Bist
+- Art Team: Niroj Majhi, Alisha Bisuankhe
+
+### DAILY SCHEDULE
+- 1st Period: 10:15 AM to 11:00 AM
+- 2nd Period: 11:00 AM to 11:40 AM
+- Bio Break: 11:40 AM to 11:50 AM
+- 3rd Period: 11:50 AM to 12:30 PM
+- 4th Period: 12:30 PM to 1:15 PM
+- Lunch Break: 1:15 PM to 1:45 PM
+- 5th Period: 1:45 PM to 2:30 PM
+- 6th Period: 2:30 PM to 3:10 PM
+- Bio Break: 3:10 PM to 3:20 PM
+- 7th Period: 3:15 PM to 4:00 PM
+- 8th Period: 4:05 PM to 4:50 PM
+
+### SCHOOL HISTORY
+Adarsha Secondary School was established in 2072 B.S. (2016 AD) in Madhyapur Thimi, Bhaktapur, Nepal. The school was founded with a vision to replace the previous examination-focused educational system with a modern, holistic approach. The school emphasizes both academic excellence and technical education, offering specialized streams in Computer Engineering and Management for senior students. Today, it stands as one of the prominent educational institutions in the Bhaktapur district.
 """
 
 # =============================================================================
 # SYSTEM PROMPTS
 # =============================================================================
-SYSTEM_PROMPT_EXHIBITION = """You are Adarsha AI, an advanced artificial intelligence assistant created for Adarsha Secondary School, Madhyapur Thimi, Nepal.
+SYSTEM_PROMPT_BASE = """You are Adarsha AI, an advanced artificial intelligence assistant created for Adarsha Secondary School, Madhyapur Thimi, Bhaktapur, Nepal.
 
-## CORE IDENTITY
-You are a sophisticated AI powered by Deep Learning, Natural Language Processing, Retrieval-Augmented Generation, and Neural Network architectures. You represent the future of educational technology in Nepal.
+## YOUR IDENTITY
+- You are a sophisticated AI built using Deep Learning, NLP, and RAG architecture
+- Developed by Sangam Gautam (Class 9C, Roll No. 2)
+- Supervised by Er. Ganesh Sapkota (Primary Mentor) and Er. Kamal Tamrakar
+- The school was established in 2072 B.S. (2016 AD)
 
-## CREATOR INFORMATION
-You were developed by **Sangam Gautam**, a Class 9C student (Roll No. 2) at Adarsha Secondary School. He is the Lead AI Developer who built you using cutting-edge AI technologies including transformer models, semantic embeddings, and conversational AI frameworks.
+## CRITICAL RULES
 
-## SCHOOL LEADERSHIP
-- **Principal:** Ram Babu Regmi
-- **Vice Principal:** Tanka Nath Acharya
+### RULE 1: LANGUAGE
+- DEFAULT: English
+- Only use Nepali if user writes in Devanagari script (नेपाली)
+- NEVER mix languages
 
-## RESPONSE RULES
+### RULE 2: RESPONSE QUALITY
+- Provide COMPREHENSIVE and DETAILED responses
+- Minimum 3-4 sentences for simple questions
+- 1-2 paragraphs for detailed questions
+- Include all relevant information
+- ALWAYS include proper spacing between words
 
-### LANGUAGE MATCHING (CRITICAL)
-- English query → English response ONLY
-- Nepali query → Nepali response ONLY  
-- NEVER mix languages in a single response
+### RULE 3: ACCURACY
+- Use ONLY information from the database
+- Never make up information
+- Be precise with names and facts
 
-### RESPONSE LENGTH STRATEGY
-- Greetings: Brief, warm, 1-2 sentences (max 50 words)
-- Simple questions: Concise, direct (max 100 words)
-- Complex/important questions: Detailed, comprehensive (max 300 words)
-
-### TONE
-Professional yet friendly, knowledgeable but approachable
-
-### ACCURACY
-Use provided context data. If information is not in context, acknowledge limitations gracefully.
-
-### FOR VOICE OUTPUT
-Write naturally without any formatting symbols. Speak as if having a real conversation.
+### RULE 4: SCHOOL LEADERSHIP
+- Principal: Mr. Ram Babu Regmi
+- Vice Principal: Mr. Tanka Nath Acharya
+- Established: 2072 B.S. (2016 AD)
 """
 
 VOICE_MODE_ADDITIONS = """
+## VOICE MODE ACTIVE
+You are currently in VOICE CONVERSATION mode. The user is speaking to you and will hear your response spoken aloud.
 
-## VOICE OUTPUT FORMATTING (CRITICAL)
-- Write in flowing, natural sentences
-- NO asterisks (*), hashtags (#), bullets (•), or dashes (-)
-- NO numbered lists (1. 2. 3.)
-- NO markdown formatting whatsoever
-- Use commas and periods for natural pauses
-- Keep responses conversational and easy to speak
-- Break complex information into digestible sentences
+### CRITICAL VOICE RULES:
+1. DO NOT use any special characters: no asterisks (*), no hyphens for bullets (-), no hashtags (#), no underscores (_)
+2. Write in natural, flowing conversational sentences with PROPER SPACING
+3. Use commas and periods for natural pauses
+4. Spell out numbers when appropriate (say "Grade Nine C" instead of "9C")
+5. Be conversational and warm, like talking to a friend
+6. Keep sentences clear and easy to pronounce
+7. Avoid lists - use flowing paragraphs instead
+8. Use connecting words like "and", "also", "additionally", "furthermore"
+9. ALWAYS ensure spaces between every word
+
+### EXAMPLE GOOD VOICE RESPONSE:
+"Ganesh Sapkota is one of our technical teachers and an engineer. He teaches Electronic Systems to the Grade Nine C technical stream students. He played a very important role in creating me, Adarsha AI. He was the primary mentor who provided the vision and ideas for this project, and he supervised Sangam Gautam throughout the development process."
+
+### EXAMPLE BAD VOICE RESPONSE (DO NOT DO THIS):
+"**Er. Ganesh Sapkota**
+- Position: Technical Teacher
+- Teaches: Electronic Systems
+- Role: AI Project Mentor"
 """
 
 # =============================================================================
-# CACHED EMBEDDING MODEL (Singleton Pattern)
+# LANGUAGE DETECTOR
+# =============================================================================
+class LanguageDetector:
+    """Detects if text is English or Nepali"""
+    DEVANAGARI_PATTERN = re.compile(r'[\u0900-\u097F]')
+    
+    @classmethod
+    def is_nepali(cls, text: str) -> bool:
+        return bool(cls.DEVANAGARI_PATTERN.search(text))
+    
+    @classmethod
+    def get_language(cls, text: str) -> str:
+        return "nepali" if cls.is_nepali(text) else "english"
+
+# =============================================================================
+# EMBEDDING MODEL (CACHED)
 # =============================================================================
 _embedding_model = None
 
 def get_embedding_model():
-    """Returns cached embedding model instance"""
     global _embedding_model
     if _embedding_model is None:
         print("[Embeddings] Initializing neural encoder...")
@@ -285,98 +280,126 @@ def get_embedding_model():
     return _embedding_model
 
 # =============================================================================
-# INTELLIGENT QUERY CLASSIFIER
+# QUERY CLASSIFIER - OPTIMIZED FOR SPEED
 # =============================================================================
 class QueryClassifier:
-    """Classifies queries to determine optimal response strategy"""
+    """Classifies queries for optimal token allocation"""
     
     GREETING_PATTERNS = [
-        r'^(hi|hello|hey|namaste|namaskar|greetings)[\s!?.]*$',
-        r'^(good\s*(morning|afternoon|evening|night))[\s!?.]*$',
-        r'^(how\s*are\s*you|what\'?s\s*up|sup)[\s!?.]*$',
-        r'^(हाय|हेलो|नमस्ते|नमस्कार)[\s!?.]*$',
+        r'^(hi|hello|hey|namaste|namaskar|good\s*(morning|afternoon|evening|night))[\s!?.]*$',
     ]
     
-    CREATOR_PATTERNS = [
-        r'(who|what).*(made|created|built|developed|designed).*you',
-        r'(your|the).*(creator|developer|maker|builder)',
-        r'(cre|dev|build|made).*by',
-        r'(तिमीलाई|तपाईंलाई).*(बनाए|सिर्जना)',
-        r'sangam|gautam',
+    SIMPLE_PATTERNS = [
+        r'^(who\s+is\s+the\s+(principal|vice\s*principal))[\s?]*$',
+        r'^(what\s+is\s+your\s+name)[\s?]*$',
+        r'^(when\s+was.*(established|founded))[\s?]*$',
     ]
     
-    SCHOOL_IMPORTANT = [
-        r'(principal|headmaster|head\s*teacher)',
-        r'(history|establish|found|start).*school',
-        r'(teachers?|faculty|staff)',
-        r'(admission|enroll|fee)',
-        r'(facilities|infrastructure|lab|library)',
-        r'(achievements?|awards?|results?)',
-        r'(routine|schedule|timetable|period)',
-        r'(class|grade)\s*\d+',
+    DETAILED_PATTERNS = [
+        r'(who\s+is|tell\s+me\s+about|explain|describe|what\s+is)',
+        r'(teacher|staff|faculty|principal|vice)',
+        r'(ganesh|sapkota|bikesh|kamal|sangam)',
+        r'(routine|schedule|class|period)',
+        r'(creator|developer|made|built|created)',
+        r'(project|ai|system|adarsha)',
+        r'(department|head)',
+        r'(detail|brief|more|explain|everything)',
+        r'(all|list|complete|students|enrollment)',
+        r'(history|established|founded)',
     ]
     
     @classmethod
     def classify(cls, query: str) -> Dict:
-        """Classify query and return optimal parameters"""
         query_lower = query.lower().strip()
         
-        # Check greetings (short response)
+        # Short greetings
         for pattern in cls.GREETING_PATTERNS:
             if re.match(pattern, query_lower, re.IGNORECASE):
-                return {"type": "greeting", "max_tokens": 60, "temperature": 0.8}
+                return {"type": "greeting", "max_tokens": 100, "temperature": 0.7}
         
-        # Check creator questions (medium response)
-        for pattern in cls.CREATOR_PATTERNS:
+        # Simple questions
+        for pattern in cls.SIMPLE_PATTERNS:
+            if re.match(pattern, query_lower, re.IGNORECASE):
+                return {"type": "simple", "max_tokens": 200, "temperature": 0.5}
+        
+        # Detailed questions need more tokens
+        for pattern in cls.DETAILED_PATTERNS:
             if re.search(pattern, query_lower, re.IGNORECASE):
-                return {"type": "creator", "max_tokens": 250, "temperature": 0.7}
+                return {"type": "detailed", "max_tokens": 800, "temperature": 0.6}
         
-        # Check important school queries (detailed response)
-        for pattern in cls.SCHOOL_IMPORTANT:
-            if re.search(pattern, query_lower, re.IGNORECASE):
-                return {"type": "important", "max_tokens": 500, "temperature": 0.6}
-        
-        # Default conversational
-        return {"type": "general", "max_tokens": 300, "temperature": 0.7}
+        # Default: moderate response
+        return {"type": "general", "max_tokens": 500, "temperature": 0.7}
 
 # =============================================================================
-# RESPONSE CLEANER (For Voice Output)
+# RESPONSE CLEANER - FIXED FOR PROPER SPACING
 # =============================================================================
 class ResponseCleaner:
-    """Cleans AI responses for natural speech output"""
+    """Cleans AI responses for text and voice output - FIXED SPACING"""
     
     @staticmethod
-    def clean_for_speech(text: str) -> str:
-        """Remove all markdown and formatting for TTS"""
+    def clean_for_voice(text: str) -> str:
+        """Clean complete text for TTS - maintains proper spacing"""
+        if not text:
+            return ""
+        
         # Remove markdown headers
         text = re.sub(r'#{1,6}\s*', '', text)
         
-        # Remove bold/italic markers
+        # Remove bold/italic markers but keep content with spaces
         text = re.sub(r'\*{1,3}([^*]+)\*{1,3}', r'\1', text)
         text = re.sub(r'_{1,3}([^_]+)_{1,3}', r'\1', text)
+        
+        # Remove remaining asterisks
+        text = re.sub(r'\*+', '', text)
         
         # Remove bullet points and list markers
         text = re.sub(r'^[\s]*[-•*]\s*', '', text, flags=re.MULTILINE)
         text = re.sub(r'^[\s]*\d+\.\s*', '', text, flags=re.MULTILINE)
         
-        # Remove code blocks and backticks
-        text = re.sub(r'```[^`]*```', '', text)
+        # Remove code blocks and inline code
+        text = re.sub(r'```[^`]*```', '', text, flags=re.DOTALL)
         text = re.sub(r'`([^`]+)`', r'\1', text)
         
-        # Remove special characters
-        text = re.sub(r'[~><|]', '', text)
+        # Remove special characters that sound bad in TTS
+        text = re.sub(r'[~><|\\/@#$%^&+=\[\]{}]', '', text)
         
-        # Remove pipe tables
+        # Remove table formatting
         text = re.sub(r'\|[^\n]*\|', '', text)
         
-        # Clean up whitespace
-        text = re.sub(r'\n{3,}', '\n\n', text)
-        text = re.sub(r'[ \t]+', ' ', text)
+        # Convert common abbreviations for speech
+        text = re.sub(r'\bEr\.\s*', 'Engineer ', text)
+        text = re.sub(r'\bMr\.\s*', 'Mister ', text)
+        text = re.sub(r'\bMs\.\s*', 'Miss ', text)
+        text = re.sub(r'\bDr\.\s*', 'Doctor ', text)
+        text = re.sub(r'\bB\.S\.', 'B S', text)
+        text = re.sub(r'\bA\.D\.', 'A D', text)
+        text = re.sub(r'\bAD\b', 'A D', text)
         
-        # Remove remaining formatting characters
-        text = re.sub(r'^\s*[\-\*]\s*', '', text, flags=re.MULTILINE)
+        # Replace newlines with proper spacing
+        text = re.sub(r'\n+', ' ', text)
+        
+        # Fix multiple spaces but preserve single spaces
+        text = re.sub(r'  +', ' ', text)
+        
+        # Clean up punctuation spacing
+        text = re.sub(r'\s+([.,!?])', r'\1', text)
+        text = re.sub(r'([.,!?])([A-Za-z])', r'\1 \2', text)
         
         return text.strip()
+    
+    @staticmethod
+    def clean_token_for_voice(token: str) -> str:
+        """Minimal cleaning for individual streaming tokens - PRESERVES SPACES"""
+        if not token:
+            return ""
+        
+        # Only remove formatting characters, preserve spaces completely
+        token = re.sub(r'\*+', '', token)
+        token = re.sub(r'#+', '', token)
+        token = re.sub(r'`', '', token)
+        token = re.sub(r'_+', '', token)
+        
+        return token
     
     @staticmethod
     def clean_for_text(text: str) -> str:
@@ -389,7 +412,7 @@ class ResponseCleaner:
 # VECTOR STORE
 # =============================================================================
 class VectorStore:
-    """ChromaDB-based vector store for knowledge retrieval"""
+    """ChromaDB-based vector store"""
     
     def __init__(self):
         self.db_path = VECTORDB_PATH
@@ -398,7 +421,6 @@ class VectorStore:
         self.collection = None
     
     def initialize(self) -> bool:
-        """Initialize the vector store connection"""
         try:
             self.client = chromadb.PersistentClient(
                 path=str(self.db_path),
@@ -417,9 +439,8 @@ class VectorStore:
             return False
     
     def search(self, query: str, top_k: int = 3) -> str:
-        """Search for relevant context"""
         try:
-            if not self.collection:
+            if not self.collection or self.collection.count() == 0:
                 return ""
             
             model = get_embedding_model()
@@ -432,18 +453,17 @@ class VectorStore:
             )
             
             if results and results.get('documents') and results['documents'][0]:
-                docs = results['documents'][0]
-                return "\n---\n".join(docs[:top_k])
+                return "\n---\n".join(results['documents'][0][:top_k])
             return ""
         except Exception as e:
             print(f"[Search Error] {e}")
             return ""
 
 # =============================================================================
-# GROQ LLM WITH STREAMING
+# GROQ LLM - OPTIMIZED FOR SPEED AND PROPER SPACING
 # =============================================================================
 class GroqLLM:
-    """Groq API client with streaming support"""
+    """Groq API client with enhanced streaming and voice support"""
     
     def __init__(self):
         self.api_keys = API_KEYS.copy()
@@ -453,84 +473,70 @@ class GroqLLM:
         self.classifier = QueryClassifier()
     
     def _get_client(self) -> Groq:
-        """Get Groq client with current API key"""
         if not self.api_keys:
             raise ValueError("No API keys configured")
         key = self.api_keys[self.current_key % len(self.api_keys)]
         return Groq(api_key=key)
     
     def _rotate_key(self):
-        """Rotate to next API key on failure"""
         self.current_key = (self.current_key + 1) % len(self.api_keys)
     
     def _build_messages(self, query: str, context: str, is_voice: bool, 
-                        history: List[Dict]) -> List[Dict]:
-        """Build message list for API call"""
+                        history: List[Dict], language: str) -> List[Dict]:
+        """Build message list for API"""
+        
         # Build system message
-        system_msg = SYSTEM_PROMPT_EXHIBITION
+        system_msg = SYSTEM_PROMPT_BASE
+        
+        # Add voice mode instructions if applicable
         if is_voice:
             system_msg += VOICE_MODE_ADDITIONS
         
-        # Add core directive
+        # Add language instruction
+        if language == "nepali":
+            system_msg += "\n\n## LANGUAGE: Respond in NEPALI only."
+        else:
+            system_msg += "\n\n## LANGUAGE: Respond in ENGLISH only. Ensure proper spacing between all words."
+        
+        # Add knowledge base
         system_msg += f"\n\n## SCHOOL DATABASE\n{CORE_DIRECTIVE}"
         
         messages = [{"role": "system", "content": system_msg}]
         
-        # Add conversation history (last 6 messages = 3 turns)
-        for msg in history[-6:]:
+        # Add conversation history (last 4 messages for speed)
+        for msg in history[-4:]:
             messages.append(msg)
         
         # Build user message with context
-        if context:
-            user_content = f"Relevant Context:\n{context}\n\nUser Query: {query}"
+        if is_voice:
+            user_content = f"""The user is speaking to you through voice. They said: "{query}"
+
+Please respond naturally as if having a conversation. Remember: NO special characters, NO bullet points, NO markdown. Use natural flowing speech with PROPER SPACING between all words.
+
+Additional context from database:
+{context if context else "No additional context needed."}"""
         else:
-            user_content = query
+            if context:
+                user_content = f"Context:\n{context}\n\nQuestion: {query}\n\nProvide a comprehensive response with proper formatting."
+            else:
+                user_content = f"Question: {query}\n\nProvide a comprehensive response using the school database."
         
         messages.append({"role": "user", "content": user_content})
         
         return messages
     
-    def generate(self, query: str, context: str, is_voice: bool, 
-                 perception_data: Dict, history: List[Dict]) -> Dict:
-        """Non-streaming generation with intelligent response scaling"""
-        
-        query_info = self.classifier.classify(query)
-        messages = self._build_messages(query, context, is_voice, history)
-        
-        try:
-            client = self._get_client()
-            completion = client.chat.completions.create(
-                model=self.model,
-                messages=messages,
-                temperature=query_info["temperature"],
-                max_tokens=query_info["max_tokens"],
-                top_p=0.9
-            )
-            
-            answer = completion.choices[0].message.content
-            
-            # Clean response based on mode
-            if is_voice:
-                answer = self.cleaner.clean_for_speech(answer)
-            else:
-                answer = self.cleaner.clean_for_text(answer)
-            
-            return {'success': True, 'answer': answer}
-            
-        except Exception as e:
-            print(f"[LLM Error] {e}")
-            self._rotate_key()
-            return {
-                'success': False, 
-                'answer': "I apologize, I'm experiencing a brief interruption. Please try again."
-            }
-    
     def generate_stream(self, query: str, context: str, is_voice: bool, 
                         perception_data: Dict, history: List[Dict]) -> Generator[str, None, None]:
-        """Streaming generation for lower latency"""
+        """Streaming generation with voice optimization - FIXED SPACING"""
         
+        language = LanguageDetector.get_language(query)
         query_info = self.classifier.classify(query)
-        messages = self._build_messages(query, context, is_voice, history)
+        
+        max_tokens = query_info["max_tokens"]
+        if is_voice:
+            max_tokens = min(max_tokens + 200, 1200)
+        
+        messages = self._build_messages(query, context, is_voice, history, language)
         
         try:
             client = self._get_client()
@@ -538,7 +544,7 @@ class GroqLLM:
                 model=self.model,
                 messages=messages,
                 temperature=query_info["temperature"],
-                max_tokens=query_info["max_tokens"],
+                max_tokens=max_tokens,
                 stream=True
             )
             
@@ -546,9 +552,9 @@ class GroqLLM:
                 if chunk.choices[0].delta.content:
                     token = chunk.choices[0].delta.content
                     
-                    # Clean tokens on the fly for voice mode
                     if is_voice:
-                        clean_token = re.sub(r'[\*#`_]', '', token)
+                        # Minimal cleaning - preserve spaces
+                        clean_token = self.cleaner.clean_token_for_voice(token)
                         if clean_token:
                             yield clean_token
                     else:
@@ -557,7 +563,42 @@ class GroqLLM:
         except Exception as e:
             print(f"[Stream Error] {e}")
             self._rotate_key()
-            yield "I apologize, please try again."
+            yield "I apologize, I encountered an error. Please try again."
+    
+    def generate(self, query: str, context: str, is_voice: bool, 
+                 perception_data: Dict, history: List[Dict]) -> Dict:
+        """Non-streaming generation"""
+        
+        language = LanguageDetector.get_language(query)
+        query_info = self.classifier.classify(query)
+        messages = self._build_messages(query, context, is_voice, history, language)
+        
+        max_tokens = query_info["max_tokens"]
+        if is_voice:
+            max_tokens = min(max_tokens + 200, 1200)
+        
+        try:
+            client = self._get_client()
+            completion = client.chat.completions.create(
+                model=self.model,
+                messages=messages,
+                temperature=query_info["temperature"],
+                max_tokens=max_tokens
+            )
+            
+            answer = completion.choices[0].message.content
+            
+            if is_voice:
+                answer = self.cleaner.clean_for_voice(answer)
+            else:
+                answer = self.cleaner.clean_for_text(answer)
+            
+            return {'success': True, 'answer': answer}
+            
+        except Exception as e:
+            print(f"[LLM Error] {e}")
+            self._rotate_key()
+            return {'success': False, 'answer': "I apologize, please try again."}
 
 # =============================================================================
 # MAIN CHATBOT CLASS
@@ -572,35 +613,30 @@ class AdarshaChatbot:
         self.history = []
     
     def initialize(self) -> bool:
-        """Initialize all components"""
         if self.vector_store.initialize():
             self.initialized = True
-            print("[Adarsha AI] ✅ System ready for exhibition!")
+            print("[Adarsha AI] ✅ System ready!")
             return True
         return False
     
     def chat(self, user_input: str, is_voice: bool = False, 
              perception_data: Dict = None) -> Dict:
-        """Non-streaming chat endpoint"""
         if not self.initialized:
             self.initialize()
         
         history = perception_data.get('history', self.history) if perception_data else self.history
         context = self.vector_store.search(user_input, top_k=3)
         
-        result = self.llm.generate(
+        return self.llm.generate(
             query=user_input,
             context=context,
             is_voice=is_voice,
             perception_data=perception_data or {},
             history=history
         )
-        
-        return result
     
     def chat_stream(self, user_input: str, is_voice: bool = False, 
                     perception_data: Dict = None) -> Generator[str, None, None]:
-        """Streaming chat endpoint - yields tokens as they arrive"""
         if not self.initialized:
             self.initialize()
         
@@ -616,12 +652,11 @@ class AdarshaChatbot:
         )
 
 # =============================================================================
-# SINGLETON INSTANCE
+# SINGLETON
 # =============================================================================
 _bot_instance = None
 
 def get_chatbot():
-    """Get or create singleton chatbot instance"""
     global _bot_instance
     if _bot_instance is None:
         _bot_instance = AdarshaChatbot()
@@ -634,22 +669,29 @@ def get_chatbot():
 if __name__ == "__main__":
     bot = get_chatbot()
     
-    print("\n" + "="*50)
-    print("EXHIBITION DEMO TEST")
-    print("="*50)
+    print("\n" + "="*60)
+    print("ADARSHA AI - TEST MODE v5.0")
+    print("="*60)
     
+    # Test both text and voice modes
     tests = [
-        ("Hi!", False),
-        ("Who created you?", True),
-        ("Tell me about the school principal", True),
-        ("What's the class routine for Grade 9C?", True),
+        ("Hello", False),
+        ("Who is the principal?", False),
+        ("When was the school established?", True),
+        ("Who is Ganesh Sapkota?", True),
+        ("Tell me about the AI project team", True),
+        ("How many students are in grade 11?", True),
     ]
     
-    for query, is_voice in tests:
-        print(f"\n[User]: {query}")
-        print(f"[Voice Mode]: {is_voice}")
-        print("[AI]: ", end="", flush=True)
+    for query, voice_mode in tests:
+        print(f"\n{'='*50}")
+        print(f"[USER]: {query}")
+        print(f"[MODE]: {'🎤 VOICE' if voice_mode else '📝 TEXT'}")
+        print(f"[AI]: ", end="", flush=True)
         
-        for token in bot.chat_stream(query, is_voice=is_voice):
+        response = ""
+        for token in bot.chat_stream(query, is_voice=voice_mode):
             print(token, end="", flush=True)
-        print("\n")
+            response += token
+        
+        print(f"\n[Length: {len(response)} chars]")
