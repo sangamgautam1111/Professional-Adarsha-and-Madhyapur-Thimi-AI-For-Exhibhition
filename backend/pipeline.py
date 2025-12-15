@@ -163,10 +163,68 @@ CORE_DIRECTIVE = """
 - Roll Number: 2
 - Contributions: Built the entire AI system from scratch
 - Technologies Used: Deep Learning, NLP, RAG, Python, Vector Databases
+** Note Only Sangam Gautam coded AI System ** 
 
-**Project Supervisors:**
-- Er. Ganesh Sapkota - Primary Mentor and Idea Provider
-- Er. Kamal Tamrakar - Co-Supervisor
+## Eco Industrial Project
+**Project Overview:**
+** Note Eco Industrial Project is Science Project and You Are Assistant Developed for this project overview on Eco Industrial Project
+** Title : Optimum use of Renewable Energy-Based Eco-Industrial and Environmental Management System for Nepal
+** Introduction :
+   Nepal is a developing country with abundant natural resources such as rivers, sunlight, wind, and forest ecosystems. However, industrial development in Nepal is often limited by energy shortages and environmental concerns. Traditional industries relying on fossil fuels contribute to air pollution, deforestation, and climate imbalance. Therefore, there is a strong need for an integrated and sustainable development model.
+   This project presents a theoretical and conceptual prototype of an Integrated Renewable Energy-Based Eco-Industrial System specially designed for Nepal. The model combines renewable energy generation, clean industrial operation, and environmental conservation practices into a single, sustainable framework. It demonstrates how economic development and environmental protection can coexist.
+** Objectives : The main objectives of this project are:
+    To demonstrate effective use of renewable energy resources available in Nepal
+    To promote clean and sustainable industrial development
+    To reduce environmental pollution caused by industries.
+    To encourage efficient use of water and land resources
+    To provide an eco-friendly development model for future industrial planning in Nepal
+**System Overview :**
+    The proposed system is divided into four major zones:
+    Renewable Energy Generation Zone
+    Power Transmission and Control Zone
+    Industrial Utilization Zone
+    Environmental Conservation Zone
+    All zones are interconnected to form self-sustaining and efficient energy and environmental management system.
+**Major Zones : **
+1. Renewable Energy Generation Zone:
+   This zone includes small hydropower plants, solar panels, and wind turbines to harness Nepal
+    's abundant renewable energy resources. The generated electricity is fed into the power grid for industrial use.
+2. Power Transmission and Control Zone:
+   This zone consists of boost converter and parallel and series combination, and control systems to ensure efficient and reliable power
+    transmission from generation sources to industrial consumers.
+3. Industrial Utilization Zone:
+    This zone houses small-scale industries such as agro-processing, handicrafts, and light manufacturing units that utilize the renewable energy supplied by the generation zone.
+4. Environmental Conservation Zone:
+    This zone focuses on waste management, afforestation, and water conservation practices to minimize the environmental impact of industrial activities.
+    **Our Project Includes :**
+    - Fish Farming 
+    - Air Purification System
+    - Green Belt 
+    for waste management system
+5. **Applications and Benefits:**
+    The proposed Eco-Industrial System offers several benefits:
+    - Sustainable industrial development with minimal environmental impact
+    - Efficient use of Nepal's renewable energy resources
+    - Reduction in air and water pollution
+    - Promotion of eco-friendly industrial practices
+    - A model for future industrial planning in Nepal
+    Applications of this system can be extended to rural industrial development, community-based enterprises, and eco-tourism initiatives.
+6. **Scope and Applications:**
+    The proposed system can be implemented in various regions of Nepal, especially in areas with abundant renewable
+    energy resources. It can serve as a model for rural industrial development, community-based enterprises, and eco-tourism initiatives.
+    The system can also be adapted for educational purposes to raise awareness about sustainable development practices.
+7. **Conclusion:**
+    This project presents a comprehensive and integrated approach to industrial development in Nepal, focusing on renewable energy
+    utilization and environmental conservation. By adopting such eco-industrial models, Nepal can achieve sustainable economic growth while preserving its natural heritage for future generations.
+            
+
+
+**Project Presentatrion Team for Exhibition**
+- Sangam Gautam - Presentator and Lead Developer of Adarsha AI
+- Prashant Yadav - Presentator for Eco Industrial Project And Co - Leader of Eco Industrial Project
+**Project Supervisors for Eco Industrial Project:**
+-  Ganesh Sapkota - Primary Mentor and Idea Provider
+-  Kamal Tamrakar - Co-Supervisor
 
 **Team Members:**
 - Hardware Team: Pravesh Yadav, Prashant Yadav
